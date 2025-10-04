@@ -1,0 +1,50 @@
+**John Doe**  
+[City, State, ZIP Code] | [Phone Number] | [john.doe@email.com] | [linkedin.com/in/johndoe] | [github.com/johndoe]  
+
+---
+
+**Professional Summary**  
+Results-driven DevOps Engineer with 5+ years of experience in designing, implementing, and managing cloud-native infrastructure and CI/CD pipelines. Proficient in automating workflows, optimizing system performance, and ensuring high availability and scalability. Skilled in collaborating with cross-functional teams to deliver robust, secure, and efficient solutions.  
+
+---
+
+**Work Experience**  
+
+**DevOps Engineer**  
+*TechInnovate Solutions, New York, NY*  
+*June 2020 – Present*  
+- Designed and implemented Kubernetes clusters on AWS EKS, improving application deployment efficiency by 40%.  
+- Managed CI/CD pipelines using Jenkins and GitLab CI, reducing deployment time from 4 hours to 20 minutes.  
+- Automated infrastructure provisioning with Terraform, ensuring consistent and scalable environments across multiple regions.  
+- Monitored and optimized system performance using Prometheus and Grafana, achieving 99.9% uptime.  
+- Collaborated with development teams to containerize applications using Docker, enhancing portability and resource utilization.  
+
+**Junior DevOps Engineer**  
+*CloudTech Systems, San Francisco, CA*  
+*January 2018 – May 2020*  
+- Assisted in migrating on-premises infrastructure to AWS, leveraging EC2, S3, and RDS, resulting in a 30% cost reduction.  
+- Implemented and maintained Docker-based microservices architecture, improving scalability and reducing downtime.  
+- Developed and maintained shell scripts for automation of routine tasks, increasing operational efficiency by 25%.  
+- Supported the implementation of a Git-based version control system, streamlining code management and collaboration.  
+
+---
+
+**Technical Skills**  
+- **Containerization**: Docker, Kubernetes (EKS, GKE)  
+- **Cloud Platforms**: AWS (EC2, S3, RDS, Lambda, EKS), Azure (basics)  
+- **Infrastructure as Code (IaC)**: Terraform, Ansible  
+- **CI/CD Tools**: Jenkins, GitLab CI, CircleCI  
+- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack  
+- **Scripting & Programming**: Bash, Python, PowerShell  
+- **Version Control**: Git, GitHub, GitLab  
+
+---
+
+**Education**  
+**Bachelor of Science in Computer Science**  
+*University of California, Berkeley, CA*  
+*Graduated: December 2017*  
+- Relevant Coursework: Cloud Computing, Systems Programming, Software Engineering  
+
+---  
+References available upon request.

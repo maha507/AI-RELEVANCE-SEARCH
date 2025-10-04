@@ -1,0 +1,58 @@
+**Curriculum Vitae**  
+
+**Nome e Cognome**: Marco Rossi  
+**Contatti**:  
+- Email: marco.rossi@email.com  
+- Telefono: +39 333 123 4567  
+- LinkedIn: linkedin.com/in/marcorossi  
+- GitHub: github.com/marcorossi  
+
+---
+
+**Profilo Professionale**  
+Sviluppatore iOS con 2 anni di esperienza nella progettazione e implementazione di applicazioni mobili di alta qualità. Competente nell’utilizzo di Swift, Objective-C e framework come UIKit e SwiftUI. Passione per la creazione di interfacce utente intuitive e ottimizzazione delle prestazioni delle app. Forte capacità di lavorare in team e di gestire progetti in modo autonomo.  
+
+---
+
+**Esperienza Professionale**  
+
+**Sviluppatore iOS**  
+*TechSolutions Srl, Milano*  
+*Gennaio 2022 – Presente*  
+- Progettazione e sviluppo di applicazioni iOS utilizzando Swift e SwiftUI.  
+- Implementazione di funzionalità avanzate con CoreData per la gestione dei dati locali.  
+- Collaborazione con il team di design per creare interfacce utente responsive e accattivanti.  
+- Ottimizzazione delle prestazioni delle app e risoluzione di bug utilizzando Xcode.  
+- Pubblicazione di aggiornamenti regolari sull’App Store, garantendo la compatibilità con le ultime versioni di iOS.  
+
+**Junior iOS Developer**  
+*AppInnovate Srl, Roma*  
+*Giugno 2021 – Dicembre 2021*  
+- Sviluppo di applicazioni iOS con Objective-C e UIKit, seguendo le best practice del settore.  
+- Supporto al team senior nella manutenzione e miglioramento di app esistenti.  
+- Partecipazione a code review e sessioni di debugging per garantire la qualità del codice.  
+- Integrazione di API esterne per estendere le funzionalità delle applicazioni.  
+
+---
+
+**Competenze Tecniche**  
+- **Linguaggi di Programmazione**: Swift, Objective-C  
+- **Framework**: UIKit, SwiftUI  
+- **Gestione Dati**: CoreData  
+- **Ambiente di Sviluppo**: Xcode  
+- **Altri Strumenti**: Git, Firebase, RESTful APIs  
+
+---
+
+**Formazione**  
+**Laurea Triennale in Informatica**  
+*Università degli Studi di Milano, Milano*  
+*2018 – 2021*  
+- Tesi: "Sviluppo di applicazioni mobili: approcci e tecnologie moderne".  
+
+**Corsi e Certificazioni**  
+- Certificazione "Swift Programming" (Udemy, 2020)  
+- Corso "iOS App Development with Swift" (Coursera, 2021)  
+
+---  
+Disponibile per colloqui e ulteriori informazioni.

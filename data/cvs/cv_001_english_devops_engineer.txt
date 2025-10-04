@@ -1,0 +1,56 @@
+**John Doe**  
+[City, State, ZIP Code] | [Phone Number] | [email@example.com] | [linkedin.com/in/johndoe] | [github.com/johndoe]  
+
+---
+
+**Professional Summary**  
+Results-driven DevOps Engineer with 6+ years of experience in designing, implementing, and managing cloud-native infrastructure and CI/CD pipelines. Proven expertise in automating processes, optimizing system performance, and ensuring high availability of mission-critical applications. Skilled in Docker, Kubernetes, AWS, Terraform, and CI/CD tools. Adept at collaborating with cross-functional teams to deliver scalable and secure solutions.
+
+---
+
+**Work Experience**  
+
+**DevOps Engineer**  
+*TechInnovate Solutions, New York, NY*  
+*July 2019 – Present*  
+- Designed and implemented Kubernetes clusters on AWS EKS, reducing deployment times by 40%.  
+- Managed infrastructure as code using Terraform, ensuring consistent and scalable environments.  
+- Built and maintained CI/CD pipelines with Jenkins and GitLab CI, enabling daily releases with zero downtime.  
+- Automated monitoring and alerting using Prometheus and Grafana, improving system reliability by 25%.  
+- Led migration of monolithic applications to microservices architecture, enhancing scalability and fault tolerance.  
+
+**Junior DevOps Engineer**  
+*CloudTech Systems, Boston, MA*  
+*June 2017 – June 2019*  
+- Implemented Docker containerization for legacy applications, reducing resource usage by 30%.  
+- Managed AWS services (EC2, S3, RDS, VPC) to support production environments.  
+- Developed and maintained Ansible playbooks for configuration management and automation.  
+- Collaborated with development teams to troubleshoot and resolve production issues, minimizing downtime.  
+- Introduced automated testing and deployment processes, reducing manual errors by 50%.  
+
+---
+
+**Technical Skills**  
+- **Containerization:** Docker, Kubernetes (EKS, GKE)  
+- **Cloud Platforms:** AWS (Certified Solutions Architect – Associate)  
+- **Infrastructure as Code:** Terraform, Ansible  
+- **CI/CD Tools:** Jenkins, GitLab CI, CircleCI  
+- **Monitoring/Logging:** Prometheus, Grafana, ELK Stack  
+- **Scripting/Programming:** Bash, Python, PowerShell  
+- **Version Control:** Git, GitHub, GitLab  
+
+---
+
+**Education**  
+**Bachelor of Science in Computer Science**  
+*University of Massachusetts, Amherst, MA*  
+*Graduated: May 2017*  
+- Relevant Coursework: Cloud Computing, Systems Programming, Network Security  
+
+---  
+**Certifications**  
+- AWS Certified Solutions Architect – Associate (2020)  
+- Certified Kubernetes Administrator (CKA) – 2021  
+
+---  
+*References available upon request.*

@@ -1,0 +1,51 @@
+**John Doe**  
+📧 john.doe@email.com | 📞 +1 555-123-4567 | 📍 San Francisco, CA | 💼 linkedin.com/in/johndoe | GitHub: github.com/johndoe  
+
+---
+
+**Professional Summary**  
+Results-driven DevOps Engineer with 3+ years of experience in designing, implementing, and managing cloud-native infrastructure and CI/CD pipelines. Proficient in automating workflows, optimizing system performance, and ensuring high availability and scalability. Adept at collaborating with cross-functional teams to deliver robust solutions that align with business objectives.  
+
+---
+
+**Work Experience**  
+
+**DevOps Engineer**  
+*TechInnovate Solutions, San Francisco, CA*  
+*July 2021 – Present*  
+- Designed and deployed scalable infrastructure on AWS using Terraform, reducing deployment time by 40%.  
+- Managed Kubernetes clusters to orchestrate containerized applications, improving resource utilization by 30%.  
+- Implemented CI/CD pipelines using Jenkins and GitLab CI, enabling daily releases with zero downtime.  
+- Monitored and optimized application performance using Prometheus and Grafana, reducing latency by 25%.  
+- Collaborated with development teams to ensure seamless integration of DevOps practices into the SDLC.  
+
+**Junior DevOps Engineer**  
+*CloudNexa Inc., Austin, TX*  
+*June 2020 – June 2021*  
+- Automated application deployments using Docker and Kubernetes, achieving 99.9% uptime.  
+- Configured and maintained AWS services (EC2, S3, RDS, VPC) to support production environments.  
+- Implemented infrastructure-as-code (IaC) practices with Terraform, ensuring consistent and repeatable deployments.  
+- Assisted in troubleshooting and resolving production issues, reducing mean time to recovery (MTTR) by 50%.  
+- Documented processes and trained junior team members on DevOps best practices.  
+
+---
+
+**Technical Skills**  
+- **Containerization:** Docker, Kubernetes  
+- **Cloud Platforms:** AWS (EC2, S3, RDS, VPC, Lambda)  
+- **Infrastructure as Code (IaC):** Terraform  
+- **CI/CD Tools:** Jenkins, GitLab CI, CircleCI  
+- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack  
+- **Scripting & Automation:** Bash, Python  
+- **Version Control:** Git  
+
+---
+
+**Education**  
+**Bachelor of Science in Computer Science**  
+*University of California, Berkeley*  
+*Graduated: May 2020*  
+- Relevant Coursework: Cloud Computing, Software Engineering, Systems Programming  
+
+---  
+References available upon request.

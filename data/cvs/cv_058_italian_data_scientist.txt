@@ -1,0 +1,57 @@
+**Curriculum Vitae**  
+
+**Nome e Cognome**: Maria Rossi  
+**Contatti**:  
+Email: maria.rossi@email.com  
+Telefono: +39 123 456 7890  
+LinkedIn: linkedin.com/in/mariarossi  
+GitHub: github.com/mariarossi  
+
+---
+
+**Profilo Professionale**  
+Data Scientist con 4 anni di esperienza nello sviluppo e implementazione di modelli di machine learning e analisi dei dati. Competente nell’estrazione di insight da dataset complessi per supportare decisioni strategiche aziendali. Esperta nell’utilizzo di Python, TensorFlow, PyTorch, Pandas e SQL. Forte capacità di collaborare con team multidisciplinari e di comunicare risultati tecnici a stakeholder non tecnici.  
+
+---
+
+**Esperienza Professionale**  
+
+**Data Scientist Senior**  
+*TechInnovate Srl, Milano*  
+*Gennaio 2022 – Presente*  
+- Progettato e implementato modelli di machine learning per prevedere trend di mercato, migliorando l’accuratezza del 25%.  
+- Sviluppato pipeline di dati automatizzate utilizzando Python e Pandas, riducendo i tempi di elaborazione del 30%.  
+- Collaborato con il team di prodotto per integrare modelli predittivi in applicazioni aziendali.  
+- Condotto analisi esplorative su grandi dataset utilizzando SQL e Pandas per identificare opportunità di business.  
+
+**Data Scientist Junior**  
+*DataLab Solutions, Roma*  
+*Giugno 2020 – Dicembre 2021*  
+- Sviluppato modelli di deep learning con TensorFlow e PyTorch per progetti di computer vision e NLP.  
+- Creato dashboard interattive per la visualizzazione dei dati utilizzando Tableau e Power BI.  
+- Ottimizzato query SQL per migliorare le prestazioni del database e supportare l’analisi dei dati.  
+- Partecipato alla stesura di report tecnici e presentazioni per clienti e stakeholder.  
+
+---
+
+**Competenze Tecniche**  
+- **Linguaggi di Programmazione**: Python  
+- **Librerie e Framework**: TensorFlow, PyTorch, Pandas, NumPy, Scikit-learn  
+- **Database**: SQL (MySQL, PostgreSQL)  
+- **Strumenti**: Tableau, Power BI, Git, Jupyter Notebook  
+- **Cloud**: AWS (Amazon Web Services)  
+
+---
+
+**Formazione**  
+**Laurea Magistrale in Informatica**  
+*Università degli Studi di Milano, Milano*  
+*2018 – 2020*  
+Tesi: "Applicazione di reti neurali convoluzionali per il riconoscimento di immagini mediche".  
+
+**Laurea Triennale in Matematica**  
+*Università La Sapienza, Roma*  
+*2015 – 2018*  
+
+---  
+Disponibile per colloqui e ulteriori informazioni.

@@ -1,0 +1,59 @@
+**CV – Développeur Frontend**  
+
+**Nom :** Jean Dupont  
+**Téléphone :** +33 6 12 34 56 78  
+**Email :** jean.dupont@email.com  
+**LinkedIn :** linkedin.com/in/jeandupont  
+**Localisation :** Paris, France  
+
+---
+
+**Profil Professionnel**  
+Développeur Frontend passionné avec 2 ans d'expérience dans la conception et l'optimisation d'interfaces utilisateur réactives et esthétiques. Compétent dans l'utilisation de React, Vue.js, TypeScript, HTML5 et CSS3, avec un fort accent sur l'expérience utilisateur et les performances web. Collaborateur efficace en équipe, capable de gérer plusieurs projets simultanément tout en respectant les délais.  
+
+---
+
+**Expérience Professionnelle**  
+
+**Développeur Frontend**  
+*WebInnov SAS, Paris*  
+*Janvier 2022 – Présent*  
+- Développé et maintenu des applications web réactives en utilisant React et TypeScript.  
+- Collaboré avec les équipes UX/UI pour implémenter des designs responsives et accessibles.  
+- Optimisé les performances des sites web, réduisant le temps de chargement de 30 %.  
+- Intégré des API REST pour améliorer la fonctionnalité des applications.  
+
+**Stagiaire Développeur Frontend**  
+*DigitalTech Solutions, Lyon*  
+*Juin 2021 – Décembre 2021*  
+- Participé à la migration d'un projet legacy vers Vue.js, améliorant la maintenabilité du code.  
+- Créé des composants réutilisables en HTML et CSS pour accélérer le développement.  
+- Contribuer à la résolution de bugs et à l'amélioration de la qualité du code.  
+
+---
+
+**Compétences Techniques**  
+- **Frameworks :** React, Vue.js  
+- **Langages :** TypeScript, JavaScript, HTML5, CSS3  
+- **Outils :** Git, Webpack, npm, Figma  
+- **Concepts :** Responsive Design, SEO, Accessibilité WCAG  
+
+---
+
+**Formation**  
+**Master en Informatique – Spécialité Développement Web**  
+*Université Paris-Saclay, Paris*  
+*2019 – 2021*  
+
+**Licence en Informatique**  
+*Université Lyon 1, Lyon*  
+*2016 – 2019*  
+
+---
+
+**Langues**  
+- Français : Langue maternelle  
+- Anglais : Courant  
+
+---  
+Disponible pour des opportunités stimulantes dans le développement frontend. N'hésitez pas à me contacter pour discuter de ma candidature.

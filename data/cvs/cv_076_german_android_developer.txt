@@ -1,0 +1,51 @@
+**Max Mustermann**  
+Musterstraße 123, 12345 Berlin | +49 123 456789 | max.mustermann@email.de | LinkedIn: linkedin.com/in/maxmustermann  
+
+---
+
+**Berufsprofil**  
+Erfahrener Android Developer mit über 6 Jahren Berufserfahrung in der Entwicklung und Optimierung von mobilen Anwendungen. Spezialisiert auf die Nutzung moderner Technologien wie Kotlin, Java und Jetpack Compose zur Schaffung benutzerfreundlicher und skalierbarer Apps. Nachweisliche Erfolge bei der Verbesserung der App-Performance und der Implementierung innovativer Lösungen. Teamorientiert mit starkem Fokus auf sauberen Code und agile Entwicklungsmethoden.  
+
+---
+
+**Berufserfahrung**  
+
+**Senior Android Developer**  
+*TechInnovate GmbH, Berlin | 04/2020 – heute*  
+- Entwicklung und Wartung von Android-Anwendungen mit Kotlin, Java und Android SDK für über 500.000 Nutzer.  
+- Einführung von Jetpack Compose zur Modernisierung der UI-Entwicklung, was zu einer Reduzierung der Entwicklungszeit um 30 % führte.  
+- Implementierung von Room für lokale Datenspeicherung, was die App-Performance um 25 % verbesserte.  
+- Leitung eines Teams von 5 Entwicklern, einschließlich Code-Reviews und Mentoring.  
+- Zusammenarbeit mit Designern und Backend-Teams zur Sicherstellung einer nahtlosen Integration.  
+
+**Android Developer**  
+*MobileSolutions AG, München | 06/2017 – 03/2020*  
+- Entwicklung von Android-Apps mit Java und Android SDK für verschiedene Branchen, darunter E-Commerce und Fintech.  
+- Optimierung der App-Performance durch Refactoring von Legacy-Code und Einführung von Kotlin.  
+- Implementierung von CI/CD-Pipelines mit Jenkins zur Automatisierung des Build- und Release-Prozesses.  
+- Aktive Teilnahme an agilen Entwicklungsprozessen (Scrum) und täglichen Stand-ups.  
+
+---
+
+**Technische Fähigkeiten**  
+- **Programmiersprachen:** Kotlin, Java  
+- **Frameworks/Tools:** Android SDK, Jetpack Compose, Room, Retrofit, Dagger/Hilt  
+- **Datenbanken:** SQLite, Firebase  
+- **Versionierung:** Git, GitHub, GitLab  
+- **Sonstiges:** CI/CD, Unit Testing, UI/UX Design  
+
+---
+
+**Ausbildung**  
+**Bachelor of Science in Informatik**  
+*Technische Universität Berlin | 2013 – 2017*  
+- Schwerpunkt: Mobile Anwendungssysteme  
+- Abschlussarbeit: „Entwicklung einer Android-App für die Verwaltung von Aufgaben mit Kotlin und Firebase“  
+
+--- 
+
+**Sprachen**  
+Deutsch (Muttersprache), Englisch (fließend)  
+
+---  
+*Verfügbar ab: sofort | Führerschein: Klasse B*

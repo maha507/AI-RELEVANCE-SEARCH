@@ -1,0 +1,49 @@
+**John Michael Doe**  
+📧 john.doe@email.com | 📱 +1 (555) 123-4567 | 🌐 linkedin.com/in/johndoe | 🌍 San Francisco, CA  
+
+---
+
+**Professional Summary**  
+Results-driven Full Stack Developer with 6+ years of experience designing, developing, and deploying scalable web applications. Proficient in both front-end and back-end technologies, with a strong focus on delivering high-quality, user-centric solutions. Adept at collaborating with cross-functional teams to drive project success and improve system efficiency.  
+
+---
+
+**Work Experience**  
+
+**Senior Full Stack Developer**  
+*TechInnovate Solutions, San Francisco, CA*  
+*July 2020 – Present*  
+- Designed and developed a RESTful API using **Node.js** and **Python**, improving system response time by 30%.  
+- Implemented a **React**-based front-end for a SaaS platform, enhancing user experience and increasing user retention by 25%.  
+- Managed databases using **PostgreSQL** and **MongoDB**, optimizing queries to reduce load times by 40%.  
+- Led a team of 5 developers to deliver a high-traffic e-commerce application, ensuring 99.9% uptime.  
+- Integrated third-party APIs to expand platform functionality, reducing development time by 20%.  
+
+**Full Stack Developer**  
+*WebCraft Studios, Austin, TX*  
+*June 2017 – June 2020*  
+- Built and maintained responsive web applications using **React** and **Node.js**, supporting over 100,000 monthly active users.  
+- Developed and deployed microservices architecture with **Python**, improving scalability and reducing server costs by 15%.  
+- Optimized database performance using **PostgreSQL**, resolving bottlenecks and improving data retrieval speed by 50%.  
+- Collaborated with UX/UI designers to implement intuitive interfaces, increasing user engagement by 35%.  
+- Conducted code reviews and mentored junior developers, ensuring adherence to best practices and high code quality.  
+
+---
+
+**Technical Skills**  
+- **Back-end:** Node.js, Python, REST API, GraphQL  
+- **Front-end:** React, JavaScript (ES6+), HTML5, CSS3  
+- **Databases:** PostgreSQL, MongoDB, MySQL  
+- **Tools:** Git, Docker, AWS, CI/CD pipelines  
+- **Other:** Agile/Scrum, TDD, API Integration  
+
+---
+
+**Education**  
+**Bachelor of Science in Computer Science**  
+*University of California, Berkeley*  
+*Graduated: May 2017*  
+- Relevant Coursework: Software Engineering, Database Systems, Web Development  
+
+---  
+References available upon request.

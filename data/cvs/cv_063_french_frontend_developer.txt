@@ -1,0 +1,59 @@
+**CV - Développeur Frontend**  
+
+**Nom :** Jean Dupont  
+**Téléphone :** +33 6 12 34 56 78  
+**Email :** jean.dupont@email.com  
+**LinkedIn :** linkedin.com/in/jeandupont  
+**Localisation :** Paris, France  
+
+---
+
+**Profil Professionnel**  
+Développeur Frontend avec 3 ans d'expérience dans la conception et l'optimisation d'interfaces utilisateur réactives et esthétiques. Compétent en React, Vue.js, TypeScript, HTML5 et CSS3, avec un fort accent sur l'expérience utilisateur et les performances web. Passionné par les technologies modernes et les bonnes pratiques de développement.  
+
+---
+
+**Expérience Professionnelle**  
+
+**Développeur Frontend**  
+*TechInnov, Paris*  
+*Janvier 2022 – Présent*  
+- Conception et développement de composants réutilisables en React et Vue.js pour des applications web scalables.  
+- Collaboration avec les équipes UX/UI pour implémenter des designs responsives et accessibles.  
+- Optimisation des performances des applications, réduisant le temps de chargement de 20%.  
+- Intégration de TypeScript pour améliorer la robustesse du code.  
+
+**Développeur Frontend Junior**  
+*WebSolutions, Lyon*  
+*Juin 2020 – Décembre 2021*  
+- Développement et maintenance de sites web en HTML5, CSS3 et JavaScript.  
+- Participation à la migration d'un projet legacy vers React, améliorant la maintenabilité du code.  
+- Mise en place de tests unitaires pour garantir la qualité des fonctionnalités frontend.  
+- Collaboration avec l'équipe backend pour assurer une intégration fluide des API.  
+
+---
+
+**Compétences Techniques**  
+- **Frameworks :** React, Vue.js  
+- **Langages :** TypeScript, JavaScript, HTML5, CSS3  
+- **Outils :** Git, Webpack, npm, Yarn  
+- **Concepts :** Responsive Design, SEO, Accessibilité WCAG  
+
+---
+
+**Formation**  
+**Master en Informatique - Spécialité Développement Web**  
+*Université Paris-Saclay, 2018–2020*  
+- Mémoire : "Optimisation des performances frontend avec React et Webpack".  
+
+**Licence en Informatique**  
+*Université Lyon 1, 2015–2018*  
+
+---
+
+**Langues**  
+- Français : Langue maternelle  
+- Anglais : Courant  
+
+---  
+Disponible pour des opportunités stimulantes dans le développement frontend. N'hésitez pas à me contacter pour discuter de votre projet.

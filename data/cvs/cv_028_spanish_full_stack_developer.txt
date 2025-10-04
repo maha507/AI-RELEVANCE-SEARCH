@@ -1,0 +1,58 @@
+**Curriculum Vitae**  
+
+**Nombre:** Juan Carlos Ramírez Morales  
+**Contacto:**  
+- Correo electrónico: juan.ramirez@email.com  
+- Teléfono: +52 33 1234 5678  
+- LinkedIn: linkedin.com/in/juanramirez  
+- Ubicación: Ciudad de México, México  
+
+---
+
+**Resumen Profesional:**  
+Desarrollador Full Stack con 5 años de experiencia en el diseño, desarrollo e implementación de aplicaciones web y móviles. Especializado en la creación de soluciones escalables y eficientes utilizando tecnologías como Node.js, Python, React y bases de datos como PostgreSQL y MongoDB. Experiencia en el trabajo con APIs REST y en la colaboración con equipos multidisciplinarios para entregar proyectos de alta calidad. Apasionado por la tecnología y el aprendizaje continuo.  
+
+---
+
+**Experiencia Laboral:**  
+
+**Desarrollador Full Stack**  
+*TechInnovate Solutions, Ciudad de México*  
+*Enero 2021 – Presente*  
+- Desarrollé y mantuve aplicaciones web utilizando Node.js y React, mejorando la experiencia del usuario en un 30%.  
+- Implementé y optimicé bases de datos PostgreSQL y MongoDB, reduciendo los tiempos de consulta en un 25%.  
+- Colaboré en la creación de APIs REST para integrar sistemas internos y externos, aumentando la eficiencia operativa.  
+- Lideré la migración de un sistema legado a una arquitectura moderna, mejorando la escalabilidad y seguridad.  
+
+**Desarrollador Web**  
+*WebCraft Studios, Guadalajara*  
+*Junio 2018 – Diciembre 2020*  
+- Diseñé y desarrollé sitios web responsivos utilizando Python y frameworks como Django.  
+- Gestioné bases de datos PostgreSQL para aplicaciones de comercio electrónico, asegurando la integridad y seguridad de los datos.  
+- Participé en la implementación de pruebas unitarias y de integración, reduciendo errores en un 40%.  
+- Trabajé en equipo para entregar proyectos dentro de los plazos establecidos, cumpliendo con los requisitos del cliente.  
+
+---
+
+**Habilidades Técnicas:**  
+- **Lenguajes de Programación:** Node.js, Python  
+- **Bases de Datos:** PostgreSQL, MongoDB  
+- **Frameworks y Bibliotecas:** React, Django  
+- **APIs:** REST API  
+- **Herramientas:** Git, Docker, Postman  
+
+---
+
+**Formación Académica:**  
+**Ingeniería en Sistemas Computacionales**  
+*Universidad Nacional Autónoma de México (UNAM), Ciudad de México*  
+*2013 – 2017*  
+- Proyecto de titulación: Desarrollo de una plataforma de gestión de proyectos utilizando Python y PostgreSQL.  
+
+**Cursos y Certificaciones:**  
+- Certificación en Desarrollo Full Stack, Platzi (2018)  
+- Taller de APIs REST, Udemy (2019)  
+
+---  
+**Disponibilidad:** Inmediata  
+**Idiomas:** Español (nativo), Inglés (avanzado)

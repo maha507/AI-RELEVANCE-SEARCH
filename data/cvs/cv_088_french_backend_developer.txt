@@ -1,0 +1,56 @@
+**Jean Dupont**  
+[123 Rue de la Technologie, 75001 Paris, France]  
+[jean.dupont@email.com]  
+[+33 6 12 34 56 78]  
+[LinkedIn: linkedin.com/in/jeandupont]  
+[GitHub: github.com/jeandupont]  
+
+---
+
+**Résumé Professionnel**  
+Développeur Backend avec 6 ans d'expérience dans la conception et l'optimisation de systèmes backend robustes et évolutifs. Compétent dans le développement d'API REST, la gestion de bases de données relationnelles et NoSQL, et la collaboration avec des équipes interdisciplinaires pour livrer des solutions technologiques de haute qualité. Passionné par l'amélioration des performances et la résolution de problèmes complexes.
+
+---
+
+**Expérience Professionnelle**  
+
+**Développeur Backend Senior**  
+*TechInnov SAS, Paris, France*  
+*Janvier 2020 – Présent*  
+- Conçu et implémenté des API REST avec **Node.js** et **Python**, améliorant les temps de réponse de 30 %.  
+- Optimisé les requêtes sur **PostgreSQL** et **MongoDB**, réduisant la latence des opérations de base de données de 25 %.  
+- Collaboré avec l'équipe frontend pour intégrer des fonctionnalités React, assurant une expérience utilisateur fluide.  
+- Mis en place des tests unitaires et d'intégration, augmentant la stabilité du code de 40 %.  
+
+**Développeur Backend**  
+*WebSolutions Corp, Lyon, France*  
+*Juin 2017 – Décembre 2019*  
+- Développé et maintenu des microservices en **Node.js**, supportant une augmentation de 50 % du trafic utilisateur.  
+- Migré une base de données legacy vers **MongoDB**, améliorant la flexibilité et la scalabilité du système.  
+- Participé à la conception d'architectures backend pour des applications web et mobiles.  
+- Formé les nouveaux développeurs aux meilleures pratiques de développement backend.  
+
+---
+
+**Compétences Techniques**  
+- **Langages** : Node.js, Python  
+- **Bases de données** : PostgreSQL, MongoDB  
+- **API** : REST API  
+- **Frameworks** : Express.js, Django  
+- **Outils** : Git, Docker, Jenkins  
+- **Frontend** : Notions de React  
+
+---
+
+**Formation**  
+**Master en Informatique**  
+*Université Pierre et Marie Curie, Paris, France*  
+*2015 – 2017*  
+
+**Licence en Sciences Informatiques**  
+*Université Claude Bernard Lyon 1, Lyon, France*  
+*2012 – 2015*  
+
+--- 
+
+*Disponible pour des entretiens dès maintenant.*

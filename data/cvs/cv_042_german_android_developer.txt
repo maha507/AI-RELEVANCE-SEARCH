@@ -1,0 +1,48 @@
+**Max Mustermann**  
+Musterstraße 123, 12345 Berlin | +49 123 456789 | max.mustermann@email.de | LinkedIn: linkedin.com/in/maxmustermann  
+
+---
+
+**Berufsprofil**  
+Erfahrener Android Developer mit 3 Jahren Berufserfahrung in der Entwicklung und Optimierung von mobilen Anwendungen. Spezialisiert auf die Nutzung moderner Technologien wie Kotlin, Java und Jetpack Compose zur Schaffung benutzerfreundlicher und skalierbarer Apps. Starke Problemlösungsfähigkeiten und ein Auge für Detail, kombiniert mit der Fähigkeit, effektiv in agilen Teams zu arbeiten.  
+
+---
+
+**Berufserfahrung**  
+
+**Android Developer**  
+*TechInnovate GmbH, Berlin | 04/2021 – heute*  
+- Entwicklung und Wartung von Android-Anwendungen mit Kotlin und Java, Nutzung des Android SDK und Jetpack Compose für moderne UIs.  
+- Implementierung einer lokalen Datenbank mit Room zur Verbesserung der Offline-Funktionalität.  
+- Optimierung der App-Performance, was zu einer Steigerung der Benutzerzufriedenheit um 25 % führte.  
+- Zusammenarbeit mit UX/UI-Designern zur Umsetzung von Designkonzepten in funktionale Anwendungen.  
+- Einführung von CI/CD-Pipelines zur Automatisierung des Build- und Release-Prozesses.  
+
+**Junior Android Developer**  
+*MobileSolutions AG, München | 02/2020 – 03/2021*  
+- Unterstützung des Entwicklungsteams bei der Erstellung und Aktualisierung von Android-Apps.  
+- Implementierung neuer Features unter Verwendung von Java und Android SDK.  
+- Fehlerbehebung und Optimierung bestehender Codebasen zur Verbesserung der App-Stabilität.  
+- Teilnahme an Code-Reviews und agilen Meetings zur Sicherstellung der Code-Qualität.  
+
+---
+
+**Technische Fähigkeiten**  
+- **Programmiersprachen:** Kotlin, Java  
+- **Frameworks/Tools:** Android SDK, Jetpack Compose, Room  
+- **Versionierung:** Git  
+- **Entwicklungstools:** Android Studio, IntelliJ IDEA  
+- **Methoden:** Agile Entwicklung (Scrum), CI/CD  
+
+---
+
+**Ausbildung**  
+**Bachelor of Science in Informatik**  
+*Technische Universität Berlin | 2016 – 2019*  
+- Schwerpunkt: Mobile Anwendungssysteme  
+- Abschlussarbeit: „Entwicklung einer Android-App für die Verwaltung von Aufgaben mit Kotlin und Room“  
+
+--- 
+
+**Sprachen**  
+Deutsch (Muttersprache), Englisch (Fließend)

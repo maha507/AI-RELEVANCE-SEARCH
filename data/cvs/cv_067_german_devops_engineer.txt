@@ -1,0 +1,56 @@
+**Max Mustermann**  
+Musterstraße 123, 12345 Berlin  
+Telefon: +49 123 456789  
+E-Mail: max.mustermann@example.com  
+LinkedIn: linkedin.com/in/maxmustermann  
+
+---
+
+**Berufsprofil**  
+Engagierter DevOps Engineer mit 2 Jahren Erfahrung in der Automatisierung, Skalierung und Optimierung von IT-Infrastrukturen. Spezialisiert auf die Implementierung von CI/CD-Pipelines, Containerisierung und Cloud-Management. Starke Problemlösungsfähigkeiten und ein teamorientierter Ansatz zur Förderung agiler Arbeitsumgebungen.  
+
+---
+
+**Berufserfahrung**  
+
+**DevOps Engineer**  
+*TechInnovate GmbH, Berlin | 04/2022 – heute*  
+- Planung und Implementierung von CI/CD-Pipelines mit Jenkins und GitLab CI zur Beschleunigung der Softwarebereitstellung.  
+- Verwaltung und Skalierung von Anwendungen in AWS mit EC2, S3 und RDS.  
+- Automatisierung der Infrastruktur mit Terraform und Gewährleistung der Infrastruktur-as-Code-Prinzipien.  
+- Verwaltung von Container-Orchestrierung mit Kubernetes und Docker zur Verbesserung der Anwendungsportabilität.  
+- Überwachung und Optimierung der Systemleistung mit Prometheus und Grafana.  
+
+**Junior DevOps Engineer**  
+*CloudSolutions AG, München | 02/2021 – 03/2022*  
+- Unterstützung bei der Migration von On-Premise-Systemen in die AWS-Cloud.  
+- Implementierung und Wartung von Docker-Containern zur Verbesserung der Entwicklungsumgebungen.  
+- Mitwirkung an der Einrichtung von CI/CD-Prozessen mit Jenkins und Ansible.  
+- Zusammenarbeit mit Entwicklungsteams zur Sicherstellung der Kontinuität und Effizienz der Bereitstellungsprozesse.  
+
+---
+
+**Technische Fähigkeiten**  
+- **Containerisierung:** Docker, Kubernetes  
+- **Cloud-Plattformen:** Amazon Web Services (AWS)  
+- **Infrastruktur als Code:** Terraform, Ansible  
+- **CI/CD-Tools:** Jenkins, GitLab CI  
+- **Überwachung:** Prometheus, Grafana  
+- **Skriptsprachen:** Bash, Python  
+
+---
+
+**Ausbildung**  
+**Bachelor of Science in Informatik**  
+*Technische Universität Berlin | 2017 – 2020*  
+- Schwerpunkt: Cloud Computing und Softwareentwicklung  
+- Abschlussarbeit: „Automatisierung von DevOps-Prozessen mit Container-Technologien“  
+
+---
+
+**Sprachen**  
+- Deutsch (Muttersprache)  
+- Englisch (Fließend)  
+
+---  
+*Verfügbar ab: sofort | Bevorzugte Arbeitsform: Vollzeit*

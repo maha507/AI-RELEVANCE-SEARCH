@@ -1,0 +1,61 @@
+**Curriculum Vitae**  
+
+**Nombre:** Juan Carlos Ramírez Morales  
+**Contacto:**  
+- Teléfono: +34 612 345 678  
+- Correo electrónico: juan.ramirez@email.com  
+- LinkedIn: linkedin.com/in/juanramirez  
+- Ubicación: Madrid, España  
+
+---
+
+**Resumen Profesional:**  
+Desarrollador iOS con más de 5 años de experiencia en el diseño, desarrollo e implementación de aplicaciones móviles de alta calidad. Especializado en Swift y Objective-C, con un sólido conocimiento en arquitecturas modernas y mejores prácticas de desarrollo. Experiencia en el trabajo con equipos multidisciplinarios y en la entrega de soluciones escalables y eficientes. Apasionado por la tecnología y el aprendizaje continuo.  
+
+---
+
+**Experiencia Laboral:**  
+
+**Desarrollador iOS Senior**  
+*TechInnovate Solutions, Madrid, España*  
+*Enero 2021 – Presente*  
+- Lideré el desarrollo de aplicaciones iOS utilizando Swift, SwiftUI y UIKit, mejorando la experiencia de usuario en un 30%.  
+- Implementé soluciones de almacenamiento local con CoreData, optimizando el rendimiento de las aplicaciones.  
+- Colaboré con el equipo de diseño para garantizar interfaces intuitivas y visualmente atractivas.  
+- Realicé pruebas unitarias y de integración para asegurar la calidad del código.  
+
+**Desarrollador iOS**  
+*MobileApps Corp, Barcelona, España*  
+*Junio 2018 – Diciembre 2020*  
+- Desarrollé y mantuve aplicaciones iOS utilizando Objective-C y Swift, siguiendo las guías de Apple.  
+- Integré APIs RESTful para mejorar la funcionalidad de las aplicaciones.  
+- Participé en la migración de proyectos de Objective-C a Swift, reduciendo errores y mejorando el mantenimiento.  
+- Trabajé en estrecha colaboración con el equipo de QA para identificar y corregir errores.  
+
+---
+
+**Habilidades Técnicas:**  
+- **Lenguajes de programación:** Swift, Objective-C  
+- **Frameworks:** UIKit, SwiftUI  
+- **Bases de datos:** CoreData  
+- **Herramientas de desarrollo:** Xcode, Git  
+- **Metodologías:** Programación orientada a objetos, desarrollo ágil (Scrum)  
+
+---
+
+**Formación Académica:**  
+**Grado en Ingeniería Informática**  
+*Universidad Politécnica de Madrid, Madrid, España*  
+*Septiembre 2013 – Junio 2017*  
+- Especialización en Desarrollo de Software.  
+- Proyecto fin de grado: "Desarrollo de una aplicación móvil para la gestión de tareas personales".  
+
+---
+
+**Idiomas:**  
+- Español: Nativo  
+- Inglés: Avanzado (C1)  
+
+--- 
+
+**Disponibilidad:** Inmediata.

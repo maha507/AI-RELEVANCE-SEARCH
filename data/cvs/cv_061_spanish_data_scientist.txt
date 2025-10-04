@@ -1,0 +1,58 @@
+**Curriculum Vitae**  
+
+**Nombre:** Ana María Gómez Ruiz  
+**Contacto:**  
+Correo electrónico: anamaria.gomez@email.com  
+Teléfono: +34 612 345 678  
+LinkedIn: linkedin.com/in/anamariagomez  
+Ubicación: Madrid, España  
+
+---
+
+**Resumen Profesional:**  
+Data Scientist con 3 años de experiencia en el desarrollo e implementación de modelos predictivos y analítica de datos. Especializada en el uso de Python, TensorFlow, PyTorch, Pandas y SQL para extraer insights accionables y optimizar procesos empresariales. Habilidades demostradas en la limpieza y transformación de datos, así como en la visualización de resultados para la toma de decisiones estratégicas. Comprometida con la innovación y la mejora continua en proyectos de ciencia de datos.  
+
+---
+
+**Experiencia Laboral:**  
+
+**Data Scientist**  
+*TechInnovate Solutions, Madrid*  
+*Enero 2022 – Presente*  
+- Desarrollé e implementé modelos de aprendizaje automático utilizando TensorFlow y PyTorch para predecir tendencias de mercado, logrando una mejora del 15% en la precisión de las proyecciones.  
+- Automatizé procesos de limpieza y análisis de datos con Python y Pandas, reduciendo el tiempo de procesamiento en un 30%.  
+- Colaboré con equipos interdisciplinarios para diseñar dashboards interactivos y presentar hallazgos a stakeholders clave.  
+
+**Analista de Datos Júnior**  
+*DataInsights Corp, Barcelona*  
+*Junio 2020 – Diciembre 2021*  
+- Gestioné y analicé grandes volúmenes de datos utilizando SQL, identificando patrones y oportunidades de negocio.  
+- Participé en la creación de modelos predictivos para optimizar campañas de marketing, aumentando el ROI en un 20%.  
+- Elaboré informes técnicos y presentaciones para la dirección, facilitando la toma de decisiones basadas en datos.  
+
+---
+
+**Habilidades Técnicas:**  
+- **Lenguajes de Programación:** Python  
+- **Frameworks de Machine Learning:** TensorFlow, PyTorch  
+- **Herramientas de Análisis de Datos:** Pandas, SQL  
+- **Visualización de Datos:** Matplotlib, Seaborn  
+- **Control de Versiones:** Git  
+
+---
+
+**Formación Académica:**  
+**Máster en Ciencia de Datos**  
+*Universidad Politécnica de Madrid, 2018-2020*  
+
+**Grado en Matemáticas**  
+*Universidad Complutense de Madrid, 2014-2018*  
+
+---
+
+**Idiomas:**  
+- Español: Nativo  
+- Inglés: Avanzado (C1)  
+
+---  
+Disponible para nuevas oportunidades profesionales en el campo de la ciencia de datos.

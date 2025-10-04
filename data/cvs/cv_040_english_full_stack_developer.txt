@@ -1,0 +1,49 @@
+**John Doe**  
+[Your City, State, ZIP Code] | [Your Email Address] | [Your Phone Number] | [LinkedIn Profile] | [GitHub Profile]  
+
+---
+
+### **Professional Summary**  
+Full Stack Developer with 4 years of experience in designing, developing, and deploying scalable web applications. Proficient in both front-end and back-end technologies, with a strong focus on creating efficient, user-friendly solutions. Skilled in Node.js, Python, PostgreSQL, MongoDB, REST API, and React. Proven ability to collaborate with cross-functional teams to deliver high-quality software products on time.  
+
+---
+
+### **Work Experience**  
+
+**Full Stack Developer**  
+*TechInnovate Solutions, New York, NY*  
+*June 2021 – Present*  
+- Designed and developed a RESTful API using Node.js and Express.js, improving data retrieval speed by 30%.  
+- Implemented a React-based front-end for a SaaS platform, enhancing user experience and reducing bounce rates by 20%.  
+- Managed databases using PostgreSQL and MongoDB, ensuring data integrity and optimizing query performance.  
+- Collaborated with the product team to translate business requirements into technical specifications.  
+- Conducted code reviews and mentored junior developers to maintain code quality and consistency.  
+
+**Junior Full Stack Developer**  
+*WebCraft Studios, Boston, MA*  
+*January 2019 – May 2021*  
+- Developed and maintained web applications using Python (Django) and React, contributing to a 15% increase in user engagement.  
+- Built and deployed REST APIs to support mobile and web applications, ensuring seamless data flow.  
+- Optimized database queries in PostgreSQL, reducing load times by 25%.  
+- Assisted in troubleshooting and resolving production issues, minimizing downtime.  
+- Participated in Agile sprints, delivering features on time and within scope.  
+
+---
+
+### **Technical Skills**  
+- **Back-end:** Node.js, Python (Django), REST API  
+- **Front-end:** React, HTML5, CSS3, JavaScript  
+- **Databases:** PostgreSQL, MongoDB  
+- **Tools:** Git, Docker, Postman, Jira  
+- **Other:** Agile/Scrum, CI/CD, Unit Testing  
+
+---
+
+### **Education**  
+**Bachelor of Science in Computer Science**  
+*University of California, Berkeley, CA*  
+*Graduated: May 2018*  
+- Relevant Coursework: Data Structures, Algorithms, Database Management, Web Development  
+
+---  
+**References available upon request.**

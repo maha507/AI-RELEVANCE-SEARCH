@@ -1,0 +1,58 @@
+**Max Mustermann**  
+Musterstraße 123, 12345 Berlin  
+Telefon: +49 123 456789  
+E-Mail: max.mustermann@example.com  
+LinkedIn: linkedin.com/in/maxmustermann  
+
+---
+
+**Berufsprofil**  
+Backend Developer mit 2 Jahren Berufserfahrung in der Entwicklung und Optimierung von skalierbaren Webanwendungen. Spezialisiert auf die Arbeit mit Node.js, Python und Datenbanken wie PostgreSQL und MongoDB. Erfahrung in der Implementierung von REST APIs und Zusammenarbeit mit Frontend-Teams (React). Starke Problemlösungsfähigkeiten und ein Engagement für sauberen, effizienten Code.  
+
+---
+
+**Berufserfahrung**  
+
+**Backend Developer**  
+*TechInnovate GmbH, Berlin*  
+*Oktober 2022 – Heute*  
+- Entwicklung und Wartung von Backend-Systemen mit Node.js und Python.  
+- Implementierung und Optimierung von REST APIs für Web- und Mobile-Anwendungen.  
+- Verwaltung von Datenbanken (PostgreSQL, MongoDB) und Sicherstellung der Datensicherheit.  
+- Zusammenarbeit mit Frontend-Entwicklern (React) zur Integration von Backend-Diensten.  
+- Einführung von CI/CD-Pipelines zur Automatisierung von Tests und Deployment.  
+
+**Junior Backend Developer**  
+*WebSolutions AG, Hamburg*  
+*April 2021 – September 2022*  
+- Unterstützung bei der Entwicklung von Backend-Komponenten mit Node.js.  
+- Mitwirkung an der Migration einer Legacy-Anwendung zu einer modernen Microservices-Architektur.  
+- Implementierung von Unit- und Integrationstests zur Sicherstellung der Code-Qualität.  
+- Dokumentation von APIs und technischen Prozessen für das Team.  
+
+---
+
+**Technische Fähigkeiten**  
+- **Programmiersprachen:** Node.js, Python  
+- **Datenbanken:** PostgreSQL, MongoDB  
+- **APIs:** REST API  
+- **Frontend-Kenntnisse:** React (Grundlagen)  
+- **Tools:** Git, Docker, Postman  
+
+---
+
+**Ausbildung**  
+**Bachelor of Science in Informatik**  
+*Technische Universität Berlin*  
+*Oktober 2017 – März 2021*  
+- Schwerpunkt: Softwareentwicklung und Datenbanken  
+- Abschlussarbeit: „Entwicklung einer skalierbaren E-Commerce-Plattform mit Node.js und MongoDB“  
+
+---
+
+**Sprachen**  
+- Deutsch (Muttersprache)  
+- Englisch (Fließend)  
+
+---  
+*Letzte Aktualisierung: Oktober 2023*

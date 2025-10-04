@@ -1,0 +1,65 @@
+**Curriculum Vitae**  
+
+**Nome e Cognome**: Mario Rossi  
+**Contatti**:  
+- Email: mario.rossi@email.com  
+- Telefono: +39 333 123 4567  
+- LinkedIn: linkedin.com/in/mariorossi  
+- GitHub: github.com/mariorossi  
+
+---
+
+**Profilo Professionale**  
+Frontend Developer con 5 anni di esperienza nello sviluppo di interfacce utente responsive e ad alte prestazioni. Specializzato in React e Vue.js, con una solida competenza in TypeScript, HTML5 e CSS3. Passione per la creazione di esperienze utente intuitive e ottimizzate per il SEO. Capacità di lavorare in team e di gestire progetti complessi rispettando le scadenze.  
+
+---
+
+**Esperienza Professionale**  
+
+**Frontend Developer**  
+*TechSolutions Srl, Milano*  
+*Gennaio 2020 – Presente*  
+- Sviluppo e manutenzione di applicazioni web utilizzando React e TypeScript.  
+- Implementazione di design responsive con CSS3 e SASS.  
+- Collaborazione con il team UX/UI per migliorare l’esperienza utente.  
+- Ottimizzazione delle prestazioni delle applicazioni per ridurre i tempi di caricamento.  
+- Integrazione di API RESTful per la gestione dei dati.  
+
+**Junior Frontend Developer**  
+*WebDesign Italia, Roma*  
+*Giugno 2018 – Dicembre 2019*  
+- Sviluppo di siti web dinamici con Vue.js e HTML5.  
+- Creazione di layout responsive e compatibili con diversi browser.  
+- Partecipazione alla fase di testing e debugging del codice.  
+- Supporto al team senior nella gestione di progetti web.  
+
+---
+
+**Competenze Tecniche**  
+- **Framework**: React, Vue.js  
+- **Linguaggi**: TypeScript, JavaScript  
+- **Markup & Styling**: HTML5, CSS3, SASS  
+- **Strumenti**: Git, Webpack, npm, Yarn  
+- **Design**: Principi di UX/UI, Figma (base)  
+
+---
+
+**Formazione**  
+**Laurea Triennale in Informatica**  
+*Università degli Studi di Roma "La Sapienza"*, Roma  
+*2015 – 2018*  
+- Tesi: "Sviluppo di interfacce utente responsive con framework moderni".  
+
+**Corso di Specializzazione in Frontend Development**  
+*Scuola di Programmazione Codelab*, Milano  
+*2019*  
+- Focus su React, Vue.js e TypeScript.  
+
+---
+
+**Lingue**  
+- Italiano: Madrelingua  
+- Inglese: Avanzato (B2)  
+
+---  
+Disponibile per colloqui e collaborazioni.

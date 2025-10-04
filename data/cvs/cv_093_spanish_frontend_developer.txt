@@ -1,0 +1,63 @@
+**Curriculum Vitae**
+
+**Nombre:** Juan Carlos Ramírez  
+**Contacto:**  
+- Correo electrónico: juan.ramirez@email.com  
+- Teléfono: +52 33 1234 5678  
+- LinkedIn: linkedin.com/in/juanramirez  
+- GitHub: github.com/juanramirez  
+
+---
+
+**Resumen Profesional**  
+Desarrollador Frontend con 3 años de experiencia en la creación y optimización de interfaces de usuario atractivas y funcionales. Especializado en React y Vue.js, con sólidos conocimientos en TypeScript, HTML y CSS. Apasionado por la mejora de la experiencia del usuario y la implementación de soluciones tecnológicas innovadoras. Colaborador proactivo con habilidades para trabajar en equipos multidisciplinarios y adaptarse a entornos dinámicos.
+
+---
+
+**Experiencia Laboral**
+
+**Desarrollador Frontend**  
+*TechSolutions S.A., Ciudad de México, México*  
+*Enero 2021 – Presente*  
+- Desarrollé y mantuve aplicaciones web responsivas utilizando React y Vue.js, mejorando la experiencia del usuario en un 25%.  
+- Implementé TypeScript para mejorar la calidad y mantenibilidad del código, reduciendo errores en un 30%.  
+- Colaboré con el equipo de diseño para traducir mockups en interfaces funcionales utilizando HTML y CSS modernos.  
+- Optimicé el rendimiento de las aplicaciones, logrando una reducción del tiempo de carga en un 20%.  
+
+**Desarrollador Frontend Junior**  
+*WebInnovate Studio, Guadalajara, México*  
+*Junio 2020 – Diciembre 2020*  
+- Participé en el desarrollo de proyectos web utilizando React y HTML/CSS, siguiendo las mejores prácticas de desarrollo.  
+- Apoyé en la corrección de errores y mejoras de funcionalidades existentes en aplicaciones web.  
+- Aprendí y apliqué conceptos de accesibilidad web para garantizar que las aplicaciones fueran inclusivas.  
+- Colaboré en la documentación técnica de proyectos para facilitar el mantenimiento futuro.  
+
+---
+
+**Habilidades Técnicas**  
+- **Frameworks y Bibliotecas:** React, Vue.js  
+- **Lenguajes y Tecnologías:** TypeScript, HTML5, CSS3 (SASS, Flexbox, Grid)  
+- **Herramientas:** Git, Webpack, npm, Yarn  
+- **Diseño:** Principios de diseño responsivo y accesibilidad web  
+
+---
+
+**Formación Académica**  
+**Licenciatura en Ingeniería en Sistemas Computacionales**  
+*Universidad Autónoma de Guadalajara, Guadalajara, México*  
+*Agosto 2016 – Mayo 2020*  
+- Proyecto de titulación: Desarrollo de una aplicación web para la gestión de tareas utilizando React y Node.js.  
+
+---
+
+**Idiomas**  
+- Español: Nativo  
+- Inglés: Intermedio  
+
+---
+
+**Disponibilidad**  
+Inmediata. Abierto a oportunidades remotas o presenciales.  
+
+---  
+Juan Carlos Ramírez

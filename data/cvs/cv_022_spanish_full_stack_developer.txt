@@ -1,0 +1,57 @@
+**Curriculum Vitae**  
+
+**Nombre:** Juan Carlos Ramírez Morales  
+**Contacto:**  
+- Teléfono: +52 55 1234 5678  
+- Correo electrónico: juan.ramirez@email.com  
+- LinkedIn: linkedin.com/in/juanramirez  
+- Ubicación: Ciudad de México, México  
+
+---
+
+**Resumen Profesional:**  
+Desarrollador Full Stack con 5 años de experiencia en el diseño, desarrollo e implementación de aplicaciones web y móviles. Especializado en la creación de soluciones escalables y eficientes utilizando tecnologías como Node.js, Python, React y bases de datos como PostgreSQL y MongoDB. Experiencia en el trabajo colaborativo con equipos multidisciplinarios y en la gestión de proyectos ágiles. Apasionado por la innovación tecnológica y la mejora continua de procesos.  
+
+---
+
+**Experiencia Laboral:**  
+
+**Desarrollador Full Stack Senior**  
+*TechSolutions México, Ciudad de México*  
+*Enero 2021 – Presente*  
+- Lideré el desarrollo de una plataforma de comercio electrónico utilizando Node.js y React, aumentando las ventas en un 25%.  
+- Implementé APIs RESTful para mejorar la comunicación entre sistemas, reduciendo los tiempos de respuesta en un 30%.  
+- Gestioné bases de datos PostgreSQL y MongoDB para optimizar el almacenamiento y recuperación de datos.  
+- Colaboré con el equipo de diseño para garantizar una experiencia de usuario intuitiva y responsive.  
+
+**Desarrollador Full Stack**  
+*InnovateTech, Guadalajara, México*  
+*Junio 2018 – Diciembre 2020*  
+- Desarrollé aplicaciones web y móviles utilizando Python y React, mejorando la eficiencia operativa en un 20%.  
+- Participé en la migración de sistemas legado a arquitecturas modernas, reduciendo costos de mantenimiento en un 15%.  
+- Implementé pruebas unitarias y de integración para garantizar la calidad del código.  
+- Trabajé en entornos ágiles (Scrum) para entregar proyectos dentro de los plazos establecidos.  
+
+---
+
+**Habilidades Técnicas:**  
+- **Lenguajes de Programación:** Node.js, Python  
+- **Bases de Datos:** PostgreSQL, MongoDB  
+- **Frameworks y Librerías:** React, Express.js  
+- **APIs:** REST API  
+- **Herramientas:** Git, Docker, Jira  
+
+---
+
+**Formación Académica:**  
+**Ingeniería en Sistemas Computacionales**  
+*Universidad Nacional Autónoma de México (UNAM), Ciudad de México*  
+*2013 – 2017*  
+- Proyecto de titulación: Desarrollo de una aplicación móvil para la gestión de tareas utilizando React Native.  
+
+**Cursos y Certificaciones:**  
+- Certificación en Desarrollo Full Stack, Platzi (2018)  
+- Taller de Bases de Datos Avanzadas, MongoDB University (2020)  
+
+---  
+Disponible para nuevas oportunidades laborales. ¡Contáctame para colaborar en proyectos innovadores!

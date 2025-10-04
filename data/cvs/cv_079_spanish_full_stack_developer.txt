@@ -1,0 +1,57 @@
+**Curriculum Vitae**  
+
+**Nombre:** Juan Carlos Ramírez Morales  
+**Contacto:**  
+- Teléfono: +52 33 1234 5678  
+- Correo electrónico: juan.ramirez@email.com  
+- LinkedIn: linkedin.com/in/juanramirez  
+- Ubicación: Guadalajara, Jalisco, México  
+
+---
+
+**Resumen Profesional:**  
+Desarrollador Full Stack con 3 años de experiencia en el diseño, desarrollo e implementación de aplicaciones web y móviles. Especializado en tecnologías como Node.js, Python, PostgreSQL, MongoDB, REST API y React. Capacidad para trabajar en equipos multidisciplinarios, resolver problemas complejos y entregar soluciones escalables y eficientes. Apasionado por la tecnología y el aprendizaje continuo.  
+
+---
+
+**Experiencia Laboral:**  
+
+**Desarrollador Full Stack**  
+*TechInnovate Solutions, Guadalajara, Jalisco*  
+*Enero 2022 – Presente*  
+- Desarrollé y mantuve aplicaciones web utilizando Node.js y React, mejorando la experiencia del usuario en un 25%.  
+- Implementé APIs RESTful para integrar sistemas frontend y backend, reduciendo los tiempos de respuesta en un 30%.  
+- Gestioné bases de datos PostgreSQL y MongoDB para optimizar el almacenamiento y recuperación de datos.  
+- Colaboré con equipos de diseño y producto para definir requisitos técnicos y funcionalidades.  
+
+**Desarrollador Junior Full Stack**  
+*WebCraft Studios, Guadalajara, Jalisco*  
+*Junio 2020 – Diciembre 2021*  
+- Participé en el desarrollo de aplicaciones web utilizando Python y React, contribuyendo a la entrega de proyectos dentro de los plazos establecidos.  
+- Realicé pruebas unitarias y de integración para garantizar la calidad del código.  
+- Apoyé en la migración de bases de datos legacy a MongoDB, mejorando la eficiencia en un 20%.  
+- Documenté procesos técnicos y funcionalidades para facilitar el mantenimiento futuro.  
+
+---
+
+**Habilidades Técnicas:**  
+- **Lenguajes de Programación:** Node.js, Python  
+- **Bases de Datos:** PostgreSQL, MongoDB  
+- **Desarrollo Web:** React, REST API  
+- **Herramientas:** Git, Docker, Postman  
+- **Metodologías:** Scrum, Desarrollo Ágil  
+
+---
+
+**Formación Académica:**  
+**Ingeniería en Sistemas Computacionales**  
+*Universidad de Guadalajara, Guadalajara, Jalisco*  
+*2016 – 2020*  
+- Proyecto de titulación: Desarrollo de una plataforma de gestión de proyectos utilizando Node.js y React.  
+
+**Cursos y Certificaciones:**  
+- Certificación en Desarrollo Full Stack, Platzi (2021)  
+- Taller de Bases de Datos Avanzadas, MongoDB University (2022)  
+
+---  
+**Disponibilidad:** Inmediata.

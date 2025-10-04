@@ -1,0 +1,59 @@
+**Curriculum Vitae**  
+
+**Nome e Cognome**: Marco Rossi  
+**Contatti**:  
+- Email: marco.rossi@email.com  
+- Telefono: +39 123 456 7890  
+- LinkedIn: linkedin.com/in/marcorossi  
+- GitHub: github.com/marcorossi  
+
+---
+
+**Profilo Professionale**  
+Frontend Developer con 5 anni di esperienza nello sviluppo di interfacce utente responsive e ad alte prestazioni. Specializzato in React e Vue.js, con una solida competenza in TypeScript, HTML5 e CSS3. Passione per la creazione di esperienze utente intuitive e ottimizzate per il SEO. Capacità di collaborare efficacemente in team multidisciplinari e di gestire progetti complessi rispettando le scadenze.  
+
+---
+
+**Esperienza Professionale**  
+
+**Frontend Developer Senior**  
+*TechSolutions Srl, Milano*  
+*Gennaio 2021 – Presente*  
+- Sviluppo e manutenzione di applicazioni web utilizzando React e TypeScript.  
+- Ottimizzazione delle prestazioni delle pagine web, riducendo i tempi di caricamento del 30%.  
+- Collaborazione con il team UX/UI per implementare design responsive e accessibili.  
+- Integrazione di API RESTful e gestione dello stato con Redux.  
+- Mentoring di sviluppatori junior e revisione del codice per garantire qualità e best practice.  
+
+**Frontend Developer**  
+*WebCraft Srl, Roma*  
+*Giugno 2018 – Dicembre 2020*  
+- Sviluppo di applicazioni single-page (SPA) con Vue.js e gestione dello stato con Vuex.  
+- Creazione di layout responsive e cross-browser compatibili utilizzando HTML5 e CSS3 (Sass).  
+- Implementazione di test unitari e di integrazione con Jest e Vue Test Utils.  
+- Partecipazione attiva alla pianificazione e stima dei progetti in metodologia Agile.  
+
+---
+
+**Competenze Tecniche**  
+- **Framework**: React, Vue.js  
+- **Linguaggi**: TypeScript, JavaScript (ES6+)  
+- **Markup & Styling**: HTML5, CSS3 (Sass, Less), Bootstrap, Tailwind CSS  
+- **Strumenti**: Git, Webpack, npm, Yarn, Jest, Vue Test Utils  
+- **Design**: Principi di UX/UI, design responsive, accessibilità (WCAG)  
+
+---
+
+**Formazione**  
+**Laurea in Informatica**  
+*Università degli Studi di Roma "La Sapienza"*, Roma  
+*2013 – 2016*  
+- Tesi: "Sviluppo di interfacce utente adaptive per dispositivi mobili".  
+
+**Corsi e Certificazioni**  
+- Certificazione React Developer (React Training, 2020)  
+- Corso avanzato di TypeScript (Udemy, 2019)  
+
+--- 
+
+*Disponibile per colloqui su richiesta.*

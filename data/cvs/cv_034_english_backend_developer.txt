@@ -1,0 +1,50 @@
+**John Michael Doe**  
+📧 john.doe@email.com | 📱 +1 555-123-4567 | 🌐 linkedin.com/in/johndoe | 🌍 San Francisco, CA  
+
+---
+
+### **Professional Summary**  
+Results-driven Backend Developer with 4+ years of experience designing, developing, and maintaining scalable server-side applications. Proficient in Node.js, Python, and database management with PostgreSQL and MongoDB. Skilled in building RESTful APIs and collaborating with cross-functional teams to deliver high-performance solutions. Passionate about writing clean, efficient code and optimizing system performance.  
+
+---
+
+### **Work Experience**  
+
+**Backend Developer**  
+*TechInnovate Solutions, San Francisco, CA*  
+*June 2021 – Present*  
+- Designed and implemented REST APIs using Node.js, improving system response time by 30%.  
+- Managed and optimized PostgreSQL databases, reducing query execution time by 25%.  
+- Integrated MongoDB for scalable data storage, enhancing application performance for 100,000+ users.  
+- Collaborated with frontend teams to ensure seamless integration with React-based interfaces.  
+- Conducted code reviews and mentored junior developers to maintain code quality and consistency.  
+
+**Junior Backend Developer**  
+*CodeCraft Studios, Austin, TX*  
+*March 2019 – May 2021*  
+- Developed and maintained backend services using Python and Node.js, supporting 50,000+ daily active users.  
+- Implemented REST APIs to facilitate communication between microservices, improving system reliability.  
+- Managed database migrations and schema updates for PostgreSQL, ensuring data integrity.  
+- Assisted in troubleshooting and resolving production issues, reducing downtime by 40%.  
+- Participated in Agile sprints, delivering features on time and within scope.  
+
+---
+
+### **Technical Skills**  
+- **Programming Languages:** Node.js, Python  
+- **Databases:** PostgreSQL, MongoDB  
+- **APIs:** REST API  
+- **Frameworks/Libraries:** Express.js, Django  
+- **Frontend Integration:** React (basic understanding)  
+- **Tools:** Git, Docker, Postman, Jira  
+
+---
+
+### **Education**  
+**Bachelor of Science in Computer Science**  
+*University of California, Berkeley*  
+*Graduated: May 2018*  
+- Relevant Coursework: Data Structures, Algorithms, Database Systems, Software Engineering  
+
+---  
+References available upon request.

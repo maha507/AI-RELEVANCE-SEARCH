@@ -1,0 +1,61 @@
+**Curriculum Vitae**  
+
+**Nom :** Léa Dupont  
+**Contact :**  
+- Téléphone : +33 6 12 34 56 78  
+- Email : lea.dupont@email.com  
+- LinkedIn : linkedin.com/in/leadupont  
+- Portfolio : lea-dupont.dev  
+
+---
+
+**Profil Professionnel**  
+Développeuse Frontend expérimentée avec 5 ans d'expérience dans la conception et l'optimisation d'interfaces utilisateur réactives et esthétiques. Passionnée par les technologies modernes, je maîtrise React, Vue.js, TypeScript, HTML5 et CSS3. Je m'engage à fournir des solutions techniques innovantes tout en collaborant efficacement avec des équipes pluridisciplinaires pour atteindre les objectifs projets.  
+
+---
+
+**Expérience Professionnelle**  
+
+**Développeuse Frontend Senior**  
+*Digital Solutions SAS, Paris*  
+*Janvier 2021 – Présent*  
+- Conception et développement d'applications web scalables avec React et TypeScript.  
+- Optimisation des performances des sites web, réduisant le temps de chargement de 30%.  
+- Collaboration avec les équipes UX/UI pour implémenter des designs responsives.  
+- Mentorat des développeurs juniors et participation aux revues de code.  
+
+**Développeuse Frontend**  
+*Web Innovate, Lyon*  
+*Juin 2018 – Décembre 2020*  
+- Développement de composants réutilisables avec Vue.js pour des projets e-commerce.  
+- Intégration de maquettes PSD/Figma en HTML/CSS avec une approche mobile-first.  
+- Participation à la migration d'un legacy system vers une architecture moderne.  
+- Gestion des tests unitaires et assurance qualité des livrables.  
+
+---
+
+**Compétences Techniques**  
+- **Frameworks :** React, Vue.js  
+- **Langages :** TypeScript, JavaScript, HTML5, CSS3 (Sass, Less)  
+- **Outils :** Git, Webpack, Babel, Jest, Figma  
+- **Concepts :** Responsive Design, SEO, Accessibilité (WCAG)  
+
+---
+
+**Formation**  
+**Master en Informatique – Spécialité Développement Web**  
+*Université de Lyon, Lyon*  
+*2016 – 2018*  
+
+**Licence en Informatique**  
+*Université Jean Moulin Lyon 3, Lyon*  
+*2013 – 2016*  
+
+---
+
+**Langues**  
+- Français : Langue maternelle  
+- Anglais : Courant (TOEIC : 920)  
+
+---  
+Disponible pour des opportunités stimulantes dans le développement frontend. N'hésitez pas à me contacter pour discuter de collaborations potentielles.

@@ -1,0 +1,63 @@
+**Curriculum Vitae**  
+
+**Nome e Cognome**: Marco Bianchi  
+**Contatti**:  
+Email: marco.bianchi@email.com  
+Telefono: +39 123 456 7890  
+LinkedIn: linkedin.com/in/marcobianchi  
+GitHub: github.com/marcobianchi  
+
+---
+
+**Profilo Professionale**  
+Data Scientist con 5 anni di esperienza nello sviluppo e implementazione di modelli di machine learning e analisi dei dati. Competente nell’utilizzo di strumenti come Python, TensorFlow, PyTorch, Pandas e SQL per estrarre insights strategici e supportare il processo decisionale aziendale. Forte capacità di lavorare in team multidisciplinari e di comunicare risultati tecnici a stakeholder non tecnici.  
+
+---
+
+**Esperienza Professionale**  
+
+**Data Scientist Senior**  
+*TechInnovate Srl, Milano*  
+*Gennaio 2021 – Presente*  
+- Progettato e implementato modelli di machine learning per prevedere trend di mercato, migliorando l’accuratezza del 25%.  
+- Sviluppato pipeline di dati utilizzando Python e Pandas per l’elaborazione e la pulizia di grandi dataset.  
+- Collaborato con il team di prodotto per integrare modelli predittivi in applicazioni aziendali.  
+- Ottimizzato query SQL per migliorare l’efficienza dell’estrazione dati, riducendo i tempi del 30%.  
+
+**Data Scientist Junior**  
+*DataLab Srl, Roma*  
+*Giugno 2018 – Dicembre 2020*  
+- Sviluppato modelli di deep learning con TensorFlow e PyTorch per progetti di computer vision.  
+- Creato dashboard interattive per la visualizzazione dei dati utilizzando strumenti come Tableau.  
+- Supportato il team di analisi nella definizione di KPI e metriche chiave per il monitoraggio delle performance.  
+- Partecipato alla migrazione di database legacy verso sistemi cloud-based, migliorando l’accessibilità dei dati.  
+
+---
+
+**Competenze Tecniche**  
+- **Linguaggi di Programmazione**: Python (avanzato)  
+- **Framework ML/DL**: TensorFlow, PyTorch  
+- **Strumenti di Analisi Dati**: Pandas, SQL  
+- **Visualizzazione Dati**: Tableau, Matplotlib, Seaborn  
+- **Cloud**: AWS (base)  
+
+---
+
+**Formazione**  
+**Laurea Magistrale in Informatica**  
+*Università degli Studi di Milano, Milano*  
+*2016 – 2018*  
+Tesi: "Applicazione di Reti Neurali per la Previsione di Serie Temporali"  
+
+**Laurea Triennale in Matematica**  
+*Università La Sapienza, Roma*  
+*2013 – 2016*  
+
+---
+
+**Lingue**  
+- Italiano: Madrelingua  
+- Inglese: Fluente  
+
+---  
+Disponibile per colloqui su richiesta.

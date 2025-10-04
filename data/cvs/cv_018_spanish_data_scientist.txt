@@ -1,0 +1,56 @@
+**Curriculum Vitae**  
+
+**Nombre:** Ana María Gómez Ruiz  
+**Contacto:**  
+Correo electrónico: anamaria.gomez@email.com  
+Teléfono: +34 612 345 678  
+LinkedIn: linkedin.com/in/anamariagomez  
+Ubicación: Madrid, España  
+
+---
+
+**Resumen Profesional:**  
+Data Scientist con 5 años de experiencia en el desarrollo e implementación de modelos predictivos y analítica de datos para optimizar procesos empresariales. Especializada en el uso de Python, TensorFlow, PyTorch, Pandas y SQL, con un enfoque en la extracción de insights accionables y la toma de decisiones basada en datos. Experiencia en sectores como finanzas y comercio electrónico, con un sólido historial de mejora de la eficiencia operativa y la rentabilidad.  
+
+---
+
+**Experiencia Laboral:**  
+
+**Data Scientist Senior**  
+*TechInnovate Solutions, Madrid*  
+*Enero 2021 – Presente*  
+- Desarrollé e implementé modelos de aprendizaje automático utilizando TensorFlow y PyTorch, logrando una mejora del 20% en la precisión de las predicciones de ventas.  
+- Automatizé procesos de limpieza y análisis de datos con Pandas y SQL, reduciendo el tiempo de procesamiento en un 30%.  
+- Lideré un equipo de 3 analistas para la creación de dashboards interactivos, facilitando la toma de decisiones estratégicas.  
+- Colaboré con el departamento de marketing para optimizar campañas, aumentando el ROI en un 15%.  
+
+**Data Scientist Junior**  
+*FinanzaSmart, Barcelona*  
+*Junio 2018 – Diciembre 2020*  
+- Diseñé y entrené modelos predictivos para la detección de fraudes financieros, reduciendo las pérdidas en un 25%.  
+- Gestioné bases de datos relacionales con SQL para la extracción y análisis de datos históricos.  
+- Desarrollé scripts en Python para la automatización de informes semanales, mejorando la eficiencia del equipo en un 40%.  
+- Participé en la migración de datos a un sistema en la nube, asegurando la integridad y seguridad de la información.  
+
+---
+
+**Habilidades Técnicas:**  
+- Lenguajes de programación: **Python** (avanzado)  
+- Frameworks de aprendizaje automático: **TensorFlow**, **PyTorch**  
+- Manipulación de datos: **Pandas**, **SQL**  
+- Visualización de datos: Matplotlib, Seaborn  
+- Herramientas de control de versiones: Git  
+
+---
+
+**Formación Académica:**  
+**Máster en Ciencia de Datos**  
+*Universidad Politécnica de Madrid*  
+*2016 – 2018*  
+
+**Grado en Matemáticas**  
+*Universidad Complutense de Madrid*  
+*2012 – 2016*  
+
+---  
+Disponibilidad para viajar y trabajar de forma remota.

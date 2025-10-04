@@ -1,0 +1,65 @@
+**Curriculum Vitae**  
+
+**Nome e Cognome:** Marco Rossi  
+**Contatti:**  
+- Email: marco.rossi@email.com  
+- Telefono: +39 123 456 7890  
+- LinkedIn: linkedin.com/in/marcorossi  
+- GitHub: github.com/marcorossi  
+
+---
+
+**Profilo Professionale**  
+Sviluppatore Full Stack con 6 anni di esperienza nella progettazione, sviluppo e manutenzione di applicazioni web e mobile. Competente nell’utilizzo di tecnologie come Node.js, Python, PostgreSQL, MongoDB, REST API e React. Forte capacità di lavorare in team, risolvere problemi complessi e consegnare progetti entro i termini stabiliti. Passione per l’innovazione tecnologica e l’ottimizzazione dei processi.  
+
+---
+
+**Esperienza Professionale**  
+
+**Sviluppatore Full Stack Senior**  
+*TechSolutions Srl, Milano*  
+*Gennaio 2020 – Presente*  
+- Progettazione e sviluppo di applicazioni web scalabili utilizzando Node.js e React.  
+- Implementazione di API RESTful per l’integrazione con sistemi esterni.  
+- Gestione di database relazionali (PostgreSQL) e NoSQL (MongoDB).  
+- Collaborazione con team multidisciplinari per la definizione dei requisiti tecnici.  
+- Ottimizzazione delle prestazioni delle applicazioni, riducendo i tempi di caricamento del 30%.  
+
+**Sviluppatore Full Stack**  
+*WebInnovate Srl, Roma*  
+*Giugno 2017 – Dicembre 2019*  
+- Sviluppo di backend robusti con Python e Node.js.  
+- Creazione di interfacce utente reattive utilizzando React.  
+- Manutenzione e aggiornamento di applicazioni esistenti, migliorando la sicurezza e l’usabilità.  
+- Partecipazione alla fase di testing e debug per garantire la qualità del codice.  
+- Formazione di nuovi sviluppatori junior sulle tecnologie e best practice aziendali.  
+
+---
+
+**Competenze Tecniche**  
+- **Linguaggi e Framework:** Node.js, Python, React  
+- **Database:** PostgreSQL, MongoDB  
+- **API:** REST API  
+- **Strumenti:** Git, Docker, Jira  
+- **Altri:** HTML5, CSS3, JavaScript (ES6+), Testing (Jest, Mocha)  
+
+---
+
+**Formazione**  
+**Laurea Magistrale in Informatica**  
+*Università degli Studi di Milano, Milano*  
+*2015 – 2017*  
+Tesi: "Sviluppo di applicazioni web scalabili con Node.js e MongoDB".  
+
+**Laurea Triennale in Scienze Informatiche**  
+*Università degli Studi di Roma La Sapienza, Roma*  
+*2012 – 2015*  
+
+---
+
+**Lingue**  
+- Italiano: Madrelingua  
+- Inglese: Avanzato (C1)  
+
+---  
+Disponibile per colloqui e ulteriori informazioni.

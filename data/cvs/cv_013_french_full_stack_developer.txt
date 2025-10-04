@@ -1,0 +1,54 @@
+**Jean Dupont**  
+[123 Rue de la Technologie, 75001 Paris, France]  
+[jean.dupont@email.com]  
+[+33 6 12 34 56 78]  
+[LinkedIn: linkedin.com/in/jeandupont]  
+[GitHub: github.com/jeandupont]  
+
+---
+
+**Résumé Professionnel**  
+Développeur Full Stack avec 6 ans d'expérience dans la conception, le développement et la maintenance d'applications web et mobiles. Compétent dans la gestion de projets complets, de la base de données à l'interface utilisateur, en utilisant des technologies modernes telles que **Node.js**, **Python**, **PostgreSQL**, **MongoDB**, **REST API** et **React**. Passionné par la création de solutions innovantes et performantes, avec un fort accent sur la qualité du code et l'expérience utilisateur.
+
+---
+
+**Expérience Professionnelle**  
+
+**Développeur Full Stack**  
+*TechInnov SAS, Paris, France*  
+*Janvier 2020 – Présent*  
+- Conçu et développé des applications web scalables en utilisant **Node.js** et **React**, améliorant les performances de 30%.  
+- Mis en place et optimisé des bases de données **PostgreSQL** et **MongoDB** pour gérer des volumes de données importants.  
+- Collaboré avec les équipes UX/UI pour créer des interfaces réactives et intuitives.  
+- Intégré et documenté des **REST API** pour faciliter la communication entre les services microservices.  
+
+**Développeur Web**  
+*WebSolutions Corp, Lyon, France*  
+*Juin 2017 – Décembre 2019*  
+- Développé des applications web dynamiques en utilisant **Python** et **React**, réduisant le temps de chargement des pages de 25%.  
+- Participé à la migration de systèmes legado vers des architectures modernes basées sur des microservices.  
+- Assuré la maintenance et la mise à jour des applications existantes, garantissant une disponibilité de 99,9%.  
+- Formé les nouveaux développeurs aux meilleures pratiques de développement et de gestion de code.  
+
+---
+
+**Compétences Techniques**  
+- **Langages et Frameworks** : **Node.js**, **Python**, **React**  
+- **Bases de Données** : **PostgreSQL**, **MongoDB**  
+- **API et Intégration** : **REST API**  
+- **Outils** : Git, Docker, Jenkins, Jira  
+- **Méthodologies** : Agile, Scrum, Développement Orienté Test (TDD)  
+
+---
+
+**Formation**  
+**Master en Informatique**  
+*Université Pierre et Marie Curie, Paris, France*  
+*2015 – 2017*  
+
+**Licence en Informatique**  
+*Université Claude Bernard Lyon 1, Lyon, France*  
+*2012 – 2015*  
+
+---  
+Disponible pour des opportunités stimulantes où je peux apporter mon expertise technique et ma passion pour l'innovation.

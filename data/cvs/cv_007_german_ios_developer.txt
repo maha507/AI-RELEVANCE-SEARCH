@@ -1,0 +1,61 @@
+**Max Mustermann**  
+Musterstraße 123, 12345 Berlin  
+Telefon: +49 123 456789  
+E-Mail: max.mustermann@email.de  
+LinkedIn: linkedin.com/in/maxmustermann  
+GitHub: github.com/maxmustermann  
+
+---
+
+**Berufsprofil**  
+Engagierter iOS Developer mit 2 Jahren Berufserfahrung in der Entwicklung und Wartung von hochwertigen mobilen Anwendungen. Spezialisiert auf die Nutzung von Swift und SwiftUI zur Erstellung benutzerfreundlicher und effizienter Apps. Erfahrung in der Zusammenarbeit mit agilen Teams und der Implementierung von Best Practices in der Softwareentwicklung.  
+
+---
+
+**Berufserfahrung**  
+
+**iOS Developer**  
+*TechInnovate GmbH, Berlin*  
+*Oktober 2022 – Heute*  
+- Entwicklung und Veröffentlichung von iOS-Anwendungen mit Swift und SwiftUI, die von über 50.000 Nutzern verwendet werden.  
+- Implementierung von CoreData zur effizienten Verwaltung lokaler Daten und Verbesserung der App-Performance.  
+- Zusammenarbeit mit UX/UI-Designern zur Umsetzung von Designs mit UIKit und SwiftUI.  
+- Nutzung von Xcode für die Code-Entwicklung, Debugging und Testautomatisierung.  
+- Aktive Teilnahme an Code Reviews und agilen Meetings (Scrum) zur Sicherstellung der Code-Qualität.  
+
+**Junior iOS Developer**  
+*MobileSolutions AG, Hamburg*  
+*April 2021 – September 2022*  
+- Unterstützung des Entwicklungsteams bei der Wartung und Aktualisierung bestehender Apps in Swift und Objective-C.  
+- Implementierung neuer Features unter Berücksichtigung von Benutzerfreundlichkeit und Performance.  
+- Fehlerbehebung und Optimierung von Apps zur Verbesserung der Nutzererfahrung.  
+- Einarbeitung in moderne Entwicklungstools und -methoden wie Git und CI/CD-Pipelines.  
+
+---
+
+**Technische Fähigkeiten**  
+- **Programmiersprachen:** Swift, Objective-C  
+- **Frameworks:** UIKit, SwiftUI  
+- **Datenmanagement:** CoreData  
+- **Entwicklungstools:** Xcode, Git  
+- **Methoden:** Agile Entwicklung (Scrum), Testgetriebene Entwicklung (TDD)  
+
+---
+
+**Ausbildung**  
+**Bachelor of Science in Informatik**  
+*Technische Universität Berlin*  
+*Oktober 2017 – März 2021*  
+- Schwerpunkt: Mobile Anwendungssysteme  
+- Abschlussarbeit: „Entwicklung einer iOS-App zur Verwaltung von Aufgaben mit Swift und CoreData“  
+
+---
+
+**Sprachen**  
+- Deutsch (Muttersprache)  
+- Englisch (Fließend)  
+
+---
+
+**Interessen**  
+Mobile Technologien, App-Design, Open-Source-Projekte, Fitness.

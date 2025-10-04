@@ -1,0 +1,48 @@
+**John Doe**  
+📧 john.doe@email.com | 📱 +1 123-456-7890 | 🌐 linkedin.com/in/johndoe | 🌍 San Francisco, CA  
+
+---
+
+**Professional Summary**  
+Frontend Developer with 4+ years of experience in designing and developing responsive, user-friendly web applications. Proficient in modern JavaScript frameworks (React, Vue.js) and skilled in using TypeScript, HTML5, and CSS3 to deliver high-performance, scalable solutions. Adept at collaborating with cross-functional teams to translate design mockups into functional interfaces, ensuring seamless user experiences and accessibility compliance.  
+
+---
+
+**Work Experience**  
+
+**Frontend Developer**  
+*TechInnovate Solutions, San Francisco, CA*  
+*June 2021 – Present*  
+- Developed and maintained responsive web applications using React and TypeScript, improving page load times by 25%.  
+- Collaborated with UX/UI designers to implement pixel-perfect designs, ensuring cross-browser compatibility.  
+- Integrated RESTful APIs and optimized state management using Redux, enhancing application performance.  
+- Conducted code reviews and mentored junior developers to maintain code quality and best practices.  
+- Implemented accessibility standards (WCAG) across projects, improving usability for all users.  
+
+**Junior Frontend Developer**  
+*WebCraft Studios, Los Angeles, CA*  
+*March 2019 – May 2021*  
+- Built dynamic single-page applications (SPAs) using Vue.js, reducing development time by 15%.  
+- Translated design wireframes into reusable components with HTML5, CSS3, and SASS.  
+- Assisted in migrating legacy codebases to modern frameworks, improving maintainability.  
+- Participated in Agile sprints, delivering features on time and within scope.  
+- Troubleshot and resolved frontend issues, ensuring a smooth user experience.  
+
+---
+
+**Technical Skills**  
+- **Frameworks/Libraries:** React, Vue.js  
+- **Languages:** TypeScript, JavaScript (ES6+), HTML5, CSS3  
+- **Tools:** Git, Webpack, npm, Yarn, Figma, Jira  
+- **Concepts:** Responsive Design, REST APIs, State Management (Redux, Vuex), Accessibility (WCAG)  
+
+---
+
+**Education**  
+**Bachelor of Science in Computer Science**  
+*University of California, Berkeley*  
+*Graduated: May 2018*  
+- Relevant Coursework: Web Development, Human-Computer Interaction, Algorithms  
+
+---  
+*References available upon request.*

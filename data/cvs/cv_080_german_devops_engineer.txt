@@ -1,0 +1,52 @@
+**Max Mustermann**  
+Musterstraße 123, 12345 Berlin | +49 123 456789 | max.mustermann@email.de | LinkedIn: linkedin.com/in/maxmustermann  
+
+---
+
+**Berufsprofil**  
+Engagierter DevOps Engineer mit 2 Jahren Erfahrung in der Automatisierung, Skalierung und Optimierung von IT-Infrastrukturen. Fachkenntnisse in Containerisierung, Cloud-Technologien und CI/CD-Pipelines. Starke Problemlösungsfähigkeiten und Teamorientierung mit dem Ziel, effiziente und zuverlässige Softwarelösungen zu liefern.  
+
+---
+
+**Berufserfahrung**  
+
+**DevOps Engineer**  
+*TechSolutions GmbH, Berlin | 04/2022 – heute*  
+- Verwaltung und Optimierung von Kubernetes-Clustern zur Skalierung von Microservices.  
+- Implementierung und Wartung von CI/CD-Pipelines mit GitLab CI und Jenkins.  
+- Automatisierung der Infrastruktur mit Terraform auf AWS (EC2, S3, RDS).  
+- Überwachung und Fehlerbehebung von Anwendungen mit Prometheus und Grafana.  
+- Zusammenarbeit mit Entwicklungsteams zur Verbesserung der Deployment-Prozesse.  
+
+**Junior DevOps Engineer**  
+*CloudTech AG, München | 02/2021 – 03/2022*  
+- Einführung und Verwaltung von Docker-Containern zur Verbesserung der Anwendungsportabilität.  
+- Unterstützung bei der Migration von On-Premise-Systemen in die AWS-Cloud.  
+- Einrichtung von Monitoring-Tools wie ELK Stack zur Protokollanalyse.  
+- Mitwirkung an der Automatisierung von Build- und Testprozessen mit Jenkins.  
+
+---
+
+**Technische Fähigkeiten**  
+- **Containerisierung:** Docker, Kubernetes  
+- **Cloud:** Amazon Web Services (AWS), Terraform  
+- **CI/CD:** GitLab CI, Jenkins  
+- **Monitoring:** Prometheus, Grafana, ELK Stack  
+- **Skriptsprachen:** Bash, Python  
+- **Betriebssysteme:** Linux (Ubuntu, CentOS)  
+
+---
+
+**Ausbildung**  
+**Bachelor of Science in Informatik**  
+*Technische Universität Berlin | 2017 – 2020*  
+- Schwerpunkt: Cloud Computing und Softwareentwicklung  
+- Abschlussarbeit: „Automatisierung von Deployment-Prozessen mit Kubernetes“  
+
+---
+
+**Sprachen**  
+Deutsch (Muttersprache), Englisch (fließend)  
+
+---  
+*Verfügbar ab: sofort | Führerschein: Klasse B*

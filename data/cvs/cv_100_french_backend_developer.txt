@@ -1,0 +1,59 @@
+**CV**  
+
+**Nom :** Jean Dupont  
+**Contact :**  
+- Téléphone : +33 6 12 34 56 78  
+- Email : jean.dupont@email.com  
+- LinkedIn : linkedin.com/in/jeandupont  
+- GitHub : github.com/jeandupont  
+
+---
+
+**Profil Professionnel**  
+Développeur Backend avec 4 ans d'expérience dans la conception et l'optimisation de systèmes backend robustes et évolutifs. Compétent dans le développement d'API REST, la gestion de bases de données relationnelles et NoSQL, et la collaboration avec des équipes interdisciplinaires pour livrer des solutions technologiques de haute qualité. Passionné par l'amélioration continue et les meilleures pratiques de développement.
+
+---
+
+**Expérience Professionnelle**  
+
+**Développeur Backend Senior**  
+*TechSolutions SAS, Paris, France*  
+*Janvier 2021 – Présent*  
+- Conçu et implémenté des API REST avec **Node.js** pour supporter des applications web et mobiles, améliorant les temps de réponse de 30 %.  
+- Optimisé les requêtes **PostgreSQL** et **MongoDB**, réduisant les temps de chargement des données de 25 %.  
+- Collaboré avec l'équipe frontend pour intégrer des fonctionnalités React, assurant une expérience utilisateur fluide.  
+- Mis en place des tests unitaires et d'intégration pour garantir la qualité du code.  
+
+**Développeur Backend**  
+*InnovateTech, Lyon, France*  
+*Juin 2019 – Décembre 2020*  
+- Développé et maintenu des microservices en **Python**, supportant une plateforme e-commerce avec plus de 100 000 utilisateurs mensuels.  
+- Migré une base de données legacy vers **MongoDB**, améliorant la flexibilité et la performance du système.  
+- Participé à la conception et à la documentation d'API REST pour les partenaires externes.  
+- Automatisé des tâches de déploiement et de surveillance, réduisant les erreurs humaines de 40 %.  
+
+---
+
+**Compétences Techniques**  
+- Langages : **Node.js**, **Python**  
+- Bases de données : **PostgreSQL**, **MongoDB**  
+- API : **REST API**  
+- Frameworks : **React** (collaboration frontend)  
+- Outils : Git, Docker, Jenkins  
+
+---
+
+**Formation**  
+**Master en Informatique**  
+*Université Pierre et Marie Curie, Paris, France*  
+*2017 – 2019*  
+
+**Licence en Sciences Informatiques**  
+*Université Claude Bernard Lyon 1, Lyon, France*  
+*2014 – 2017*  
+
+---
+
+**Langues**  
+- Français : Langue maternelle  
+- Anglais : Courant

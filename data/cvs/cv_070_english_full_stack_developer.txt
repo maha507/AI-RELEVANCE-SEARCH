@@ -1,0 +1,48 @@
+**John Michael Doe**  
+📞 +1 (555) 123-4567 | ✉️ john.doe@email.com | 🌐 linkedin.com/in/johndoe | 📍 New York, NY  
+
+---
+
+**Professional Summary**  
+Results-driven Full Stack Developer with 6+ years of experience designing, developing, and deploying scalable web applications. Proficient in both front-end and back-end technologies, with a strong focus on creating efficient, user-friendly solutions. Adept at collaborating with cross-functional teams to deliver high-quality software products on time.  
+
+---
+
+**Work Experience**  
+
+**Senior Full Stack Developer**  
+*TechInnovate Solutions, New York, NY*  
+*June 2020 – Present*  
+- Designed and developed RESTful APIs using **Node.js** and **Python**, improving system performance by 30%.  
+- Built responsive front-end interfaces with **React**, enhancing user experience and reducing bounce rates by 25%.  
+- Managed databases using **PostgreSQL** and **MongoDB**, optimizing queries to reduce load times by 40%.  
+- Led a team of 5 developers to deliver a SaaS platform, resulting in a 20% increase in client retention.  
+- Implemented CI/CD pipelines, reducing deployment time by 50%.  
+
+**Full Stack Developer**  
+*WebCraft Studios, Boston, MA*  
+*January 2017 – May 2020*  
+- Developed and maintained full-stack applications using **Node.js**, **React**, and **PostgreSQL**.  
+- Collaborated with designers to implement modern, responsive UIs, improving user engagement by 35%.  
+- Integrated third-party APIs to enhance application functionality and scalability.  
+- Conducted code reviews and mentored junior developers, ensuring adherence to best practices.  
+- Migrated legacy systems to modern architectures, improving system reliability by 25%.  
+
+---
+
+**Technical Skills**  
+- **Back-end:** Node.js, Python, REST API  
+- **Front-end:** React, HTML5, CSS3, JavaScript  
+- **Databases:** PostgreSQL, MongoDB  
+- **Tools:** Git, Docker, AWS, CI/CD Pipelines  
+
+---
+
+**Education**  
+**Bachelor of Science in Computer Science**  
+*University of Massachusetts, Amherst, MA*  
+*Graduated: May 2016*  
+- Relevant Coursework: Software Engineering, Database Systems, Web Development  
+
+---  
+References available upon request.

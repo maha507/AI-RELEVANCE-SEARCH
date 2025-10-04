@@ -1,0 +1,55 @@
+**Jean Dupont**  
+[123 Rue de la Technologie, 75001 Paris, France]  
+[jean.dupont@email.com]  
+[+33 6 12 34 56 78]  
+[LinkedIn: linkedin.com/in/jeandupont]  
+[GitHub: github.com/jeandupont]  
+
+---
+
+**Résumé Professionnel**  
+Développeur iOS passionné avec 4 ans d'expérience dans la conception et le développement d'applications mobiles innovantes. Compétent dans l'utilisation de **Swift**, **Objective-C**, **UIKit**, **SwiftUI**, **CoreData** et **Xcode** pour créer des applications performantes et conviviales. Fort engagement envers la qualité du code, l'optimisation des performances et l'expérience utilisateur. Expérience avérée dans la collaboration avec des équipes multidisciplinaires pour livrer des projets dans les délais impartis.
+
+---
+
+**Expérience Professionnelle**  
+
+**Développeur iOS Senior**  
+*TechInnov SAS, Paris, France*  
+*Janvier 2021 – Présent*  
+- Conçu et développé des applications iOS natives en utilisant **Swift** et **SwiftUI**, améliorant l'expérience utilisateur de 30%.  
+- Migré des parties du code legacy **Objective-C** vers **Swift**, augmentant la maintenabilité et les performances.  
+- Intégré **CoreData** pour la gestion efficace des données locales, réduisant les temps de chargement de 25%.  
+- Collaboré avec les équipes de design et de backend pour assurer une intégration fluide des fonctionnalités.  
+- Mentoré les développeurs juniors et effectué des revues de code pour garantir la qualité.  
+
+**Développeur iOS**  
+*MobileSolutions SRL, Lyon, France*  
+*Juin 2019 – Décembre 2020*  
+- Développé et maintenu des applications iOS en utilisant **UIKit** et **Xcode**, respectant les directives d'Apple.  
+- Implémenté des fonctionnalités complexes en **Swift**, améliorant la stabilité et la réactivité des applications.  
+- Participé à la conception technique et à l'architecture des applications, en collaboration avec l'équipe produit.  
+- Résolu des bogues critiques, améliorant la satisfaction des utilisateurs de 40%.  
+
+---
+
+**Compétences Techniques**  
+- **Langages** : Swift, Objective-C  
+- **Frameworks** : UIKit, SwiftUI  
+- **Bases de données** : CoreData  
+- **Outils** : Xcode, Git, JIRA  
+- **Concepts** : Programmation orientée objet, Design Patterns, Tests unitaires  
+
+---
+
+**Formation**  
+**Master en Informatique**  
+*Université Pierre et Marie Curie, Paris, France*  
+*2017 – 2019*  
+
+**Licence en Sciences Informatiques**  
+*Université Claude Bernard Lyon 1, Lyon, France*  
+*2014 – 2017*  
+
+---  
+Disponible pour des opportunités stimulantes dans le développement iOS.

@@ -1,0 +1,51 @@
+**Max Mustermann**  
+Musterstraße 123, 12345 Berlin | +49 123 456789 | max.mustermann@email.de | LinkedIn: linkedin.com/in/maxmustermann  
+
+---
+
+**Berufsprofil**  
+Erfahrener Android Developer mit 3 Jahren Berufserfahrung in der Entwicklung und Optimierung von mobilen Anwendungen. Spezialisiert auf die Nutzung moderner Technologien wie Kotlin, Java und Jetpack Compose zur Schaffung benutzerfreundlicher und performanter Apps. Starke Problemlösungsfähigkeiten und ein Auge für Detail, kombiniert mit der Fähigkeit, effektiv im Team zu arbeiten und Projekte termingerecht abzuschließen.  
+
+---
+
+**Berufserfahrung**  
+
+**Android Developer**  
+*TechInnovate GmbH, Berlin | 04/2021 – heute*  
+- Entwicklung und Wartung von Android-Anwendungen mit Kotlin und Java, Nutzung des Android SDK und Jetpack Compose für moderne UIs.  
+- Implementierung einer lokalen Datenbank mit Room zur Verbesserung der App-Performance und Offline-Funktionalität.  
+- Zusammenarbeit im Agile-Team (Scrum) zur termingerechten Lieferung von Projekten.  
+- Optimierung der App-Performance und Reduzierung der Ladezeiten um 20 %.  
+- Mentoring von Junior-Entwicklern und Unterstützung bei der Code-Review.  
+
+**Junior Android Developer**  
+*MobileSolutions AG, München | 02/2020 – 03/2021*  
+- Unterstützung bei der Entwicklung von Android-Apps mit Java und dem Android SDK.  
+- Implementierung von UI-Komponenten und Sicherstellung der Kompatibilität mit verschiedenen Geräten.  
+- Fehlerbehebung und Debugging zur Verbesserung der App-Stabilität.  
+- Mitwirkung an der Veröffentlichung von Apps im Google Play Store.  
+
+---
+
+**Technische Fähigkeiten**  
+- **Programmiersprachen:** Kotlin, Java  
+- **Frameworks/Tools:** Android SDK, Jetpack Compose, Room, Retrofit, Dagger-Hilt  
+- **Versionierung:** Git, GitHub  
+- **Sonstiges:** RESTful APIs, Firebase, CI/CD, Unit Testing  
+
+---
+
+**Ausbildung**  
+**Bachelor of Science in Informatik**  
+*Technische Universität Berlin | 2016 – 2019*  
+- Schwerpunkt: Mobile Anwendungssysteme  
+- Abschlussarbeit: „Entwicklung einer Android-App für die Verwaltung von Aufgaben mit Kotlin und Room“  
+
+---
+
+**Sprachen**  
+- Deutsch (Muttersprache)  
+- Englisch (Fließend)  
+
+---  
+*Verfügbar ab: sofort | Führerschein: Klasse B*

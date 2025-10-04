@@ -1,0 +1,56 @@
+**CV – Data Scientist**  
+
+**Nom :** Léa Dupont  
+**Contact :**  
+- Email : lea.dupont@email.com  
+- Téléphone : +33 6 12 34 56 78  
+- LinkedIn : linkedin.com/in/leadupont  
+- Localisation : Paris, France  
+
+---
+
+**Résumé Professionnel :**  
+Data Scientist avec 6 ans d'expérience dans le développement de modèles prédictifs, l'analyse de données et la mise en œuvre de solutions d'apprentissage automatique. Compétente dans l'utilisation de Python, TensorFlow, PyTorch, Pandas et SQL pour extraire des insights actionnables et soutenir la prise de décision stratégique. Passionnée par la résolution de problèmes complexes et l'optimisation des processus métier grâce à la science des données.  
+
+---
+
+**Expérience Professionnelle :**  
+
+**Data Scientist Senior**  
+*Innovatech Solutions, Paris*  
+*Janvier 2021 – Présent*  
+- Conçu et déployé des modèles de machine learning pour prédire les tendances de marché, améliorant la précision des prévisions de 25 %.  
+- Développé des pipelines de traitement de données avec Pandas et SQL pour automatiser l'analyse de grandes bases de données.  
+- Collaboré avec les équipes métier pour traduire les besoins en solutions techniques, utilisant TensorFlow et PyTorch pour des projets d'apprentissage profond.  
+- Formé les équipes juniors aux meilleures pratiques en science des données et en programmation Python.  
+
+**Data Scientist**  
+*DataInsight Analytics, Lyon*  
+*Juin 2017 – Décembre 2020*  
+- Implémenté des algorithmes de classification et de régression pour optimiser les campagnes marketing, augmentant le ROI de 15 %.  
+- Créé des tableaux de bord interactifs avec Tableau pour visualiser les KPIs et les tendances clés.  
+- Géré des bases de données relationnelles avec SQL pour extraire et nettoyer les données brutes.  
+- Participé à des projets de R&D pour explorer de nouvelles techniques d'apprentissage automatique.  
+
+---
+
+**Compétences Techniques :**  
+- Langages de programmation : **Python** (expert), SQL (avancé)  
+- Frameworks de machine learning : **TensorFlow**, **PyTorch**  
+- Outils de manipulation de données : **Pandas**, NumPy  
+- Visualisation de données : Tableau, Matplotlib, Seaborn  
+- Cloud et déploiement : AWS, Google Cloud  
+
+---
+
+**Formation :**  
+**Master en Science des Données**  
+*Université Pierre et Marie Curie (Sorbonne Université), Paris*  
+*2015 – 2017*  
+
+**Licence en Mathématiques Appliquées**  
+*Université Claude Bernard Lyon 1, Lyon*  
+*2012 – 2015*  
+
+---  
+Disponible pour des opportunités stimulantes dans le domaine de la science des données.

@@ -1,0 +1,57 @@
+**Curriculum Vitae**  
+
+**Nome e Cognome**: Marco Rossi  
+**Contatti**:  
+- Email: marco.rossi@email.com  
+- Telefono: +39 333 123 4567  
+- LinkedIn: linkedin.com/in/marcorossi  
+- GitHub: github.com/marcorossi  
+
+---
+
+**Profilo Professionale**  
+Sviluppatore Full Stack con 4 anni di esperienza nella progettazione, sviluppo e manutenzione di applicazioni web e mobile. Competente nell'utilizzo di tecnologie come Node.js, Python, PostgreSQL, MongoDB, REST API e React. Forte capacità di lavorare in team, risolvere problemi complessi e consegnare progetti entro i termini stabiliti. Passione per l'innovazione tecnologica e l'ottimizzazione dei processi.  
+
+---
+
+**Esperienza Professionale**  
+
+**Sviluppatore Full Stack**  
+*TechSolutions Srl, Milano*  
+*Gennaio 2021 – Presente*  
+- Progettazione e sviluppo di applicazioni web scalabili utilizzando Node.js e React.  
+- Implementazione e gestione di database relazionali (PostgreSQL) e NoSQL (MongoDB).  
+- Creazione e integrazione di REST API per garantire la comunicazione tra frontend e backend.  
+- Collaborazione con team multidisciplinari per definire requisiti tecnici e funzionali.  
+- Ottimizzazione delle prestazioni delle applicazioni, riducendo i tempi di caricamento del 20%.  
+
+**Sviluppatore Backend**  
+*WebInnovate Srl, Roma*  
+*Giugno 2019 – Dicembre 2020*  
+- Sviluppo di API RESTful con Node.js per supportare applicazioni web e mobile.  
+- Gestione e ottimizzazione di database PostgreSQL per migliorare l'efficienza delle query.  
+- Implementazione di script Python per l'automazione di processi interni.  
+- Partecipazione alla migrazione di un sistema legacy verso una nuova architettura microservices.  
+
+---
+
+**Competenze Tecniche**  
+- **Linguaggi e Framework**: Node.js, Python, React  
+- **Database**: PostgreSQL, MongoDB  
+- **API**: REST API  
+- **Altri Strumenti**: Git, Docker, AWS (base)  
+
+---
+
+**Formazione**  
+**Laurea in Informatica**  
+*Università degli Studi di Milano*  
+*2015 – 2018*  
+- Tesi: "Sviluppo di un'applicazione web per la gestione di progetti Agile".  
+
+**Corsi e Certificazioni**  
+- Certificazione "Full Stack Web Developer" – Udemy (2019)  
+- Corso "Advanced Python Programming" – Coursera (2020)  
+
+---  
+Disponibile per colloqui e ulteriori informazioni.

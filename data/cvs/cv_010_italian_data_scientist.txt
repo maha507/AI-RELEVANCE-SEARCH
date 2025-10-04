@@ -1,0 +1,57 @@
+**Curriculum Vitae**  
+
+**Nome e Cognome:** Marco Rossi  
+**Contatti:**  
+Email: marco.rossi@email.com  
+Telefono: +39 123 456 7890  
+LinkedIn: linkedin.com/in/marcorossi  
+GitHub: github.com/marcorossi  
+
+---
+
+**Profilo Professionale**  
+Data Scientist con 4 anni di esperienza nello sviluppo e implementazione di modelli di machine learning e analisi dei dati. Competente nell’estrazione di insight da grandi dataset per supportare decisioni strategiche aziendali. Esperto nell’utilizzo di Python, TensorFlow, PyTorch, Pandas e SQL. Forte capacità di collaborazione in team multidisciplinari e comunicazione efficace dei risultati tecnici a stakeholder non tecnici.  
+
+---
+
+**Esperienza Professionale**  
+
+**Data Scientist Senior**  
+*TechInnovate Srl, Milano*  
+*Gennaio 2022 – Presente*  
+- Progettato e implementato modelli di machine learning per prevedere trend di mercato, migliorando l’accuratezza del 20%.  
+- Sviluppato pipeline di dati automatizzate utilizzando Python e Pandas, riducendo il tempo di elaborazione del 30%.  
+- Collaborato con il team di prodotto per integrare modelli predittivi in applicazioni aziendali.  
+- Condotto analisi esplorative su grandi dataset utilizzando SQL e Pandas per identificare opportunità di business.  
+
+**Data Scientist Junior**  
+*DataLab Srl, Roma*  
+*Giugno 2019 – Dicembre 2021*  
+- Sviluppato modelli di deep learning con TensorFlow e PyTorch per progetti di computer vision.  
+- Creato dashboard interattive per la visualizzazione dei dati utilizzando Tableau e Python.  
+- Ottimizzato query SQL per migliorare le prestazioni del database e ridurre i tempi di risposta.  
+- Supportato il team senior nell’analisi dei dati e nella presentazione dei risultati ai clienti.  
+
+---
+
+**Competenze Tecniche**  
+- **Linguaggi di Programmazione:** Python  
+- **Machine Learning/Deep Learning:** TensorFlow, PyTorch  
+- **Analisi Dati:** Pandas, SQL  
+- **Visualizzazione Dati:** Tableau, Matplotlib, Seaborn  
+- **Strumenti:** Git, Jupyter Notebook, AWS (base)  
+
+---
+
+**Formazione**  
+**Laurea Magistrale in Informatica**  
+*Università degli Studi di Milano, Milano*  
+*2017 – 2019*  
+Tesi: "Applicazione di reti neurali convoluzionali per il riconoscimento di immagini mediche".  
+
+**Laurea Triennale in Matematica**  
+*Università La Sapienza, Roma*  
+*2014 – 2017*  
+
+---  
+Disponibile per colloqui e ulteriori informazioni.

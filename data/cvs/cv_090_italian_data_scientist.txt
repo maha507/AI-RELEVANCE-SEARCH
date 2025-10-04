@@ -1,0 +1,62 @@
+**Curriculum Vitae**  
+
+**Nome e Cognome**: Maria Rossi  
+**Contatti**:  
+Email: maria.rossi@email.com  
+Telefono: +39 123 456 7890  
+LinkedIn: linkedin.com/in/mariarossi  
+GitHub: github.com/mariarossi  
+
+---
+
+**Profilo Professionale**  
+Data Scientist con 2 anni di esperienza nello sviluppo e implementazione di modelli di machine learning e analisi dei dati. Competente nell’utilizzo di strumenti come Python, TensorFlow, PyTorch, Pandas e SQL per estrarre insights e supportare il processo decisionale aziendale. Forte capacità di problem-solving e comunicazione efficace dei risultati tecnici a team multidisciplinari.  
+
+---
+
+**Esperienza Professionale**  
+
+**Data Scientist**  
+*TechInnovations Srl, Milano*  
+*Gennaio 2022 – Presente*  
+- Progettato e implementato modelli di machine learning per prevedere trend di mercato, migliorando l’accuratezza del 15%.  
+- Sviluppato pipeline di dati utilizzando Python e Pandas per la pulizia e la trasformazione di grandi dataset.  
+- Collaborato con il team di business per tradurre esigenze aziendali in soluzioni basate sui dati.  
+- Ottimizzato query SQL per migliorare l’efficienza dell’estrazione e dell’analisi dei dati.  
+
+**Junior Data Analyst**  
+*DataInsight Srl, Roma*  
+*Giugno 2021 – Dicembre 2021*  
+- Analizzato dati strutturati e non strutturati per identificare pattern e tendenze.  
+- Creato dashboard interattive utilizzando strumenti di visualizzazione per monitorare KPI aziendali.  
+- Supportato il team di Data Science nella preparazione e nel preprocessing dei dati per modelli predittivi.  
+
+---
+
+**Competenze Tecniche**  
+- **Linguaggi di Programmazione**: Python  
+- **Framework di Machine Learning**: TensorFlow, PyTorch  
+- **Manipolazione Dati**: Pandas, SQL  
+- **Strumenti di Visualizzazione**: Matplotlib, Seaborn  
+- **Cloud**: Basi di AWS  
+
+---
+
+**Formazione**  
+**Laurea Magistrale in Informatica**  
+*Università degli Studi di Milano*  
+*2019 – 2021*  
+Tesi: "Applicazione di Reti Neurali per la Previsione di Serie Temporali"  
+
+**Laurea Triennale in Matematica**  
+*Università La Sapienza, Roma*  
+*2016 – 2019*  
+
+---
+
+**Lingue**  
+- Italiano: Madrelingua  
+- Inglese: Fluente  
+
+---  
+Disponibile per colloqui e ulteriori informazioni.

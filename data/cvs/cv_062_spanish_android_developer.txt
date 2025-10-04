@@ -1,0 +1,63 @@
+**Curriculum Vitae**  
+
+**Nombre:** Juan Carlos Ramírez Morales  
+**Contacto:**  
+- Teléfono: +52 55 1234 5678  
+- Correo electrónico: juan.ramirez@email.com  
+- LinkedIn: linkedin.com/in/juanramirezdev  
+- Ubicación: Ciudad de México, México  
+
+---
+
+**Resumen Profesional:**  
+Desarrollador Android con 3 años de experiencia en el diseño, desarrollo e implementación de aplicaciones móviles de alta calidad. Especializado en Kotlin y Java, con sólidos conocimientos en Android SDK, Jetpack Compose y Room. Experiencia en el trabajo colaborativo con equipos multidisciplinarios para entregar soluciones innovadoras y eficientes. Apasionado por la tecnología y el aprendizaje continuo, siempre buscando mejorar la experiencia del usuario.  
+
+---
+
+**Experiencia Laboral:**  
+
+**Desarrollador Android Senior**  
+*TechInnovate Solutions, Ciudad de México*  
+*Enero 2022 – Presente*  
+- Lideré el desarrollo de aplicaciones móviles utilizando Kotlin y Jetpack Compose, mejorando la interfaz de usuario y la experiencia del cliente.  
+- Implementé soluciones de persistencia de datos con Room, optimizando el rendimiento de las aplicaciones.  
+- Colaboré con el equipo de diseño para garantizar la coherencia visual y funcional de las aplicaciones.  
+- Realicé pruebas unitarias y de integración para asegurar la calidad del código.  
+
+**Desarrollador Android Junior**  
+*MobileDev Studios, Guadalajara*  
+*Junio 2020 – Diciembre 2021*  
+- Desarrollé aplicaciones Android utilizando Java y Android SDK, siguiendo las mejores prácticas de programación.  
+- Participé en la migración de aplicaciones de Java a Kotlin, mejorando la mantenibilidad del código.  
+- Trabajé en la integración de APIs RESTful para la comunicación con servidores backend.  
+- Contribuí en la resolución de errores y optimización del rendimiento de aplicaciones existentes.  
+
+---
+
+**Habilidades Técnicas:**  
+- **Lenguajes de Programación:** Kotlin, Java  
+- **Herramientas y Frameworks:** Android SDK, Jetpack Compose, Room  
+- **Control de Versiones:** Git  
+- **Metodologías:** Desarrollo Ágil (Scrum), Programación Orientada a Objetos  
+- **Herramientas de Desarrollo:** Android Studio, Postman, Jira  
+
+---
+
+**Formación Académica:**  
+**Ingeniería en Sistemas Computacionales**  
+*Universidad Nacional Autónoma de México (UNAM), Ciudad de México*  
+*2016 – 2020*  
+- Proyecto de titulación: Desarrollo de una aplicación móvil para la gestión de tareas utilizando Android y Firebase.  
+
+**Cursos y Certificaciones:**  
+- Certificación en Desarrollo de Aplicaciones Android (Kotlin) – Udemy, 2021  
+- Taller de Jetpack Compose – Google Developers, 2022  
+
+--- 
+
+**Idiomas:**  
+- Español: Nativo  
+- Inglés: Intermedio  
+
+---  
+Disponible para nuevas oportunidades laborales. ¡Contáctame para colaborar en proyectos innovadores!

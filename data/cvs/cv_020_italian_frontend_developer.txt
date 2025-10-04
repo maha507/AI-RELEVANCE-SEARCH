@@ -1,0 +1,58 @@
+**Curriculum Vitae**  
+
+**Nome e Cognome**: Marco Rossi  
+**Contatti**:  
+- Email: marco.rossi@email.com  
+- Telefono: +39 123 456 7890  
+- LinkedIn: linkedin.com/in/marcorossi  
+- GitHub: github.com/marcorossi  
+
+---
+
+**Profilo Professionale**  
+Frontend Developer con 3 anni di esperienza nello sviluppo di interfacce utente responsive e performanti. Specializzato in tecnologie come **React**, **Vue.js**, **TypeScript**, **HTML** e **CSS**, con una forte attenzione all’accessibilità e all’esperienza utente. Capacità di collaborare efficacemente in team multidisciplinari e di gestire progetti in autonomia.  
+
+---
+
+**Esperienza Professionale**  
+
+**Frontend Developer**  
+*TechSolutions Srl, Milano*  
+*Gennaio 2022 – Presente*  
+- Sviluppo e manutenzione di applicazioni web utilizzando **React** e **TypeScript**.  
+- Implementazione di design system con **CSS Modules** e **Styled Components**.  
+- Ottimizzazione delle performance delle pagine per migliorare il SEO e l’esperienza utente.  
+- Collaborazione con il team backend per l’integrazione di API RESTful.  
+- Introduzione di **Vue.js** per progetti specifici, garantendo flessibilità tecnologica.  
+
+**Junior Frontend Developer**  
+*WebCraft Srl, Roma*  
+*Giugno 2020 – Dicembre 2021*  
+- Sviluppo di interfacce utente responsive con **HTML5**, **CSS3** e **JavaScript**.  
+- Migrazione di progetti legacy a **React**, migliorando la manutenibilità del codice.  
+- Partecipazione alla progettazione di layout e prototipi in collaborazione con il team UX/UI.  
+- Implementazione di test unitari con Jest per garantire la qualità del codice.  
+
+---
+
+**Competenze Tecniche**  
+- **Framework**: React, Vue.js  
+- **Linguaggi**: TypeScript, JavaScript, HTML5, CSS3  
+- **Strumenti**: Git, npm, Webpack, Babel  
+- **Design**: Responsive Design, CSS Frameworks (Bootstrap, Tailwind)  
+- **Altro**: REST API, Accessibilità (WCAG), Test Automation (Jest)  
+
+---
+
+**Formazione**  
+**Laurea Triennale in Informatica**  
+*Università degli Studi di Roma "La Sapienza"*, Roma  
+*2017 – 2020*  
+- Tesi: "Sviluppo di interfacce utente accessibili con tecnologie moderne".  
+
+**Corsi e Certificazioni**  
+- Certificazione "React Developer" – Udemy (2021)  
+- Corso "Modern JavaScript" – Coursera (2020)  
+
+---  
+Disponibile per colloqui e collaborazioni.

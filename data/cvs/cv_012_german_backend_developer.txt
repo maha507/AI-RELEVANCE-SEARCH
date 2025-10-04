@@ -1,0 +1,54 @@
+**Max Mustermann**  
+Musterstraße 123, 12345 Berlin  
+Telefon: +49 123 456789  
+E-Mail: max.mustermann@example.com  
+LinkedIn: linkedin.com/in/maxmustermann  
+
+---
+
+**Berufsprofil**  
+Erfahrener Backend-Entwickler mit 4 Jahren Berufserfahrung in der Entwicklung und Optimierung skalierbarer Webanwendungen. Spezialisiert auf die Implementierung robuster Backend-Systeme mit Node.js und Python sowie die Arbeit mit Datenbanken wie PostgreSQL und MongoDB. Erfahrung in der Integration von REST APIs und grundlegendes Verständnis von React für Full-Stack-Projekte. Teamorientiert, lösungsfokussiert und stets bestrebt, effiziente und zuverlässige Softwarelösungen zu liefern.
+
+---
+
+**Berufserfahrung**  
+
+**Backend-Entwickler**  
+*TechInnovate GmbH, Berlin | 04/2021 – heute*  
+- Entwicklung und Wartung von Backend-Systemen mit Node.js und Python für webbasierte Anwendungen.  
+- Implementierung und Optimierung von REST APIs zur Verbesserung der Systemperformance.  
+- Verwaltung und Skalierung von Datenbanken (PostgreSQL, MongoDB) für hohe Datenvolumen.  
+- Zusammenarbeit mit Frontend-Teams (React) zur nahtlosen Integration von Backend-Diensten.  
+- Einführung von CI/CD-Pipelines zur Automatisierung von Tests und Deployment-Prozessen.  
+
+**Junior Backend-Entwickler**  
+*WebSolutions AG, Hamburg | 06/2019 – 03/2021*  
+- Unterstützung bei der Entwicklung von Backend-Komponenten mit Node.js und Python.  
+- Implementierung von REST APIs für die Kommunikation zwischen Frontend und Backend.  
+- Verwaltung von PostgreSQL-Datenbanken und Sicherstellung der Datensicherheit.  
+- Mitwirkung an der Fehlerbehebung und Performance-Optimierung bestehender Systeme.  
+
+---
+
+**Technische Fähigkeiten**  
+- **Programmiersprachen:** Node.js, Python  
+- **Datenbanken:** PostgreSQL, MongoDB  
+- **APIs:** REST API  
+- **Frameworks:** React (Grundkenntnisse)  
+- **Tools:** Git, Docker, CI/CD  
+
+---
+
+**Ausbildung**  
+**Bachelor of Science in Informatik**  
+*Technische Universität Berlin | 2016 – 2019*  
+- Schwerpunkte: Softwareentwicklung, Datenbanken, Webtechnologien  
+
+---
+
+**Sprachen**  
+- Deutsch (Muttersprache)  
+- Englisch (Fließend)  
+
+---  
+Erstellt im Juni 2023.

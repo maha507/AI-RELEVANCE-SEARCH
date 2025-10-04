@@ -1,0 +1,57 @@
+**Max Mustermann**  
+Musterstraße 123, 12345 Berlin  
+Telefon: +49 123 456789  
+E-Mail: max.mustermann@email.de  
+LinkedIn: linkedin.com/in/maxmustermann  
+
+---
+
+**Berufsprofil**  
+Datenwissenschaftler mit 3 Jahren Berufserfahrung in der Entwicklung und Implementierung von Machine-Learning-Modellen sowie der Analyse großer Datenmengen. Fachkenntnisse in Python, TensorFlow, PyTorch, Pandas und SQL. Erfolgreiche Realisierung von datengetriebenen Lösungen zur Optimierung von Geschäftsprozessen und Entscheidungsfindungen. Starke analytische Fähigkeiten und Teamorientierung.  
+
+---
+
+**Berufserfahrung**  
+
+**Datenwissenschaftler**  
+*TechInnovate GmbH, Berlin | 04/2021 – heute*  
+- Entwicklung und Bereitstellung von Machine-Learning-Modellen mit TensorFlow und PyTorch zur Vorhersage von Markttrends.  
+- Analyse und Aufbereitung großer Datensätze mit Pandas und SQL zur Unterstützung strategischer Entscheidungen.  
+- Automatisierung von Datenpipelines zur Steigerung der Effizienz um 25 %.  
+- Zusammenarbeit mit interdisziplinären Teams zur Integration datengetriebener Lösungen in bestehende Systeme.  
+
+**Junior Datenanalyst**  
+*DataSolutions AG, München | 02/2019 – 03/2021*  
+- Durchführung von Datenanalysen zur Identifikation von Prozessoptimierungen und Kostensenkungspotenzialen.  
+- Erstellung von Dashboards und Berichten zur Visualisierung von Geschäftskennzahlen.  
+- Unterstützung bei der Implementierung von SQL-Datenbanken zur zentralen Datenspeicherung.  
+- Schulung von Teammitgliedern in der Nutzung von Python für datenbezogene Aufgaben.  
+
+---
+
+**Technische Fähigkeiten**  
+- **Programmiersprachen:** Python  
+- **Machine Learning:** TensorFlow, PyTorch  
+- **Datenanalyse:** Pandas, SQL  
+- **Visualisierung:** Matplotlib, Seaborn  
+- **Tools:** Git, Jupyter Notebook  
+
+---
+
+**Ausbildung**  
+**Master of Science in Datenwissenschaft**  
+*Technische Universität Berlin | 2016 – 2018*  
+- Schwerpunkte: Machine Learning, Big Data, Statistik  
+
+**Bachelor of Science in Informatik**  
+*Ludwig-Maximilians-Universität München | 2012 – 2016*  
+- Schwerpunkte: Datenbanken, Algorithmen, Softwareentwicklung  
+
+---
+
+**Sprachen**  
+- Deutsch (Muttersprache)  
+- Englisch (Fließend)  
+
+---  
+*Letzte Aktualisierung: Oktober 2023*

@@ -1,0 +1,63 @@
+**Curriculum Vitae**  
+
+**Nom :** Jean Dupont  
+**Contact :**  
+- Téléphone : +33 6 12 34 56 78  
+- Email : jean.dupont@email.com  
+- LinkedIn : linkedin.com/in/jeandupont  
+- GitHub : github.com/jeandupont  
+
+---
+
+**Profil Professionnel**  
+Développeur Backend avec 2 ans d'expérience dans la conception et l'optimisation de systèmes backend robustes et évolutifs. Compétent dans le développement d'API REST, la gestion de bases de données relationnelles et NoSQL, et la collaboration avec des équipes interdisciplinaires pour livrer des solutions technologiques de haute qualité. Passionné par l'amélioration continue et les meilleures pratiques de développement.
+
+---
+
+**Expérience Professionnelle**  
+
+**Développeur Backend**  
+*TechSolutions SAS, Paris (France)*  
+*Janvier 2022 – Présent*  
+- Conçu et mis en œuvre des API REST en utilisant **Node.js** et **Python** pour soutenir des applications web et mobiles.  
+- Optimisé les performances des bases de données **PostgreSQL** et **MongoDB**, réduisant les temps de réponse de 30 %.  
+- Collaboré avec l'équipe frontend pour intégrer des fonctionnalités avec **React**.  
+- Participé à des revues de code et à la mise en place de tests unitaires pour garantir la qualité du code.  
+
+**Stagiaire Développeur Backend**  
+*InnovTech SRL, Lyon (France)*  
+*Juin 2021 – Décembre 2021*  
+- Développé et maintenu des microservices en **Node.js** pour une plateforme e-commerce.  
+- Migré une base de données legacy vers **PostgreSQL**, améliorant la fiabilité et la scalabilité.  
+- Documenté les API et les processus techniques pour faciliter la collaboration entre les équipes.  
+
+---
+
+**Compétences Techniques**  
+- Langages : **Node.js**, **Python**  
+- Bases de données : **PostgreSQL**, **MongoDB**  
+- API : Conception et gestion d'**API REST**  
+- Frontend : Connaissances de base en **React**  
+- Outils : Git, Docker, Postman  
+
+---
+
+**Formation**  
+**Master en Informatique**  
+*Université Paris-Saclay, France*  
+*2019 – 2021*  
+- Spécialisation en développement logiciel et bases de données.  
+
+**Licence en Informatique**  
+*Université Lyon 1, France*  
+*2016 – 2019*  
+- Projet de fin d'études : Développement d'une application de gestion de tâches en **Python**.  
+
+---
+
+**Langues**  
+- Français : Langue maternelle  
+- Anglais : Courant (TOEIC : 920)  
+
+---  
+Disponible pour des entretiens et ouvert aux opportunités de collaboration.

@@ -1,0 +1,63 @@
+**Curriculum Vitae**  
+
+**Nom :** Jean Dupont  
+**Contact :**  
+- Téléphone : +33 6 12 34 56 78  
+- Email : jean.dupont@email.com  
+- LinkedIn : linkedin.com/in/jeandupont  
+- GitHub : github.com/jeandupont  
+
+---
+
+**Profil Professionnel**  
+Développeur Full Stack avec 3 ans d'expérience dans la conception et le développement d'applications web et mobiles. Compétent dans la gestion de projets complets, de la base de données à l'interface utilisateur, en utilisant des technologies modernes telles que **Node.js**, **Python**, **React**, **PostgreSQL**, **MongoDB** et les **REST API**. Passionné par la création de solutions innovantes et performantes, avec un fort esprit d'équipe et une capacité à s'adapter rapidement aux nouvelles technologies.  
+
+---
+
+**Expérience Professionnelle**  
+
+**Développeur Full Stack**  
+*TechInnov, Paris, France*  
+*Janvier 2022 – Présent*  
+- Conception et développement d'applications web full stack en utilisant **React** pour le frontend et **Node.js** pour le backend.  
+- Gestion des bases de données relationnelles (**PostgreSQL**) et NoSQL (**MongoDB**).  
+- Implémentation et maintenance d'**API REST** pour assurer la communication entre les services.  
+- Collaboration avec une équipe agile pour livrer des projets dans les délais impartis.  
+- Optimisation des performances des applications et résolution des bugs.  
+
+**Développeur Web Junior**  
+*WebSolutions, Lyon, France*  
+*Juin 2020 – Décembre 2021*  
+- Développement de sites web dynamiques en utilisant **Python** (Django) et **React**.  
+- Intégration de bases de données **PostgreSQL** pour la gestion des données utilisateurs.  
+- Participation à la conception de l'architecture des applications en collaboration avec l'équipe technique.  
+- Formation et soutien aux stagiaires pour l'utilisation des outils de développement.  
+
+---
+
+**Compétences Techniques**  
+- **Langages et Frameworks :** Node.js, Python (Django), React  
+- **Bases de Données :** PostgreSQL, MongoDB  
+- **API :** REST API  
+- **Outils :** Git, Docker, Postman  
+- **Autres :** HTML5, CSS3, JavaScript (ES6+), Responsive Design  
+
+---
+
+**Formation**  
+**Master en Informatique – Spécialisation Développement Web**  
+*Université de Paris-Saclay, France*  
+*2018 – 2020*  
+
+**Licence en Informatique**  
+*Université Claude Bernard Lyon 1, France*  
+*2015 – 2018*  
+
+---
+
+**Langues**  
+- Français : Langue maternelle  
+- Anglais : Courant (TOEIC : 900)  
+
+---  
+Disponible pour des entretiens et prêt à relever de nouveaux défis dans un environnement innovant.

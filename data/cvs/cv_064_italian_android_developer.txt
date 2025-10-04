@@ -1,0 +1,58 @@
+**Curriculum Vitae**  
+
+**Nome e Cognome:** Marco Rossi  
+**Contatti:**  
+- Email: marco.rossi@email.com  
+- Telefono: +39 333 123 4567  
+- LinkedIn: linkedin.com/in/marcorossi  
+- GitHub: github.com/marcorossi  
+
+---
+
+**Profilo Professionale**  
+Sviluppatore Android con 5 anni di esperienza nella progettazione e implementazione di applicazioni mobili di alta qualità. Esperto nell’utilizzo di Kotlin, Java e Android SDK, con una solida competenza in Jetpack Compose e Room per lo sviluppo di interfacce moderne e gestione dei dati. Passione per la creazione di soluzioni innovative e user-friendly, con un forte focus sull’ottimizzazione delle prestazioni e l’esperienza utente.  
+
+---
+
+**Esperienza Professionale**  
+
+**Sviluppatore Android Senior**  
+*TechSolutions Srl, Milano*  
+*Gennaio 2021 – Presente*  
+- Progettazione e sviluppo di applicazioni Android utilizzando Kotlin e Jetpack Compose.  
+- Implementazione di architetture moderne (MVVM, Clean Architecture) per migliorare la manutenibilità del codice.  
+- Integrazione di API REST e gestione dei dati locali con Room.  
+- Ottimizzazione delle prestazioni e riduzione del consumo di batteria.  
+- Collaborazione con team multidisciplinari per la consegna di progetti in tempi brevi.  
+
+**Sviluppatore Android**  
+*MobileDev Italia, Roma*  
+*Giugno 2018 – Dicembre 2020*  
+- Sviluppo di applicazioni Android con Java e Android SDK.  
+- Implementazione di funzionalità avanzate come notifiche push e geolocalizzazione.  
+- Gestione del ciclo di vita delle app, dalla progettazione al rilascio su Google Play Store.  
+- Risoluzione di bug e miglioramento della stabilità delle applicazioni.  
+- Partecipazione a code review e sessioni di formazione interna.  
+
+---
+
+**Competenze Tecniche**  
+- **Linguaggi di Programmazione:** Kotlin, Java  
+- **Framework e Strumenti:** Android SDK, Jetpack Compose, Room, Retrofit, Dagger-Hilt  
+- **Strumenti di Sviluppo:** Android Studio, Git, Jira, Postman  
+- **Conoscenze Aggiuntive:** Architetture MVVM e Clean Architecture, Test Unitari, CI/CD  
+
+---
+
+**Formazione**  
+**Laurea in Informatica**  
+*Università degli Studi di Roma "La Sapienza", Roma*  
+*2013 – 2016*  
+- Tesi: "Sviluppo di applicazioni mobili per la gestione di dati sanitari"  
+
+**Corsi e Certificazioni**  
+- Certificazione Associate Android Developer (Google, 2019)  
+- Corso avanzato su Jetpack Compose (Udemy, 2021)  
+
+---  
+Disponibile per colloqui e collaborazioni.

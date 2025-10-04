@@ -1,0 +1,60 @@
+**Max Mustermann**  
+Musterstraße 123, 12345 Berlin  
+Telefon: +49 123 456789  
+E-Mail: max.mustermann@example.com  
+LinkedIn: linkedin.com/in/maxmustermann  
+GitHub: github.com/maxmustermann  
+
+---
+
+**Berufsprofil**  
+Engagierter Full Stack Developer mit 2 Jahren Berufserfahrung in der Entwicklung und Implementierung von Webanwendungen. Fachkenntnisse in modernen Technologien wie Node.js, Python, PostgreSQL, MongoDB, REST API und React. Teamorientiert, lösungsorientiert und stets bestrebt, effiziente und skalierbare Softwarelösungen zu liefern.  
+
+---
+
+**Berufserfahrung**  
+
+**Full Stack Developer**  
+*TechInnovate GmbH, Berlin*  
+*Oktober 2022 – Heute*  
+- Entwicklung und Wartung von Webanwendungen mit Node.js und React.  
+- Implementierung von REST APIs für die Kommunikation zwischen Frontend und Backend.  
+- Verwaltung von Datenbanken mit PostgreSQL und MongoDB zur Optimierung der Datenstruktur.  
+- Zusammenarbeit im Agile-Team (Scrum) zur termingerechten Lieferung von Projekten.  
+- Verbesserung der Anwendungsleistung durch Code-Optimierung und Debugging.  
+
+**Junior Full Stack Developer**  
+*WebSolutions AG, Hamburg*  
+*April 2021 – September 2022*  
+- Unterstützung bei der Entwicklung von Webanwendungen mit Python und React.  
+- Mitwirkung an der Gestaltung und Implementierung von Datenbanken mit PostgreSQL.  
+- Erstellung von Benutzeroberflächen mit Fokus auf Benutzerfreundlichkeit und Responsivität.  
+- Teilnahme an Code-Reviews und Pair Programming zur Qualitätssteigerung.  
+- Automatisierung von Aufgaben zur Verbesserung der Entwicklungsabläufe.  
+
+---
+
+**Technische Fähigkeiten**  
+- **Programmiersprachen:** Node.js, Python  
+- **Datenbanken:** PostgreSQL, MongoDB  
+- **Webentwicklung:** React, REST API  
+- **Tools:** Git, Docker, Postman  
+- **Methoden:** Agile Entwicklung (Scrum), Testgetriebene Entwicklung (TDD)  
+
+---
+
+**Ausbildung**  
+**Bachelor of Science in Informatik**  
+*Technische Universität Berlin*  
+*Oktober 2017 – März 2021*  
+- Schwerpunkt: Softwareentwicklung und Datenbanken  
+- Abschlussarbeit: „Entwicklung einer skalierbaren Webanwendung mit Node.js und React“  
+
+---
+
+**Sprachen**  
+- Deutsch (Muttersprache)  
+- Englisch (Fließend)  
+
+---  
+Max Mustermann – Leidenschaftlicher Entwickler mit Fokus auf innovative Lösungen und kontinuierliche Weiterentwicklung.

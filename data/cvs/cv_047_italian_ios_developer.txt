@@ -1,0 +1,58 @@
+**Curriculum Vitae**  
+
+**Nome e Cognome:** Marco Rossi  
+**Contatti:**  
+Email: marco.rossi@email.com  
+Telefono: +39 333 123 4567  
+LinkedIn: linkedin.com/in/marcorossi  
+GitHub: github.com/marcorossi  
+
+---
+
+**Profilo Professionale**  
+Sviluppatore iOS con 6 anni di esperienza nella progettazione e sviluppo di applicazioni mobili di alta qualità. Esperto nell’utilizzo di **Swift**, **Objective-C**, **UIKit**, **SwiftUI**, **CoreData** e **Xcode**, con una solida capacità di lavorare in team e gestire progetti complessi. Passione per l’innovazione tecnologica e l’ottimizzazione delle performance delle applicazioni.  
+
+---
+
+**Esperienza Professionale**  
+
+**Sviluppatore iOS Senior**  
+*TechInnovate Srl, Milano*  
+*Gennaio 2020 – Presente*  
+- Progettazione e sviluppo di applicazioni iOS utilizzando **Swift** e **SwiftUI**, con integrazione di **CoreData** per la gestione dei dati locali.  
+- Ottimizzazione delle performance e risoluzione di bug per migliorare l’esperienza utente.  
+- Collaborazione con il team di design per implementare interfacce utente intuitive e responsive con **UIKit**.  
+- Gestione del ciclo di vita delle app, dalla fase di sviluppo al rilascio su App Store.  
+- Mentoring di sviluppatori junior e introduzione di best practice nello sviluppo iOS.  
+
+**Sviluppatore iOS**  
+*MobileSolutions Srl, Roma*  
+*Giugno 2017 – Dicembre 2019*  
+- Sviluppo di applicazioni iOS utilizzando **Objective-C** e **Swift**, con focus sulla compatibilità cross-device.  
+- Implementazione di funzionalità avanzate utilizzando **CoreData** e **Xcode** per la gestione dei dati e il debugging.  
+- Partecipazione alla fase di testing e risoluzione dei problemi tecnici prima del rilascio.  
+- Collaborazione con il team di backend per l’integrazione di API RESTful.  
+
+---
+
+**Competenze Tecniche**  
+- Linguaggi di programmazione: **Swift**, **Objective-C**  
+- Framework: **UIKit**, **SwiftUI**  
+- Gestione dati: **CoreData**  
+- Strumenti di sviluppo: **Xcode**, Git  
+- Conoscenze aggiuntive: Integrazione API RESTful, testing unitario, ottimizzazione delle performance  
+
+---
+
+**Formazione**  
+**Laurea in Informatica**  
+*Università degli Studi di Roma "La Sapienza"*, Roma  
+*2013 – 2016*  
+- Tesi: "Sviluppo di applicazioni mobili: approcci e tecnologie"  
+
+**Corsi e Certificazioni**  
+- Certificazione Apple **Swift Programming Language** (2018)  
+- Corso avanzato su **iOS App Development** presso Codemotion (2019)  
+
+---  
+Disponibile per colloqui e ulteriori informazioni.

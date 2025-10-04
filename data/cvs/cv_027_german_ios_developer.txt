@@ -1,0 +1,58 @@
+**Max Mustermann**  
+Musterstraße 123, 12345 Berlin  
+Telefon: +49 123 456789  
+E-Mail: max.mustermann@email.de  
+LinkedIn: linkedin.com/in/maxmustermann  
+
+---
+
+**Berufsprofil**  
+Erfahrener iOS Developer mit über 5 Jahren Erfahrung in der Entwicklung und Wartung von hochwertigen mobilen Anwendungen. Spezialisiert auf die Nutzung von Swift und Objective-C zur Erstellung benutzerfreundlicher und skalierbarer Apps. Erfahrung in der Zusammenarbeit mit crossfunktionalen Teams, um innovative Lösungen zu liefern, die die Benutzererfahrung verbessern und Geschäftsziele erreichen.  
+
+---
+
+**Berufserfahrung**  
+
+**iOS Developer**  
+*TechInnovate GmbH, Berlin*  
+*Oktober 2019 – Heute*  
+- Entwicklung und Veröffentlichung von iOS-Anwendungen mit Swift, SwiftUI und UIKit, die von über 500.000 Nutzern verwendet werden.  
+- Implementierung von CoreData und Realm zur effizienten Verwaltung lokaler Daten.  
+- Optimierung der App-Performance und Fehlerbehebung mithilfe von Xcode-Tools.  
+- Zusammenarbeit mit UX/UI-Designern zur Umsetzung ansprechender Benutzeroberflächen.  
+- Einführung von CI/CD-Pipelines zur Automatisierung des Build- und Release-Prozesses.  
+
+**Junior iOS Developer**  
+*MobileSolutions AG, München*  
+*Juni 2017 – September 2019*  
+- Unterstützung bei der Entwicklung von iOS-Anwendungen mit Objective-C und UIKit.  
+- Implementierung von RESTful APIs zur Integration von Backend-Diensten.  
+- Mitwirkung an Code-Reviews und der Verbesserung der Code-Qualität.  
+- Teilnahme an Agile/Scrum-Meetings zur Sicherstellung der Projektziele.  
+
+---
+
+**Technische Fähigkeiten**  
+- **Programmiersprachen:** Swift, Objective-C  
+- **Frameworks:** UIKit, SwiftUI  
+- **Datenmanagement:** CoreData, Realm  
+- **Entwicklungstools:** Xcode, Git, CocoaPods  
+- **Methoden:** Agile/Scrum, CI/CD  
+
+---
+
+**Ausbildung**  
+**Bachelor of Science in Informatik**  
+*Technische Universität Berlin*  
+*Oktober 2013 – März 2017*  
+- Schwerpunkt: Mobile Anwendungssysteme  
+- Abschlussarbeit: „Entwicklung einer iOS-App zur Verbesserung der Barrierefreiheit“  
+
+---
+
+**Sprachen**  
+- Deutsch (Muttersprache)  
+- Englisch (Fließend)  
+
+---  
+Max Mustermann – Leidenschaftlicher iOS Developer mit Fokus auf innovative und benutzerzentrierte Lösungen.

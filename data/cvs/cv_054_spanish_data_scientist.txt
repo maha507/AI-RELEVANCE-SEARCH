@@ -1,0 +1,58 @@
+**Curriculum Vitae**  
+
+**Nombre:** Ana María Gómez Ruiz  
+**Contacto:**  
+Correo electrónico: anamaria.gomez@email.com  
+Teléfono: +34 612 345 678  
+LinkedIn: linkedin.com/in/anamariagomez  
+Ubicación: Madrid, España  
+
+---
+
+**Resumen Profesional:**  
+Data Scientist con 6 años de experiencia en el desarrollo e implementación de modelos predictivos y analítica de datos para optimizar procesos empresariales. Especializada en aprendizaje automático y análisis de grandes volúmenes de datos, con un enfoque en la generación de insights accionables. Habilidades sólidas en Python, TensorFlow, PyTorch, Pandas y SQL. Experiencia en sectores como finanzas y comercio electrónico, con un historial comprobado de mejora de la eficiencia operativa y la toma de decisiones estratégicas.  
+
+---
+
+**Experiencia Laboral:**  
+
+**Data Scientist Senior**  
+*Banco Global, Madrid, España*  
+*Enero 2021 – Presente*  
+- Desarrollé modelos de aprendizaje automático para predecir riesgos crediticios, reduciendo las pérdidas en un 15%.  
+- Implementé pipelines de datos utilizando Python y SQL para automatizar la generación de informes mensuales.  
+- Lideré un equipo de 3 analistas en la creación de un sistema de recomendación de productos financieros basado en TensorFlow.  
+- Colaboré con el departamento de marketing para optimizar campañas mediante análisis predictivo, aumentando la tasa de conversión en un 20%.  
+
+**Data Scientist**  
+*E-Commerce Solutions, Barcelona, España*  
+*Junio 2017 – Diciembre 2020*  
+- Diseñé e implementé modelos de clasificación y clustering para segmentar clientes, mejorando la personalización de ofertas.  
+- Utilicé PyTorch para desarrollar un modelo de visión por computadora que optimizó la clasificación de productos en la plataforma.  
+- Realicé análisis exploratorios de datos con Pandas para identificar tendencias y oportunidades de negocio.  
+- Participé en la migración de bases de datos a un sistema en la nube, mejorando la accesibilidad y escalabilidad de los datos.  
+
+---
+
+**Habilidades Técnicas:**  
+- Lenguajes de programación: **Python** (avanzado)  
+- Frameworks de aprendizaje automático: **TensorFlow**, **PyTorch**  
+- Manipulación de datos: **Pandas**, **SQL**  
+- Visualización de datos: Matplotlib, Seaborn  
+- Herramientas de Big Data: Spark (básico)  
+
+---
+
+**Formación Académica:**  
+**Máster en Ciencia de Datos**  
+*Universidad Politécnica de Madrid, Madrid, España*  
+*2015 – 2017*  
+
+**Grado en Matemáticas**  
+*Universidad Complutense de Madrid, Madrid, España*  
+*2011 – 2015*  
+
+---  
+**Idiomas:**  
+- Español: Nativo  
+- Inglés: Avanzado (C1)

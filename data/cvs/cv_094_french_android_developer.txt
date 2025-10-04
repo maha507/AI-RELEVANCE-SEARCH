@@ -1,0 +1,58 @@
+**Curriculum Vitae**  
+
+**Nom :** Jean Dupont  
+**Contact :**  
+- Téléphone : +33 6 12 34 56 78  
+- Email : jean.dupont@email.com  
+- LinkedIn : linkedin.com/in/jeandupont  
+- GitHub : github.com/jeandupont  
+
+---
+
+**Profil Professionnel**  
+Développeur Android passionné avec 4 ans d'expérience dans la conception et le développement d'applications mobiles performantes et conviviales. Compétent en Kotlin, Java, et les dernières technologies Android, avec un fort accent sur l'optimisation des performances et l'expérience utilisateur. Expérience avérée dans la collaboration avec des équipes pluridisciplinaires pour livrer des projets dans les délais impartis.  
+
+---
+
+**Expérience Professionnelle**  
+
+**Développeur Android Senior**  
+*TechInnov, Paris, France*  
+*Janvier 2021 – Présent*  
+- Conçu et développé des applications Android en utilisant **Kotlin**, **Jetpack Compose**, et **Android SDK**, améliorant l'expérience utilisateur de 30%.  
+- Implémenté une architecture MVVM avec **Room** pour la gestion de bases de données locales, réduisant les temps de chargement de 25%.  
+- Collaboré avec l'équipe UX/UI pour intégrer des designs complexes tout en maintenant des performances optimales.  
+- Mentoré des développeurs juniors et assuré des revues de code pour garantir la qualité du code.  
+
+**Développeur Android**  
+*MobileSolutions, Lyon, France*  
+*Juin 2019 – Décembre 2020*  
+- Développé et maintenu des applications Android en **Java** et **Kotlin**, en respectant les meilleures pratiques de développement.  
+- Intégré des API RESTful pour améliorer la fonctionnalité des applications et assuré la gestion des erreurs.  
+- Participé à la migration de projets existants vers **AndroidX** et **Jetpack Components**, améliorant la maintenabilité du code.  
+- Collaboré avec l'équipe QA pour identifier et résoudre des bugs, augmentant la stabilité des applications de 40%.  
+
+---
+
+**Compétences Techniques**  
+- Langages : **Kotlin**, **Java**  
+- Frameworks : **Android SDK**, **Jetpack Compose**, **Jetpack Components**  
+- Bases de données : **Room**  
+- Outils : Git, Jira, Postman, Android Studio  
+- Concepts : Architecture MVVM, Développement orienté objet, Intégration d'API RESTful  
+
+---
+
+**Formation**  
+**Master en Informatique**  
+*Université Pierre et Marie Curie, Paris, France*  
+*2017 – 2019*  
+- Spécialisation en développement mobile et systèmes distribués.  
+
+**Licence en Informatique**  
+*Université Claude Bernard Lyon 1, Lyon, France*  
+*2014 – 2017*  
+- Projet de fin d'études : Développement d'une application Android pour la gestion de tâches.  
+
+---  
+Disponible pour des entretiens et prêt à relever de nouveaux défis dans le développement Android.

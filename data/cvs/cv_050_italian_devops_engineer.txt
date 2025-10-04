@@ -1,0 +1,58 @@
+**Curriculum Vitae**  
+
+**Nome e Cognome**: Marco Rossi  
+**Contatti**:  
+- Email: marco.rossi@email.com  
+- Telefono: +39 123 456 7890  
+- LinkedIn: linkedin.com/in/marcorossi  
+- GitHub: github.com/marcorossi  
+
+---
+
+**Profilo Professionale**  
+DevOps Engineer con 6 anni di esperienza nella progettazione, implementazione e gestione di infrastrutture cloud e pipeline di CI/CD. Esperto nell’automazione dei processi, nella containerizzazione e nell’orchestrazione di applicazioni su larga scala. Forte capacità di collaborazione con team di sviluppo e operazioni per ottimizzare l’efficienza e l’affidabilità dei sistemi.  
+
+---
+
+**Esperienza Professionale**  
+
+**DevOps Engineer Senior**  
+*TechSolutions Srl, Milano*  
+*Gennaio 2020 – Presente*  
+- Progettazione e gestione di infrastrutture cloud su AWS, utilizzando Terraform per l’automazione delle risorse.  
+- Implementazione e manutenzione di cluster Kubernetes per l’orchestrazione di container Docker.  
+- Sviluppo e ottimizzazione di pipeline CI/CD con Jenkins e GitLab CI per accelerare i cicli di rilascio.  
+- Monitoraggio e risoluzione di problemi di performance e scalabilità, garantendo alta disponibilità dei servizi.  
+- Collaborazione con team di sviluppo per l’adozione di pratiche DevOps e cultura di automazione.  
+
+**DevOps Engineer**  
+*InnovateTech Srl, Roma*  
+*Giugno 2017 – Dicembre 2019*  
+- Migrazione di applicazioni on-premise su AWS, riducendo i costi operativi del 30%.  
+- Introduzione di Docker per la containerizzazione delle applicazioni, migliorando la portabilità e la scalabilità.  
+- Configurazione e gestione di strumenti di monitoraggio come Prometheus e Grafana per il tracciamento delle prestazioni.  
+- Automazione dei test e dei deployment attraverso l’integrazione di strumenti CI/CD come CircleCI.  
+
+---
+
+**Competenze Tecniche**  
+- **Cloud**: AWS (Amazon Web Services), Terraform  
+- **Containerizzazione**: Docker, Kubernetes  
+- **CI/CD**: Jenkins, GitLab CI, CircleCI  
+- **Monitoraggio**: Prometheus, Grafana  
+- **Scripting**: Bash, Python  
+- **Version Control**: Git  
+
+---
+
+**Formazione**  
+**Laurea Magistrale in Ingegneria Informatica**  
+*Università degli Studi di Roma "La Sapienza"*, Roma  
+*2013 – 2015*  
+
+**Laurea Triennale in Informatica**  
+*Università degli Studi di Roma "Tor Vergata"*, Roma  
+*2010 – 2013*  
+
+---  
+Disponibile per colloqui e ulteriori informazioni.

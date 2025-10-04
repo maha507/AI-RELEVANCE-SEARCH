@@ -1,0 +1,50 @@
+**Max Mustermann**  
+Musterstraße 123, 12345 Berlin | +49 123 456789 | max.mustermann@email.de | LinkedIn: linkedin.com/in/maxmustermann  
+
+---
+
+**Berufsprofil**  
+Erfahrener Backend-Entwickler mit 4 Jahren Berufserfahrung in der Entwicklung und Optimierung skalierbarer Webanwendungen. Spezialisiert auf Node.js, Python und Datenbanksysteme wie PostgreSQL und MongoDB. Erfahrung in der Implementierung von REST APIs und Zusammenarbeit mit Frontend-Teams (React). Starke Problemlösungsfähigkeiten und Leidenschaft für sauberen, effizienten Code.  
+
+---
+
+**Berufserfahrung**  
+
+**Backend-Entwickler**  
+*TechSolutions GmbH, Berlin | 06/2020 – heute*  
+- Entwicklung und Wartung von Backend-Systemen mit Node.js und Python.  
+- Implementierung und Optimierung von REST APIs für Web- und Mobile-Anwendungen.  
+- Verwaltung von Datenbanken (PostgreSQL, MongoDB) und Sicherstellung der Datensicherheit.  
+- Zusammenarbeit mit Frontend-Entwicklern (React) zur Integration von Backend-Diensten.  
+- Einführung von CI/CD-Pipelines zur Automatisierung von Tests und Deployment.  
+
+**Junior Backend-Entwickler**  
+*WebInnovate AG, Hamburg | 02/2018 – 05/2020*  
+- Unterstützung bei der Entwicklung von Backend-Lösungen mit Node.js.  
+- Implementierung von Datenbankmodellen in PostgreSQL und MongoDB.  
+- Fehlerbehebung und Performance-Optimierung bestehender Anwendungen.  
+- Mitwirkung an der Dokumentation technischer Prozesse und APIs.  
+
+---
+
+**Technische Fähigkeiten**  
+- **Programmiersprachen:** Node.js, Python  
+- **Datenbanken:** PostgreSQL, MongoDB  
+- **APIs:** REST API  
+- **Frameworks/Bibliotheken:** React (Grundkenntnisse)  
+- **Tools:** Git, Docker, CI/CD  
+
+---
+
+**Ausbildung**  
+**Bachelor of Science in Informatik**  
+*Technische Universität Berlin | 2014 – 2017*  
+- Schwerpunkte: Softwareentwicklung, Datenbanken, Webtechnologien  
+
+---
+
+**Sprachen**  
+Deutsch (Muttersprache), Englisch (fließend)  
+
+---  
+*Verfügbar ab: 01.10.2023*

@@ -1,0 +1,60 @@
+**Curriculum Vitae**  
+
+**Nome e Cognome:** Marco Rossi  
+**Contatti:**  
+Email: marco.rossi@email.com  
+Telefono: +39 123 456 7890  
+LinkedIn: linkedin.com/in/marcorossi  
+GitHub: github.com/marcorossi  
+
+---
+
+**Profilo Professionale**  
+DevOps Engineer con 6 anni di esperienza nella progettazione, implementazione e gestione di infrastrutture cloud e pipeline di CI/CD. Esperto nell’automazione dei processi, nell’ottimizzazione delle prestazioni e nella garanzia di scalabilità e affidabilità dei sistemi. Forte competenza in tecnologie come Docker, Kubernetes, AWS e Terraform. Capacità di collaborare con team multidisciplinari per consegnare soluzioni innovative e allineate agli obiettivi aziendali.  
+
+---
+
+**Esperienza Professionale**  
+
+**DevOps Engineer Senior**  
+*TechSolutions Srl, Milano*  
+*Gennaio 2020 – Presente*  
+- Progettazione e gestione di infrastrutture cloud su AWS, riducendo i costi operativi del 20%.  
+- Implementazione e manutenzione di cluster Kubernetes per l’orchestrazione dei container.  
+- Sviluppo e ottimizzazione di pipeline CI/CD utilizzando Jenkins e GitLab CI, migliorando il time-to-market del 30%.  
+- Automazione delle infrastrutture con Terraform, garantendo coerenza e scalabilità.  
+- Monitoraggio e risoluzione di problemi di prestazioni utilizzando strumenti come Prometheus e Grafana.  
+
+**DevOps Engineer**  
+*InnovateTech Srl, Roma*  
+*Giugno 2017 – Dicembre 2019*  
+- Migrazione di applicazioni on-premise su AWS, migliorando la disponibilità del 99,9%.  
+- Introduzione di Docker per la containerizzazione delle applicazioni, riducendo i tempi di distribuzione.  
+- Configurazione e gestione di strumenti di CI/CD per garantire rilasci continui e affidabili.  
+- Collaborazione con team di sviluppo per l’implementazione di pratiche DevOps e cultura di automazione.  
+
+---
+
+**Competenze Tecniche**  
+- **Containerizzazione:** Docker, Kubernetes  
+- **Cloud:** AWS (Amazon Web Services)  
+- **Automazione:** Terraform, Ansible  
+- **CI/CD:** Jenkins, GitLab CI, CircleCI  
+- **Monitoraggio:** Prometheus, Grafana  
+- **Linguaggi di scripting:** Bash, Python  
+- **Versionamento:** Git  
+
+---
+
+**Formazione**  
+**Laurea Magistrale in Ingegneria Informatica**  
+*Università degli Studi di Roma "La Sapienza"*, Roma  
+*2012 – 2015*  
+
+**Certificazioni**  
+- AWS Certified DevOps Engineer – Professional  
+- Certified Kubernetes Administrator (CKA)  
+- Terraform Associate  
+
+---  
+Disponibile per colloqui e ulteriori informazioni.

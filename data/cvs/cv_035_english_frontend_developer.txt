@@ -1,0 +1,47 @@
+**John Doe**  
+📧 john.doe@email.com | 📱 +1 123-456-7890 | 🌐 linkedin.com/in/johndoe | 🌍 San Francisco, CA  
+
+---
+
+### **Professional Summary**  
+Frontend Developer with 4+ years of experience in designing and developing responsive, user-friendly web applications. Proficient in **React**, **Vue.js**, **TypeScript**, **HTML**, and **CSS**, with a strong focus on performance optimization and accessibility. Adept at collaborating with cross-functional teams to deliver high-quality solutions that enhance user engagement and drive business goals.  
+
+---
+
+### **Work Experience**  
+
+**Frontend Developer**  
+*TechInnovate Solutions, San Francisco, CA*  
+*June 2021 – Present*  
+- Developed and maintained scalable frontend applications using **React** and **TypeScript**, improving page load times by 30%.  
+- Implemented responsive designs with **CSS** (Sass/SCSS) and ensured cross-browser compatibility.  
+- Collaborated with UX/UI designers to translate wireframes into interactive prototypes.  
+- Integrated RESTful APIs and optimized application performance using code splitting and lazy loading.  
+- Conducted code reviews and mentored junior developers to ensure best practices.  
+
+**Junior Frontend Developer**  
+*WebCraft Studios, Austin, TX*  
+*March 2019 – May 2021*  
+- Built dynamic web interfaces using **Vue.js** and **HTML5**, contributing to a 20% increase in user retention.  
+- Implemented accessibility standards (WCAG) across multiple projects, improving usability for all users.  
+- Worked closely with backend developers to ensure seamless data flow and functionality.  
+- Participated in agile sprints, delivering features on time and within scope.  
+
+---
+
+### **Technical Skills**  
+- **Frameworks/Libraries:** React, Vue.js  
+- **Languages:** TypeScript, JavaScript, HTML5, CSS3 (Sass/SCSS)  
+- **Tools:** Git, Webpack, Babel, npm, Yarn  
+- **Concepts:** Responsive Design, REST APIs, Performance Optimization, Accessibility (WCAG)  
+
+---
+
+### **Education**  
+**Bachelor of Science in Computer Science**  
+*University of California, Berkeley*  
+*Graduated: May 2018*  
+- Relevant Coursework: Web Development, Human-Computer Interaction, Algorithms  
+
+---  
+References available upon request.

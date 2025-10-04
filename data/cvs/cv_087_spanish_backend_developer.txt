@@ -1,0 +1,58 @@
+**Curriculum Vitae**  
+
+**Nombre:** Juan Carlos Ramírez Morales  
+**Contacto:**  
+- Correo electrónico: juan.ramirez@example.com  
+- Teléfono: +52 33 1234 5678  
+- LinkedIn: linkedin.com/in/juanramirez  
+- Ubicación: Ciudad de México, México  
+
+---
+
+**Resumen Profesional:**  
+Desarrollador Backend con 3 años de experiencia en el diseño, desarrollo e implementación de soluciones tecnológicas escalables y eficientes. Especializado en Node.js y Python, con sólida experiencia en bases de datos relacionales (PostgreSQL) y NoSQL (MongoDB). Habilidades en la creación de APIs REST y colaboración con equipos frontend utilizando React. Comprometido con la calidad del código, la optimización de rendimiento y la resolución de problemas complejos.  
+
+---
+
+**Experiencia Laboral:**  
+
+**Desarrollador Backend**  
+*TechSolutions MX, Ciudad de México*  
+*Enero 2022 – Presente*  
+- Diseñé y desarrollé APIs REST utilizando Node.js para aplicaciones web y móviles, mejorando la latencia en un 20%.  
+- Optimicé consultas en PostgreSQL, reduciendo el tiempo de respuesta de las operaciones críticas en un 30%.  
+- Colaboré con el equipo frontend para integrar APIs con interfaces desarrolladas en React.  
+- Implementé soluciones de autenticación y autorización seguras utilizando JWT.  
+
+**Desarrollador Junior Backend**  
+*InnovateTech SA, Guadalajara*  
+*Junio 2020 – Diciembre 2021*  
+- Desarrollé y mantuve aplicaciones backend utilizando Python y MongoDB para proyectos de e-commerce.  
+- Participé en la migración de sistemas legacy a arquitecturas modernas, mejorando la escalabilidad.  
+- Realicé pruebas unitarias y de integración para garantizar la calidad del código.  
+- Colaboré en la documentación técnica y en la capacitación de nuevos miembros del equipo.  
+
+---
+
+**Habilidades Técnicas:**  
+- **Lenguajes de Programación:** Node.js, Python  
+- **Bases de Datos:** PostgreSQL, MongoDB  
+- **Desarrollo Web:** APIs REST, integración con React  
+- **Herramientas:** Git, Docker, Postman  
+- **Metodologías:** Scrum, Desarrollo Ágil  
+
+---
+
+**Formación Académica:**  
+**Ingeniería en Sistemas Computacionales**  
+*Universidad Nacional Autónoma de México (UNAM), Ciudad de México*  
+*2016 – 2020*  
+- Proyecto de titulación: Desarrollo de una plataforma de gestión de inventarios utilizando Node.js y PostgreSQL.  
+
+**Cursos y Certificaciones:**  
+- Certificación en Desarrollo Backend con Node.js (Platzi, 2021)  
+- Taller de Bases de Datos Avanzadas con MongoDB (Udemy, 2020)  
+
+---  
+**Disponibilidad:** Inmediata  
+**Idiomas:** Español (nativo), Inglés (intermedio)

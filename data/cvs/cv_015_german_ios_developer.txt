@@ -1,0 +1,56 @@
+**Max Mustermann**  
+Musterstraße 123, 12345 Berlin  
+Telefon: +49 123 456789  
+E-Mail: max.mustermann@email.de  
+LinkedIn: linkedin.com/in/maxmustermann  
+GitHub: github.com/maxmustermann  
+
+---
+
+**Berufsprofil**  
+Erfahrener iOS Developer mit über 5 Jahren Erfahrung in der Entwicklung und Wartung von hochwertigen mobilen Anwendungen. Spezialisiert auf die Nutzung von Swift und Objective-C zur Erstellung benutzerfreundlicher und skalierbarer Apps. Erfahrung in der Zusammenarbeit mit crossfunktionalen Teams, um innovative Lösungen zu liefern, die die Benutzererfahrung verbessern und Geschäftsziele erreichen.  
+
+---
+
+**Berufserfahrung**  
+
+**Senior iOS Developer**  
+*TechInnovate GmbH, Berlin | 06/2020 – heute*  
+- Entwicklung und Veröffentlichung von iOS-Anwendungen mit Swift, SwiftUI und UIKit, die von über 500.000 Nutzern verwendet werden.  
+- Implementierung von CoreData und Realm für effizientes Datenmanagement in komplexen Apps.  
+- Optimierung der App-Performance und Reduzierung der Ladezeiten um 30 % durch Code-Refactoring.  
+- Mentoring von Junior-Entwicklern und Einführung von Best Practices in den Entwicklungsprozess.  
+- Zusammenarbeit mit Designern und Backend-Teams zur Integration von RESTful APIs und GraphQL.  
+
+**iOS Developer**  
+*MobileSolutions AG, München | 03/2018 – 05/2020*  
+- Entwicklung von iOS-Anwendungen mit Objective-C und UIKit, die in den Top 10 der App Store Charts platziert waren.  
+- Umsetzung von MVP-Konzepten in voll funktionsfähige Apps innerhalb kurzer Entwicklungszyklen.  
+- Nutzung von Xcode und Instruments zur Fehlerbehebung und Performance-Optimierung.  
+- Einführung von CI/CD-Pipelines mit Fastlane und Bitrise zur Automatisierung des Release-Prozesses.  
+
+---
+
+**Technische Fähigkeiten**  
+- **Programmiersprachen:** Swift, Objective-C  
+- **Frameworks:** UIKit, SwiftUI  
+- **Datenmanagement:** CoreData, Realm  
+- **Tools:** Xcode, Git, Fastlane, Bitrise  
+- **Methoden:** Agile Entwicklung (Scrum), Test-Driven Development (TDD)  
+
+---
+
+**Ausbildung**  
+**Bachelor of Science in Informatik**  
+*Technische Universität Berlin | 2014 – 2017*  
+- Schwerpunkt: Mobile Anwendungssysteme  
+- Abschlussarbeit: „Entwicklung einer iOS-App zur Echtzeit-Datenvisualisierung“  
+
+---
+
+**Sprachen**  
+- Deutsch (Muttersprache)  
+- Englisch (Fließend)  
+
+---  
+*Verfügbar ab: sofort | Bevorzugte Arbeitsform: Vollzeit*

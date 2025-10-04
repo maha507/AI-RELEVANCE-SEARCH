@@ -1,0 +1,62 @@
+**Curriculum Vitae**  
+
+**Nombre:** Juan Carlos Ramírez Morales  
+**Contacto:**  
+- Correo electrónico: juan.ramirez@email.com  
+- Teléfono: +52 33 1234 5678  
+- LinkedIn: linkedin.com/in/juanramirez  
+- Ubicación: Ciudad de México, México  
+
+---
+
+**Resumen Profesional:**  
+Ingeniero DevOps con 2 años de experiencia en la implementación y optimización de procesos de integración y entrega continua (CI/CD), gestión de infraestructura en la nube y automatización de entornos de desarrollo y producción. Especializado en herramientas como Docker, Kubernetes, AWS y Terraform. Apasionado por mejorar la eficiencia operativa y la colaboración entre equipos de desarrollo y operaciones.  
+
+---
+
+**Experiencia Laboral:**  
+
+**Ingeniero DevOps**  
+*TechSolutions MX, Ciudad de México*  
+*Enero 2022 – Presente*  
+- Diseñé e implementé pipelines de CI/CD utilizando Jenkins y GitLab CI para acelerar los ciclos de desarrollo.  
+- Gestioné clústeres de Kubernetes en AWS EKS para la orquestación de contenedores y escalabilidad automática.  
+- Automaticé la provisión de infraestructura en AWS con Terraform, reduciendo el tiempo de despliegue en un 30%.  
+- Colaboré con equipos de desarrollo para migrar aplicaciones monolíticas a arquitecturas basadas en microservicios con Docker.  
+
+**Junior DevOps Engineer**  
+*InnovateTech SA, Guadalajara*  
+*Junio 2021 – Diciembre 2021*  
+- Mantuve y optimicé entornos de desarrollo y pruebas utilizando Docker y Docker Compose.  
+- Implementé monitoreo y alertas con Prometheus y Grafana para garantizar la disponibilidad de los sistemas.  
+- Participé en la migración de aplicaciones a AWS, utilizando servicios como EC2, S3 y RDS.  
+- Documenté procesos y mejores prácticas para el equipo de DevOps.  
+
+---
+
+**Habilidades Técnicas:**  
+- **Contenedores:** Docker, Docker Compose  
+- **Orquestación:** Kubernetes (EKS, GKE)  
+- **Nube:** AWS (EC2, S3, RDS, EKS, Lambda)  
+- **Automatización:** Terraform, Ansible  
+- **CI/CD:** Jenkins, GitLab CI, GitHub Actions  
+- **Monitoreo:** Prometheus, Grafana  
+- **Control de Versiones:** Git  
+- **Sistemas Operativos:** Linux (Ubuntu, CentOS)  
+
+---
+
+**Formación Académica:**  
+**Ingeniería en Sistemas Computacionales**  
+*Universidad Nacional Autónoma de México (UNAM), Ciudad de México*  
+*Agosto 2016 – Mayo 2020*  
+- Proyecto de titulación: "Automatización de despliegues en la nube utilizando Docker y Kubernetes".  
+
+**Certificaciones:**  
+- AWS Certified Solutions Architect – Associate (2022)  
+- Certified Kubernetes Administrator (CKA) – 2023  
+
+---  
+**Idiomas:**  
+- Español: Nativo  
+- Inglés: Avanzado (C1)

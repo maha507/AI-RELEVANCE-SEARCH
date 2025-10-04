@@ -1,0 +1,59 @@
+**Curriculum Vitae**  
+
+**Nome e Cognome:** Marco Rossi  
+**Contatti:**  
+Email: marco.rossi@email.com  
+Telefono: +39 123 456 7890  
+LinkedIn: linkedin.com/in/marcorossi  
+GitHub: github.com/marcorossi  
+
+---
+
+**Profilo Professionale**  
+DevOps Engineer con 5 anni di esperienza nella progettazione, implementazione e gestione di infrastrutture cloud e pipeline di CI/CD. Esperto nell’automazione dei processi, nella containerizzazione e nell’orchestrazione di applicazioni scalabili. Forte competenza in AWS, Docker, Kubernetes e Terraform, con un focus sulla consegna continua e sull’ottimizzazione dei flussi di lavoro.  
+
+---
+
+**Esperienza Professionale**  
+
+**DevOps Engineer**  
+*TechSolutions Srl, Milano*  
+*Gennaio 2021 – Presente*  
+- Progettazione e gestione di infrastrutture cloud su AWS, riducendo i costi operativi del 20%.  
+- Implementazione e manutenzione di pipeline CI/CD con Jenkins e GitLab CI, migliorando il time-to-market del 30%.  
+- Orchestrazione di container con Kubernetes, garantendo alta disponibilità e scalabilità delle applicazioni.  
+- Automazione dell’infrastruttura con Terraform, standardizzando i processi di deployment.  
+
+**Junior DevOps Engineer**  
+*InnovateTech Srl, Roma*  
+*Giugno 2018 – Dicembre 2020*  
+- Supporto nella migrazione di applicazioni on-premise su AWS, utilizzando EC2, S3 e RDS.  
+- Configurazione e gestione di Docker per la containerizzazione delle applicazioni.  
+- Collaborazione con team di sviluppo per l’integrazione di strumenti di monitoraggio e logging.  
+- Partecipazione alla progettazione di pipeline di integrazione continua con Jenkins.  
+
+---
+
+**Competenze Tecniche**  
+- **Cloud:** AWS (EC2, S3, RDS, Lambda, VPC)  
+- **Containerizzazione:** Docker, Kubernetes  
+- **Automazione:** Terraform, Ansible  
+- **CI/CD:** Jenkins, GitLab CI, CircleCI  
+- **Monitoraggio:** Prometheus, Grafana  
+- **Sistemi Operativi:** Linux (Ubuntu, CentOS)  
+- **Linguaggi di Scripting:** Bash, Python  
+
+---
+
+**Formazione**  
+**Laurea in Ingegneria Informatica**  
+*Università degli Studi di Roma "La Sapienza"*, Roma  
+*2013 – 2018*  
+- Tesi: "Automazione dei processi DevOps con strumenti open source".  
+
+**Certificazioni**  
+- AWS Certified Solutions Architect – Associate (2021)  
+- Certified Kubernetes Administrator (CKA) (2022)  
+
+---  
+Disponibile per colloqui e ulteriori informazioni.

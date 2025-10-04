@@ -1,0 +1,58 @@
+**Jean Dupont**  
+[123 Rue de la Technologie, 75001 Paris, France]  
+[jean.dupont@email.com]  
+[+33 6 12 34 56 78]  
+[LinkedIn: linkedin.com/in/jeandupont]  
+[GitHub: github.com/jeandupont]  
+
+---
+
+**Résumé Professionnel**  
+Développeur Full Stack avec 6 ans d'expérience dans la conception, le développement et la maintenance d'applications web et mobiles. Compétent dans la gestion de projets complets, de la base de données à l'interface utilisateur, avec un focus sur l'optimisation des performances et l'expérience utilisateur. Passionné par les technologies émergentes et les solutions innovantes.
+
+---
+
+**Expérience Professionnelle**  
+
+**Développeur Full Stack**  
+*TechInnov SAS, Paris, France*  
+*Janvier 2020 – Présent*  
+- Conception et développement d'applications web scalables en utilisant **Node.js** et **React**.  
+- Intégration de **REST API** pour connecter les applications front-end et back-end.  
+- Gestion des bases de données **PostgreSQL** et **MongoDB** pour assurer l'intégrité et la performance des données.  
+- Collaboration avec les équipes de design pour améliorer l'interface utilisateur et l'expérience utilisateur.  
+- Mise en place de tests unitaires et d'intégration pour garantir la qualité du code.  
+
+**Développeur Web**  
+*WebSolutions Corp, Lyon, France*  
+*Juin 2017 – Décembre 2019*  
+- Développement de sites web dynamiques en utilisant **Python** et **React**.  
+- Optimisation des performances des applications et réduction des temps de chargement de 30 %.  
+- Gestion de projets de migration de bases de données vers **MongoDB** pour améliorer la flexibilité.  
+- Formation et encadrement des nouveaux développeurs pour assurer une transition fluide des projets.  
+
+---
+
+**Compétences Techniques**  
+- **Langages et Frameworks** : Node.js, Python, React  
+- **Bases de Données** : PostgreSQL, MongoDB  
+- **API** : REST API  
+- **Outils** : Git, Docker, Jenkins  
+- **Méthodologies** : Agile, Scrum  
+
+---
+
+**Formation**  
+**Master en Informatique**  
+*Université Pierre et Marie Curie, Paris, France*  
+*2015 – 2017*  
+
+**Licence en Informatique**  
+*Université Claude Bernard Lyon 1, Lyon, France*  
+*2012 – 2015*  
+
+---
+
+**Langues**  
+- Français : Langue maternelle  
+- Anglais : Courant

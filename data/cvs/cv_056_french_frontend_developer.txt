@@ -1,0 +1,61 @@
+**Curriculum Vitae**  
+
+**Nom :** Léa Dupont  
+**Contact :**  
+- Téléphone : +33 6 12 34 56 78  
+- Email : lea.dupont@email.com  
+- LinkedIn : linkedin.com/in/leadupont  
+- Portfolio : lea-dupont.dev  
+
+---
+
+**Profil Professionnel**  
+Développeuse Frontend avec 5 ans d'expérience dans la conception et l'optimisation d'interfaces utilisateur réactives et performantes. Passionnée par les technologies modernes, je maîtrise React, Vue.js, TypeScript, HTML5 et CSS3. J'ai collaboré avec des équipes multidisciplinaires pour livrer des projets web innovants, en mettant l'accent sur l'expérience utilisateur et l'accessibilité.  
+
+---
+
+**Expérience Professionnelle**  
+
+**Développeuse Frontend Senior**  
+*WebInnov SAS, Paris*  
+*Janvier 2021 – Présent*  
+- Conception et développement de composants réutilisables avec React et TypeScript pour une plateforme e-commerce.  
+- Optimisation des performances des applications, réduisant le temps de chargement de 30 %.  
+- Collaboration avec les équipes UX/UI pour implémenter des designs responsives et accessibles.  
+- Mentorat des développeurs juniors et participation aux revues de code.  
+
+**Développeuse Frontend**  
+*DigitalTech Solutions, Lyon*  
+*Juin 2018 – Décembre 2020*  
+- Développement d'applications web avec Vue.js et intégration d'API RESTful.  
+- Mise en place de tests unitaires et d'intégration pour garantir la qualité du code.  
+- Participation à la migration d'un projet legacy vers une architecture moderne basée sur des composants.  
+- Gestion des versions avec Git et collaboration via GitHub.  
+
+---
+
+**Compétences Techniques**  
+- **Frameworks :** React, Vue.js  
+- **Langages :** TypeScript, JavaScript, HTML5, CSS3  
+- **Outils :** Git, GitHub, Webpack, Babel  
+- **Concepts :** Responsive Design, Accessibilité (WCAG), SEO  
+
+---
+
+**Formation**  
+**Master en Informatique – Spécialité Développement Web**  
+*Université Paris-Saclay, 2018*  
+- Mémoire : "Optimisation des performances des applications single-page avec React".  
+
+**Licence en Informatique**  
+*Université Lyon 1, 2015*  
+- Projet de fin d'études : Développement d'une application web pour la gestion de tâches avec AngularJS.  
+
+---
+
+**Langues**  
+- Français : Langue maternelle  
+- Anglais : Courant (TOEIC : 920)  
+
+---  
+Disponible pour des opportunités stimulantes dans le développement frontend. N'hésitez pas à me contacter pour discuter de votre projet.

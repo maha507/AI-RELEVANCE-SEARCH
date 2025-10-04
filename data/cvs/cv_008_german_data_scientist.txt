@@ -1,0 +1,54 @@
+**Max Mustermann**  
+Musterstraße 123, 12345 Berlin | +49 123 456789 | max.mustermann@email.de | LinkedIn: linkedin.com/in/maxmustermann  
+
+---
+
+**Berufsprofil**  
+Datenwissenschaftler mit 3 Jahren Erfahrung in der Entwicklung und Implementierung von Machine-Learning-Modellen sowie der Analyse großer Datenmengen. Fachkunde in Python, TensorFlow, PyTorch, Pandas und SQL. Erfolgreiche Projekte in den Bereichen Predictive Analytics, KI-gestützte Lösungen und Datenvisualisierung. Starke Problemlösungsfähigkeiten und Teamorientierung mit Fokus auf datengetriebene Entscheidungsfindung.  
+
+---
+
+**Berufserfahrung**  
+
+**Datenwissenschaftler**  
+*TechInnovate GmbH, Berlin | 04/2021 – heute*  
+- Entwicklung und Optimierung von Machine-Learning-Modellen mit TensorFlow und PyTorch zur Vorhersage von Markttrends.  
+- Analyse und Aufbereitung großer Datensätze mit Pandas und SQL zur Unterstützung strategischer Entscheidungen.  
+- Implementierung von KI-gestützten Lösungen, die die Betriebseffizienz um 20 % steigerten.  
+- Erstellung interaktiver Dashboards zur Visualisierung komplexer Daten für Stakeholder.  
+
+**Junior Datenanalyst**  
+*DataSolutions AG, München | 02/2019 – 03/2021*  
+- Unterstützung bei der Datenanalyse und -bereinigung mit SQL und Python.  
+- Mitwirkung an der Entwicklung von Predictive-Analytics-Modellen zur Risikobewertung.  
+- Automatisierung von Berichten und Datenpipelines, was zu einer Zeitersparnis von 15 Stunden pro Woche führte.  
+- Zusammenarbeit mit interdisziplinären Teams zur Identifizierung datenbasierter Optimierungsmöglichkeiten.  
+
+---
+
+**Technische Fähigkeiten**  
+- **Programmiersprachen:** Python  
+- **Machine Learning:** TensorFlow, PyTorch  
+- **Datenanalyse:** Pandas, SQL  
+- **Visualisierung:** Matplotlib, Seaborn, Tableau  
+- **Cloud-Plattformen:** AWS, Google Cloud  
+
+---
+
+**Ausbildung**  
+**Master of Science in Datenwissenschaft**  
+*Technische Universität Berlin | 2016 – 2018*  
+- Schwerpunkt: Machine Learning und Big Data Analytics  
+- Masterarbeit: „Anwendung von Deep Learning in der Bildanalyse“  
+
+**Bachelor of Science in Informatik**  
+*Universität München | 2012 – 2016*  
+- Schwerpunkte: Datenbanken, Algorithmen und Programmierung  
+
+---
+
+**Sprachen**  
+Deutsch (Muttersprache), Englisch (fließend)  
+
+---  
+*Verfügbar ab: sofort | Gehaltsvorstellung: Verhandlungssache*

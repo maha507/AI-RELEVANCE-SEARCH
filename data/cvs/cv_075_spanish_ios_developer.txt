@@ -1,0 +1,61 @@
+**Curriculum Vitae**  
+
+**Nombre:** Juan Carlos Ramírez Morales  
+**Contacto:**  
+- Teléfono: +52 55 1234 5678  
+- Correo electrónico: juan.ramirez@email.com  
+- LinkedIn: linkedin.com/in/juanramirez  
+- Ubicación: Ciudad de México, México  
+
+---
+
+**Resumen Profesional:**  
+Desarrollador iOS con más de 5 años de experiencia en el diseño, desarrollo e implementación de aplicaciones móviles de alta calidad. Especializado en Swift y Objective-C, con un sólido conocimiento en UIKit, SwiftUI, CoreData y Xcode. Experiencia en el ciclo completo de desarrollo, desde la conceptualización hasta la publicación en la App Store. Habilidades comprobadas en trabajo en equipo, resolución de problemas y optimización de rendimiento de aplicaciones.  
+
+---
+
+**Experiencia Laboral:**  
+
+**Desarrollador iOS Senior**  
+*TechInnovate Solutions, Ciudad de México*  
+*Enero 2021 – Presente*  
+- Lideré el desarrollo de aplicaciones iOS utilizando Swift y SwiftUI, logrando un aumento del 25% en la satisfacción del usuario.  
+- Implementé soluciones de almacenamiento local con CoreData, mejorando la eficiencia de las aplicaciones.  
+- Colaboré con equipos multidisciplinarios para entregar proyectos dentro de los plazos establecidos.  
+- Realicé pruebas unitarias y de UI para garantizar la calidad del código.  
+
+**Desarrollador iOS**  
+*MobileApps Corp, Guadalajara*  
+*Junio 2018 – Diciembre 2020*  
+- Desarrollé y mantuve aplicaciones iOS utilizando Objective-C y Swift, trabajando con UIKit para interfaces de usuario atractivas.  
+- Optimicé el rendimiento de aplicaciones existentes, reduciendo los tiempos de carga en un 30%.  
+- Participé en la integración de APIs de terceros y en la implementación de autenticación segura.  
+- Colaboré en la publicación de aplicaciones en la App Store, siguiendo las mejores prácticas de Apple.  
+
+---
+
+**Habilidades Técnicas:**  
+- **Lenguajes de programación:** Swift, Objective-C  
+- **Frameworks:** UIKit, SwiftUI  
+- **Bases de datos:** CoreData  
+- **Herramientas de desarrollo:** Xcode, Git  
+- **Otros:** Integración de APIs, pruebas unitarias, optimización de rendimiento  
+
+---
+
+**Formación Académica:**  
+**Licenciatura en Ingeniería en Sistemas Computacionales**  
+*Universidad Nacional Autónoma de México (UNAM), Ciudad de México*  
+*2013 – 2017*  
+
+**Cursos y Certificaciones:**  
+- Certificación en Desarrollo de Aplicaciones Móviles (Swift) – Coursera, 2018  
+- Taller de Diseño de Interfaces de Usuario – Platzi, 2019  
+
+---  
+**Idiomas:**  
+- Español: Nativo  
+- Inglés: Avanzado  
+
+---  
+Disponible para entrevistas y reubicación.

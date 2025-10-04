@@ -1,0 +1,62 @@
+**Curriculum Vitae**  
+
+**Nombre:** Juan Carlos Ramírez Morales  
+**Contacto:**  
+- Teléfono: +34 612 345 678  
+- Correo electrónico: juan.ramirez@email.com  
+- LinkedIn: linkedin.com/in/juanramirez  
+- Ubicación: Madrid, España  
+
+---
+
+**Resumen Profesional:**  
+Ingeniero DevOps con 6 años de experiencia en la implementación y optimización de infraestructuras en la nube, automatización de procesos y gestión de pipelines de CI/CD. Especializado en Docker, Kubernetes, AWS y Terraform, con un enfoque en la entrega continua y la escalabilidad de sistemas. He liderado proyectos que han mejorado la eficiencia operativa y reducido tiempos de despliegue en entornos complejos. Apasionado por la innovación tecnológica y la colaboración interdisciplinaria.  
+
+---
+
+**Experiencia Laboral:**  
+
+**Ingeniero DevOps Senior**  
+*TechSolutions S.A., Madrid, España*  
+*Enero 2020 – Presente*  
+- Diseñé e implementé arquitecturas en AWS utilizando Terraform para la gestión de infraestructura como código (IaC).  
+- Automaticé pipelines de CI/CD con Jenkins y GitLab CI, reduciendo el tiempo de despliegue en un 40%.  
+- Gestioné clústeres de Kubernetes para la orquestación de contenedores, mejorando la escalabilidad y disponibilidad de aplicaciones.  
+- Colaboré con equipos de desarrollo para implementar prácticas de DevOps y fomentar una cultura de entrega continua.  
+
+**Ingeniero DevOps**  
+*InnovateTech SL, Barcelona, España*  
+*Junio 2017 – Diciembre 2019*  
+- Implementé y mantuve entornos de contenedores con Docker, optimizando el uso de recursos y la portabilidad de aplicaciones.  
+- Migré aplicaciones monolíticas a microservicios en AWS, utilizando servicios como EC2, S3 y RDS.  
+- Monitoreé y solucioné incidencias en sistemas de producción utilizando herramientas como Prometheus y Grafana.  
+- Participé en la definición y ejecución de estrategias de backup y recuperación ante desastres.  
+
+---
+
+**Habilidades Técnicas:**  
+- **Contenedores y Orquestación:** Docker, Kubernetes  
+- **Nube:** AWS (EC2, S3, RDS, Lambda, EKS)  
+- **Automatización e IaC:** Terraform, Ansible  
+- **CI/CD:** Jenkins, GitLab CI, CircleCI  
+- **Monitoreo:** Prometheus, Grafana, ELK Stack  
+- **Lenguajes de Scripting:** Bash, Python  
+
+---
+
+**Formación Académica:**  
+**Grado en Ingeniería Informática**  
+*Universidad Politécnica de Madrid, Madrid, España*  
+*Septiembre 2012 – Junio 2016*  
+
+**Certificaciones:**  
+- AWS Certified DevOps Engineer – Professional (2021)  
+- Certified Kubernetes Administrator (CKA) – 2020  
+
+---  
+**Idiomas:**  
+- Español: Nativo  
+- Inglés: Avanzado (C1)  
+
+---  
+Disponibilidad para viajar y trabajar en entornos remotos.

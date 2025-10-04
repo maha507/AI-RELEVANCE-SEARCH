@@ -1,0 +1,53 @@
+**Max Mustermann**  
+Musterstraße 123, 12345 Berlin | +49 123 456789 | max.mustermann@email.de | LinkedIn: linkedin.com/in/maxmustermann  
+
+---
+
+**Berufsprofil**  
+Datenwissenschaftler mit 6 Jahren Erfahrung in der Entwicklung und Implementierung von Machine-Learning-Modellen sowie der Analyse großer Datenmengen. Spezialisiert auf die Anwendung von Python, TensorFlow, PyTorch, Pandas und SQL zur Lösung komplexer Geschäftsprobleme. Erfolgreiche Projektrealisierung in interdisziplinären Teams mit Fokus auf datengetriebene Entscheidungsfindung und Prozessoptimierung.  
+
+---
+
+**Berufserfahrung**  
+
+**Datenwissenschaftler**  
+*TechInnovate GmbH, Berlin | 04/2019 – heute*  
+- Entwicklung und Deployment von Machine-Learning-Modellen (TensorFlow, PyTorch) zur Vorhersage von Markttrends, was zu einer Steigerung der Prognosegenauigkeit um 25 % führte.  
+- Automatisierung von Datenpipelines mit Python und Pandas, wodurch der Zeitaufwand für die Datenvorbereitung um 40 % reduziert wurde.  
+- Durchführung von SQL-basierten Datenanalysen zur Identifikation von Geschäftschancen und Risiken.  
+- Leitung eines Teams von 3 Datenanalysten, einschließlich Mentoring und Wissensvermittlung.  
+
+**Junior Datenanalyst**  
+*DataSolutions AG, München | 02/2017 – 03/2019*  
+- Implementierung von Datenanalyse-Tools in Python zur Unterstützung der Geschäftsführung bei strategischen Entscheidungen.  
+- Erstellung von Dashboards und Berichten zur Visualisierung von KPIs und Trends.  
+- Optimierung von Datenbankabfragen (SQL), was die Abfragegeschwindigkeit um 30 % verbesserte.  
+- Zusammenarbeit mit Abteilungen wie Marketing und Vertrieb zur Bereitstellung datenbasierter Einblicke.  
+
+---
+
+**Technische Fähigkeiten**  
+- **Programmiersprachen:** Python (fortgeschritten), SQL (fortgeschritten)  
+- **Machine Learning:** TensorFlow, PyTorch  
+- **Datenanalyse:** Pandas, NumPy  
+- **Visualisierung:** Matplotlib, Seaborn  
+- **Tools:** Git, Jupyter Notebook, Tableau  
+
+---
+
+**Ausbildung**  
+**Master of Science in Informatik**  
+*Technische Universität Berlin | 2014 – 2016*  
+Schwerpunkte: Maschinelles Lernen, Datenbanken, Algorithmen  
+
+**Bachelor of Science in Mathematik**  
+*Ludwig-Maximilians-Universität München | 2010 – 2014*  
+Schwerpunkte: Statistik, Optimierung  
+
+--- 
+
+**Sprachen**  
+Deutsch (Muttersprache), Englisch (fließend)  
+
+---  
+Max Mustermann – Datengetriebene Lösungen für komplexe Herausforderungen.

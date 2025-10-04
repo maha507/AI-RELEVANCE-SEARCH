@@ -1,0 +1,49 @@
+**John Doe**  
+📧 john.doe@email.com | ☎️ +1 123-456-7890 | 🌐 linkedin.com/in/johndoe | 🌍 GitHub: github.com/johndoe  
+
+---
+
+**Professional Summary**  
+Results-driven Full Stack Developer with 2+ years of experience designing, developing, and deploying web applications. Proficient in both front-end and back-end technologies, with a strong focus on creating scalable, user-friendly solutions. Adept at collaborating with cross-functional teams to deliver high-quality software products on time.  
+
+---
+
+**Work Experience**  
+
+**Full Stack Developer**  
+*TechInnovate Solutions, New York, NY*  
+*June 2022 – Present*  
+- Developed and maintained RESTful APIs using **Node.js** and **Python**, improving system performance by 25%.  
+- Designed and implemented responsive user interfaces with **React**, enhancing user engagement by 30%.  
+- Managed databases using **PostgreSQL** and **MongoDB**, ensuring data integrity and optimizing query performance.  
+- Collaborated with the product team to translate design wireframes into functional web applications.  
+- Conducted code reviews and mentored junior developers to maintain code quality and consistency.  
+
+**Junior Full Stack Developer**  
+*WebCraft Studios, Boston, MA*  
+*January 2021 – May 2022*  
+- Built and deployed web applications using **React** and **Node.js**, reducing load times by 15%.  
+- Integrated third-party APIs to enhance application functionality and user experience.  
+- Managed **MongoDB** databases, ensuring efficient data storage and retrieval.  
+- Assisted in troubleshooting and debugging issues across the full stack, improving application stability.  
+- Participated in Agile sprints, delivering features on time and within scope.  
+
+---
+
+**Technical Skills**  
+- **Back-end:** Node.js, Python, REST API  
+- **Front-end:** React  
+- **Databases:** PostgreSQL, MongoDB  
+- **Tools:** Git, Docker, Postman, Jira  
+
+---
+
+**Education**  
+**Bachelor of Science in Computer Science**  
+*University of Massachusetts, Amherst, MA*  
+*September 2016 – December 2020*  
+- Relevant Coursework: Data Structures, Algorithms, Database Management, Web Development  
+- Capstone Project: Developed a full-stack e-commerce platform using **React** and **Node.js**.  
+
+---  
+References available upon request.

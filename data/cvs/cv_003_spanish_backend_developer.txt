@@ -1,0 +1,59 @@
+**Curriculum Vitae**  
+
+**Nombre:** Juan Carlos Ramírez Morales  
+**Contacto:**  
+- Teléfono: +52 33 1234 5678  
+- Correo electrónico: juan.ramirez@example.com  
+- LinkedIn: linkedin.com/in/juanramirez  
+- Ubicación: Guadalajara, Jalisco, México  
+
+---
+
+**Resumen Profesional:**  
+Desarrollador Backend con 6 años de experiencia en el diseño, desarrollo e implementación de soluciones tecnológicas escalables y eficientes. Especializado en la creación de APIs RESTful, gestión de bases de datos y optimización de rendimiento. Experiencia en entornos ágiles y colaboración con equipos multidisciplinarios. Apasionado por la innovación tecnológica y la resolución de problemas complejos.  
+
+---
+
+**Experiencia Laboral:**  
+
+**Desarrollador Backend Senior**  
+*TechSolutions México, Guadalajara, Jalisco*  
+*Enero 2020 – Presente*  
+- Diseñé e implementé APIs RESTful utilizando **Node.js** y **Python**, mejorando la latencia en un 30%.  
+- Gestioné bases de datos relacionales (**PostgreSQL**) y NoSQL (**MongoDB**), optimizando consultas y asegurando la integridad de los datos.  
+- Colaboré con el equipo frontend para integrar soluciones backend con **React**, garantizando una experiencia de usuario fluida.  
+- Implementé prácticas de DevOps para automatizar despliegues y monitorear aplicaciones en producción.  
+
+**Desarrollador Backend**  
+*InnovateSoft, Guadalajara, Jalisco*  
+*Junio 2017 – Diciembre 2019*  
+- Desarrollé y mantuve servicios backend en **Node.js**, reduciendo tiempos de respuesta en un 25%.  
+- Participé en la migración de sistemas legacy a arquitecturas modernas basadas en microservicios.  
+- Realicé pruebas unitarias e integración continua para garantizar la calidad del código.  
+- Trabajé en estrecha colaboración con el equipo de producto para traducir requisitos en soluciones técnicas.  
+
+---
+
+**Habilidades Técnicas:**  
+- Lenguajes de programación: **Node.js**, **Python**  
+- Bases de datos: **PostgreSQL**, **MongoDB**  
+- Desarrollo de APIs: **REST API**  
+- Frameworks frontend: **React** (básico)  
+- Herramientas: Git, Docker, Jenkins, Postman  
+
+---
+
+**Formación Académica:**  
+**Ingeniería en Sistemas Computacionales**  
+*Universidad de Guadalajara, Guadalajara, Jalisco*  
+*2012 – 2016*  
+- Proyecto de titulación: Desarrollo de una plataforma de gestión de inventarios utilizando Node.js y PostgreSQL.  
+
+--- 
+
+**Idiomas:**  
+- Español: Nativo  
+- Inglés: Avanzado (B2)  
+
+---  
+Disponible para entrevistas y reubicación.

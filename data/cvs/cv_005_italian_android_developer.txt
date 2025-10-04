@@ -1,0 +1,57 @@
+**Curriculum Vitae**  
+
+**Nome e Cognome:** Marco Rossi  
+**Contatti:**  
+- Email: marco.rossi@email.com  
+- Telefono: +39 123 456 7890  
+- LinkedIn: linkedin.com/in/marcorossi  
+- GitHub: github.com/marcorossi  
+
+---
+
+**Profilo Professionale**  
+Sviluppatore Android con 6 anni di esperienza nella progettazione e sviluppo di applicazioni mobili di alta qualità. Esperto nell’utilizzo di Kotlin, Java e Android SDK, con una solida competenza in Jetpack Compose e Room per la creazione di interfacce utente moderne e database efficienti. Passione per la scrittura di codice pulito e ottimizzato, con un forte focus sull’esperienza utente e sulle best practice di sviluppo.  
+
+---
+
+**Esperienza Lavorativa**  
+
+**Sviluppatore Android Senior**  
+*TechInnovate Srl, Milano*  
+*Gennaio 2020 – Presente*  
+- Progettato e sviluppato applicazioni Android utilizzando Kotlin e Jetpack Compose, migliorando l’esperienza utente e riducendo i tempi di sviluppo del 20%.  
+- Implementato soluzioni di persistenza dei dati con Room, ottimizzando le prestazioni del database del 30%.  
+- Collaborato con team multidisciplinari per la consegna di progetti in tempi stretti, garantendo qualità e conformità alle specifiche.  
+- Mentore per sviluppatori junior, fornendo supporto tecnico e formazione sulle best practice di sviluppo Android.  
+
+**Sviluppatore Android**  
+*MobileSolutions Srl, Roma*  
+*Giugno 2017 – Dicembre 2019*  
+- Sviluppato applicazioni Android in Java e Kotlin, contribuendo alla crescita del portfolio aziendale con 10+ app pubblicate su Google Play.  
+- Integrato API RESTful e gestito la sincronizzazione dei dati in tempo reale, migliorando l’affidabilità delle applicazioni.  
+- Partecipato alla fase di testing e debugging, riducendo i bug del 25% prima del rilascio.  
+- Collaborato con il team di design per implementare interfacce utente intuitive e responsive.  
+
+---
+
+**Competenze Tecniche**  
+- **Linguaggi di Programmazione:** Kotlin, Java  
+- **Framework e Strumenti:** Android SDK, Jetpack Compose, Room, Retrofit, Dagger  
+- **Gestione del Codice:** Git, GitHub, GitLab  
+- **Strumenti di Sviluppo:** Android Studio, IntelliJ IDEA  
+- **Conoscenze Aggiuntive:** Architettura MVVM, Clean Architecture, Test-Driven Development (TDD)  
+
+---
+
+**Formazione**  
+**Laurea in Informatica**  
+*Università degli Studi di Roma "La Sapienza", Roma*  
+*2013 – 2016*  
+- Tesi: "Sviluppo di applicazioni mobili Android: ottimizzazione delle prestazioni e dell’esperienza utente".  
+
+**Corsi e Certificazioni**  
+- Certificazione Associate Android Developer (Google, 2018)  
+- Corso avanzato su Jetpack Compose (Udemy, 2021)  
+
+---  
+Disponibile per colloqui e ulteriori informazioni.

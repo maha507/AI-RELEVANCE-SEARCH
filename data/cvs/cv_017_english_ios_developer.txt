@@ -1,0 +1,49 @@
+**John Michael Carter**  
+📞 +1 (555) 123-4567 | ✉️ john.carter@email.com | 🌐 linkedin.com/in/johncarter | 🌍 San Francisco, CA  
+
+---
+
+**Professional Summary**  
+Results-driven iOS Developer with 5+ years of experience designing, developing, and maintaining high-performance iOS applications. Proficient in Swift, Objective-C, and modern frameworks like SwiftUI and UIKit. Skilled in optimizing app performance, ensuring seamless user experiences, and collaborating with cross-functional teams to deliver innovative solutions. Passionate about clean code, UI/UX design, and staying updated with Apple’s latest technologies.  
+
+---
+
+**Work Experience**  
+
+**Senior iOS Developer**  
+*TechInnovate Solutions, San Francisco, CA*  
+*June 2021 – Present*  
+- Led the development of a flagship e-commerce app, increasing user retention by 25% through UI/UX enhancements using SwiftUI.  
+- Integrated CoreData and Firebase for efficient data management, reducing app load times by 30%.  
+- Collaborated with designers and backend teams to implement RESTful APIs and ensure seamless app functionality.  
+- Conducted code reviews and mentored junior developers to maintain high code quality and team productivity.  
+- Published and maintained apps on the App Store, achieving over 500,000 downloads.  
+
+**iOS Developer**  
+*MobileCraft Inc., Austin, TX*  
+*March 2018 – May 2021*  
+- Developed and shipped 5+ iOS applications using Swift and Objective-C, focusing on healthcare and finance sectors.  
+- Implemented UIKit for responsive and intuitive user interfaces, earning 4.8/5 average app ratings.  
+- Optimized app performance using Instruments and resolved critical bugs, improving app stability by 40%.  
+- Worked with Agile methodologies to deliver projects on time and within scope.  
+- Integrated third-party SDKs (e.g., Stripe, Twilio) to enhance app functionality.  
+
+---
+
+**Technical Skills**  
+- **Programming Languages:** Swift, Objective-C  
+- **Frameworks:** UIKit, SwiftUI  
+- **Data Management:** CoreData, Firebase  
+- **Tools:** Xcode, Git, CocoaPods, Fastlane  
+- **Other:** RESTful APIs, MVVM/MVC Architecture, Unit Testing, App Store Deployment  
+
+---
+
+**Education**  
+**Bachelor of Science in Computer Science**  
+*University of California, Berkeley, CA*  
+*Graduated: May 2017*  
+- Relevant Coursework: Mobile Application Development, Software Engineering, Data Structures and Algorithms  
+
+---  
+References available upon request.

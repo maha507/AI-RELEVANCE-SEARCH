@@ -1,0 +1,55 @@
+**Max Mustermann**  
+Musterstraße 123, 12345 Berlin  
+Telefon: +49 123 456789  
+E-Mail: max.mustermann@email.de  
+LinkedIn: linkedin.com/in/maxmustermann  
+
+---
+
+**Berufsprofil**  
+Erfahrener Android Developer mit 4 Jahren Berufserfahrung in der Entwicklung und Optimierung von mobilen Anwendungen. Spezialisiert auf die Nutzung moderner Technologien wie **Kotlin**, **Java** und **Jetpack Compose** zur Schaffung benutzerfreundlicher und skalierbarer Apps. Starke Kenntnisse in der Arbeit mit **Android SDK** und **Room** für die Speicherung und Verwaltung von Daten. Teamorientiert, lösungsfokussiert und stets bestrebt, innovative Lösungen zu liefern.
+
+---
+
+**Berufserfahrung**  
+
+**Android Developer**  
+*TechInnovate GmbH, Berlin*  
+*Oktober 2020 – Heute*  
+- Entwicklung und Wartung von Android-Anwendungen mit **Kotlin** und **Jetpack Compose** für über 500.000 Nutzer.  
+- Implementierung einer lokalen Datenbanklösung mit **Room** zur Verbesserung der App-Performance.  
+- Zusammenarbeit im Agile-Team (Scrum) zur termingerechten Lieferung von Projekten.  
+- Optimierung der Benutzererfahrung durch A/B-Tests und Feedbackanalysen.  
+
+**Junior Android Developer**  
+*MobileSolutions AG, München*  
+*Juni 2019 – September 2020*  
+- Unterstützung bei der Entwicklung von Android-Apps mit **Java** und **Android SDK**.  
+- Fehlerbehebung und Performance-Optimierung bestehender Anwendungen.  
+- Einarbeitung in moderne Entwicklungstools und -methoden wie **Git** und CI/CD-Pipelines.  
+
+---
+
+**Technische Fähigkeiten**  
+- **Programmiersprachen**: Kotlin, Java  
+- **Frameworks/Tools**: Android SDK, Jetpack Compose, Room  
+- **Versionierung**: Git  
+- **Sonstiges**: RESTful APIs, Firebase, Unit Testing  
+
+---
+
+**Ausbildung**  
+**Bachelor of Science in Informatik**  
+*Technische Universität Berlin*  
+*Oktober 2015 – März 2019*  
+- Schwerpunkt: Mobile Anwendungssysteme  
+- Abschlussarbeit: „Entwicklung einer Android-App für die Verwaltung von Aufgaben mit Kotlin und Room“  
+
+---
+
+**Sprachen**  
+- Deutsch (Muttersprache)  
+- Englisch (Fließend)  
+
+---  
+Max Mustermann – Leidenschaftlicher Entwickler mit Fokus auf innovative Android-Lösungen.

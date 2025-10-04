@@ -1,0 +1,60 @@
+**Curriculum Vitae**  
+
+**Nom :** Jean Dupont  
+**Contact :**  
+- Téléphone : +33 6 12 34 56 78  
+- Email : jean.dupont@email.com  
+- LinkedIn : linkedin.com/in/jeandupont  
+- GitHub : github.com/jeandupont  
+
+---
+
+**Profil Professionnel**  
+Développeur Android passionné avec 3 ans d'expérience dans la conception et le développement d'applications mobiles performantes et conviviales. Compétent en Kotlin, Java, et les dernières technologies Android, avec un fort intérêt pour l'amélioration de l'expérience utilisateur. Collaborateur efficace en équipe, capable de gérer des projets de A à Z tout en respectant les délais.  
+
+---
+
+**Expérience Professionnelle**  
+
+**Développeur Android Senior**  
+*TechInnov, Paris, France*  
+*Janvier 2022 – Présent*  
+- Conception et développement d'applications Android en utilisant **Kotlin**, **Android SDK**, et **Jetpack Compose**.  
+- Mise en œuvre de solutions de gestion de données locales avec **Room**.  
+- Optimisation des performances des applications et réduction des temps de chargement de 20 %.  
+- Collaboration avec l'équipe UX/UI pour améliorer l'interface utilisateur et l'expérience globale.  
+- Mentorat des développeurs juniors et participation aux revues de code.  
+
+**Développeur Android Junior**  
+*MobileSolutions, Lyon, France*  
+*Juin 2020 – Décembre 2021*  
+- Développement d'applications Android en **Java** et **Kotlin**.  
+- Intégration d'API REST pour la communication avec les serveurs backend.  
+- Participation à la maintenance corrective et évolutive des applications existantes.  
+- Contribution à la documentation technique et aux spécifications fonctionnelles.  
+
+---
+
+**Compétences Techniques**  
+- Langages : **Kotlin**, **Java**  
+- Frameworks : **Android SDK**, **Jetpack Compose**  
+- Bases de données : **Room**  
+- Outils : Git, Android Studio, Firebase  
+- Concepts : Architecture MVVM, Développement agile  
+
+---
+
+**Formation**  
+**Master en Informatique – Spécialité Développement Mobile**  
+*Université de Paris-Saclay, France*  
+*2017 – 2020*  
+
+**Licence en Informatique**  
+*Université Lumière Lyon 2, France*  
+*2014 – 2017*  
+
+---
+
+**Langues**  
+- Français : Langue maternelle  
+- Anglais : Courant

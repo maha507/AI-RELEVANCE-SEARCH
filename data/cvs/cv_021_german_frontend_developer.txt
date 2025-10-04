@@ -1,0 +1,56 @@
+**Max Mustermann**  
+Musterstraße 123, 12345 Berlin  
+Telefon: +49 123 456789  
+E-Mail: max.mustermann@example.com  
+LinkedIn: linkedin.com/in/maxmustermann  
+
+---
+
+**Berufsprofil**  
+Erfahrener Frontend Developer mit 3 Jahren Berufserfahrung in der Entwicklung benutzerfreundlicher und responsiver Webanwendungen. Spezialisiert auf moderne Frameworks wie React und Vue.js sowie die Nutzung von TypeScript für robusten Code. Starke Kenntnisse in HTML5, CSS3 und der Implementierung von Designsystemen. Teamorientiert, lösungsfokussiert und stets bestrebt, die neuesten Technologien zu nutzen, um innovative Lösungen zu schaffen.
+
+---
+
+**Berufserfahrung**  
+
+**Frontend Developer**  
+*TechInnovate GmbH, Berlin*  
+*Oktober 2021 – Heute*  
+- Entwicklung und Wartung von Frontend-Anwendungen mit React und TypeScript für ein großes E-Commerce-Projekt.  
+- Implementierung responsiver Designs mit CSS Grid und Flexbox, um eine optimale Benutzererfahrung auf allen Geräten zu gewährleisten.  
+- Zusammenarbeit mit dem UX/UI-Team zur Integration von Designsystemen und Verbesserung der Benutzeroberfläche.  
+- Optimierung der Anwendung für Performance und SEO, was zu einer 20%igen Steigerung der Ladezeiten führte.  
+
+**Junior Frontend Developer**  
+*WebSolutions AG, Hamburg*  
+*April 2020 – September 2021*  
+- Entwicklung von Webanwendungen mit Vue.js und Integration von RESTful APIs.  
+- Umsetzung von Wireframes und Designs in hochwertigen, barrierefreien Code (HTML5, CSS3).  
+- Unterstützung des Teams bei der Fehlerbehebung und Code-Reviews, um die Codequalität zu verbessern.  
+- Einführung von TypeScript in bestehende Projekte zur Steigerung der Code-Zuverlässigkeit.  
+
+---
+
+**Technische Fähigkeiten**  
+- **Frameworks:** React, Vue.js  
+- **Programmiersprachen:** TypeScript, JavaScript  
+- **Webtechnologien:** HTML5, CSS3 (Sass, Less), Webpack, Git  
+- **Tools:** npm, Yarn, Jest, Cypress  
+
+---
+
+**Ausbildung**  
+**Bachelor of Science in Informatik**  
+*Technische Universität Berlin*  
+*Oktober 2016 – März 2020*  
+- Schwerpunkt: Webentwicklung und Benutzeroberflächendesign  
+- Abschlussarbeit: „Entwicklung einer progressiven Web-App (PWA) für mobile Geräte“  
+
+---
+
+**Sprachen**  
+- Deutsch (Muttersprache)  
+- Englisch (Fließend)  
+
+---  
+Max Mustermann – Leidenschaftlicher Frontend Developer mit Fokus auf moderne Webtechnologien.

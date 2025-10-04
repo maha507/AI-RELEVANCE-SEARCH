@@ -1,0 +1,59 @@
+**Curriculum Vitae**  
+
+**Nome e Cognome**: Marco Rossi  
+**Contatti**:  
+- Email: marco.rossi@email.com  
+- Telefono: +39 333 1234567  
+- LinkedIn: linkedin.com/in/marcorossi  
+- GitHub: github.com/marcorossi  
+
+---
+
+**Profilo Professionale**  
+Sviluppatore iOS con 5 anni di esperienza nella progettazione e sviluppo di applicazioni mobili di alta qualità. Esperto nell’utilizzo di Swift, Objective-C e framework come UIKit e SwiftUI. Forte capacità di lavorare in team, risolvere problemi complessi e ottimizzare le prestazioni delle applicazioni. Passione per l’innovazione tecnologica e l’user experience.  
+
+---
+
+**Esperienza Professionale**  
+
+**Sviluppatore iOS Senior**  
+*TechInnovate Srl, Milano*  
+*Gennaio 2021 – Presente*  
+- Progettazione e sviluppo di applicazioni iOS utilizzando Swift e SwiftUI.  
+- Implementazione di funzionalità avanzate con CoreData e integrazione con API RESTful.  
+- Ottimizzazione delle prestazioni e risoluzione di bug utilizzando Xcode Instruments.  
+- Collaborazione con il team di design per garantire un’eccellente user experience.  
+- Mentoring di sviluppatori junior e gestione del codice con Git/GitHub.  
+
+**Sviluppatore iOS**  
+*MobileSolutions Srl, Roma*  
+*Giugno 2018 – Dicembre 2020*  
+- Sviluppo di applicazioni iOS con Objective-C e UIKit.  
+- Implementazione di funzionalità di archiviazione dati con CoreData.  
+- Test e debug del codice per garantire la qualità del prodotto finale.  
+- Partecipazione attiva al ciclo di vita completo dello sviluppo, dalla progettazione al rilascio su App Store.  
+
+---
+
+**Competenze Tecniche**  
+- **Linguaggi**: Swift, Objective-C  
+- **Framework**: UIKit, SwiftUI  
+- **Database**: CoreData  
+- **Strumenti**: Xcode, Git/GitHub  
+- **Altro**: Integrazione API RESTful, Test Unitari, Ottimizzazione Prestazioni  
+
+---
+
+**Formazione**  
+**Laurea in Informatica**  
+*Università degli Studi di Roma "La Sapienza", Roma*  
+*2013 – 2016*  
+- Tesi: "Sviluppo di applicazioni mobili per l’Internet of Things (IoT)".  
+
+**Corsi e Certificazioni**  
+- Certificazione Apple "App Development with Swift" (2019)  
+- Corso avanzato su SwiftUI e Combine (2021)  
+
+--- 
+
+Disponibile per colloqui e collaborazioni.

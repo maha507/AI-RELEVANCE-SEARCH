@@ -1,0 +1,54 @@
+**Jean Dupont**  
+[123 Rue de la Technologie, 75001 Paris, France]  
+[jean.dupont@email.com]  
+[+33 6 12 34 56 78]  
+[LinkedIn: linkedin.com/in/jeandupont]  
+[GitHub: github.com/jeandupont]  
+
+---
+
+**Résumé Professionnel**  
+Développeur iOS passionné avec 2 ans d'expérience dans la conception et le développement d'applications mobiles innovantes. Compétent en Swift, Objective-C, et les frameworks modernes comme SwiftUI et UIKit. Expérience avérée dans la gestion de projets complets, de la conception à la mise en production, avec un focus sur la qualité et l'expérience utilisateur.  
+
+---
+
+**Expérience Professionnelle**  
+
+**Développeur iOS**  
+*InnovApp Mobile, Paris*  
+*Janvier 2022 – Présent*  
+- Conçu et développé des applications iOS en utilisant Swift et SwiftUI, améliorant l'expérience utilisateur et augmentant les téléchargements de 25 %.  
+- Intégré des fonctionnalités avancées avec CoreData pour la gestion efficace des données locales.  
+- Collaboré avec l'équipe de design pour implémenter des interfaces utilisateur réactives et esthétiques avec UIKit.  
+- Optimisé les performances des applications existantes, réduisant les temps de chargement de 30 %.  
+
+**Développeur iOS Junior**  
+*TechSolutions SAS, Lyon*  
+*Juin 2021 – Décembre 2021*  
+- Participé au développement d'applications iOS en Objective-C et Swift, en respectant les délais et les normes de qualité.  
+- Utilisé Xcode pour le débogage et l'optimisation du code, assurant une stabilité accrue des applications.  
+- Contribué à la maintenance et à la mise à jour d'applications existantes, corrigeant des bugs et améliorant les fonctionnalités.  
+
+---
+
+**Compétences Techniques**  
+- **Langages** : Swift, Objective-C  
+- **Frameworks** : UIKit, SwiftUI  
+- **Bases de données** : CoreData  
+- **Outils** : Xcode, Git  
+- **Concepts** : Programmation orientée objet, développement réactif, gestion du cycle de vie des applications  
+
+---
+
+**Formation**  
+**Master en Informatique – Spécialisation Développement Mobile**  
+*Université Pierre et Marie Curie, Paris*  
+*2019 – 2021*  
+
+**Licence en Informatique**  
+*Université Claude Bernard Lyon 1, Lyon*  
+*2016 – 2019*  
+
+--- 
+
+*Disponible pour des entretiens dès maintenant.*

@@ -1,0 +1,59 @@
+**Curriculum Vitae**  
+
+**Nombre:** Juan Carlos Ramírez Morales  
+**Contacto:**  
+- Teléfono: +52 33 1234 5678  
+- Correo electrónico: juan.ramirez@email.com  
+- LinkedIn: linkedin.com/in/juanramirez  
+- Ubicación: Guadalajara, Jalisco, México  
+
+---
+
+**Resumen Profesional:**  
+Desarrollador iOS con 6 años de experiencia en el diseño, desarrollo e implementación de aplicaciones móviles de alta calidad. Especializado en Swift y Objective-C, con un enfoque en la creación de interfaces intuitivas y experiencias de usuario excepcionales. Experiencia en el trabajo con equipos multidisciplinarios y en la gestión de proyectos desde la concepción hasta la entrega. Apasionado por la tecnología y el aprendizaje continuo, siempre buscando mejorar mis habilidades y contribuir al éxito de los proyectos.  
+
+---
+
+**Experiencia Laboral:**  
+
+**Desarrollador iOS Senior**  
+*TechInnovate Solutions, Guadalajara, Jalisco*  
+*Enero 2020 – Presente*  
+- Lideré el desarrollo de aplicaciones iOS utilizando Swift, SwiftUI y UIKit, logrando un aumento del 25% en la satisfacción del usuario.  
+- Implementé soluciones de almacenamiento de datos con CoreData, mejorando la eficiencia de las aplicaciones en un 30%.  
+- Colaboré con equipos de diseño y backend para garantizar la integración fluida de funcionalidades.  
+- Realicé pruebas y depuración de código utilizando Xcode, reduciendo los errores en un 20%.  
+
+**Desarrollador iOS**  
+*MobileApps Corp, Ciudad de México, CDMX*  
+*Junio 2017 – Diciembre 2019*  
+- Desarrollé y mantuve aplicaciones iOS utilizando Objective-C y Swift, lanzando 5 aplicaciones exitosas en la App Store.  
+- Optimicé el rendimiento de aplicaciones existentes, mejorando los tiempos de carga en un 15%.  
+- Participé en la revisión de código y mentoría de desarrolladores juniors, fomentando un ambiente de aprendizaje continuo.  
+- Implementé prácticas de desarrollo ágil (Scrum) para mejorar la eficiencia del equipo.  
+
+---
+
+**Habilidades Técnicas:**  
+- **Lenguajes de Programación:** Swift, Objective-C  
+- **Frameworks:** UIKit, SwiftUI  
+- **Bases de Datos:** CoreData  
+- **Herramientas de Desarrollo:** Xcode, Git  
+- **Metodologías:** Desarrollo Ágil (Scrum), Programación Orientada a Objetos  
+
+---
+
+**Formación Académica:**  
+**Ingeniería en Sistemas Computacionales**  
+*Universidad Autónoma de Guadalajara, Guadalajara, Jalisco*  
+*Agosto 2012 – Mayo 2016*  
+- Proyecto de titulación: "Desarrollo de una aplicación móvil para la gestión de tareas personales utilizando Swift".  
+
+--- 
+
+**Idiomas:**  
+- Español: Nativo  
+- Inglés: Avanzado  
+
+---  
+Disponible para entrevistas y reubicación según sea necesario.

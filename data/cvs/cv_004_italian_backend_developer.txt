@@ -1,0 +1,59 @@
+**Curriculum Vitae**  
+
+**Nome e Cognome**: Marco Rossi  
+**Contatti**:  
+- Email: marco.rossi@email.com  
+- Telefono: +39 123 456 7890  
+- LinkedIn: linkedin.com/in/marcorossi  
+- GitHub: github.com/marcorossi  
+
+---
+
+**Profilo Professionale**  
+Sviluppatore Backend con 4 anni di esperienza nella progettazione e implementazione di soluzioni software scalabili e performanti. Competente nella gestione di database relazionali e NoSQL, sviluppo di API RESTful e collaborazione con team multidisciplinari. Passione per la risoluzione di problemi complessi e l’ottimizzazione dei processi.  
+
+---
+
+**Esperienza Professionale**  
+
+**Sviluppatore Backend Senior**  
+*TechSolutions Srl, Milano*  
+*Gennaio 2021 – Presente*  
+- Progettato e sviluppato API RESTful utilizzando **Node.js** e **Python** per supportare applicazioni web e mobile.  
+- Gestito e ottimizzato database **PostgreSQL** e **MongoDB** per migliorare le prestazioni e la scalabilità.  
+- Collaborato con il team frontend per l’integrazione di componenti **React**.  
+- Implementato test automatizzati e garantito la qualità del codice attraverso code review.  
+
+**Sviluppatore Backend Junior**  
+*WebDev Italia, Roma*  
+*Giugno 2019 – Dicembre 2020*  
+- Sviluppato e mantenuto servizi backend utilizzando **Node.js** e **Python**.  
+- Progettato e documentato API RESTful per diverse applicazioni client.  
+- Gestito database **PostgreSQL** per applicazioni enterprise.  
+- Partecipato alla migrazione di sistemi legacy verso architetture moderne.  
+
+---
+
+**Competenze Tecniche**  
+- **Linguaggi di Programmazione**: Node.js, Python  
+- **Database**: PostgreSQL, MongoDB  
+- **API**: REST API  
+- **Frontend (base)**: React  
+- **Strumenti**: Git, Docker, Postman  
+
+---
+
+**Formazione**  
+**Laurea in Informatica**  
+*Università degli Studi di Roma "La Sapienza"*, Roma  
+*2015 – 2018*  
+- Tesi: "Sviluppo di un sistema di gestione dati distribuito utilizzando tecnologie NoSQL".  
+
+**Diploma di Scuola Superiore**  
+*Istituto Tecnico Industriale "Enrico Fermi"*, Roma  
+*2010 – 2015*  
+- Specializzazione in Informatica e Telecomunicazioni.  
+
+--- 
+
+Disponibile per colloqui e ulteriori informazioni.

@@ -1,0 +1,58 @@
+**Curriculum Vitae**  
+
+**Nombre:** Juan Carlos Ramírez Morales  
+**Contacto:**  
+- Correo electrónico: juan.ramirez@email.com  
+- Teléfono: +52 33 1234 5678  
+- LinkedIn: linkedin.com/in/juanramirez  
+- Ubicación: Ciudad de México, México  
+
+---
+
+**Resumen Profesional:**  
+Ingeniero DevOps con más de 5 años de experiencia en el diseño, implementación y optimización de infraestructuras en la nube y procesos de integración y entrega continua (CI/CD). Especializado en la automatización de entornos con Docker, Kubernetes, AWS y Terraform. Experto en mejorar la eficiencia operativa y reducir tiempos de entrega, colaborando estrechamente con equipos de desarrollo y operaciones para garantizar la escalabilidad y confiabilidad de los sistemas.  
+
+---
+
+**Experiencia Laboral:**  
+
+**Ingeniero DevOps Senior**  
+*TechSolutions México, S.A. de C.V.*  
+*Enero 2021 – Presente*  
+- Diseñé e implementé arquitecturas en AWS utilizando Terraform para la gestión de infraestructura como código (IaC).  
+- Automaticé pipelines de CI/CD con Jenkins y GitLab CI, reduciendo el tiempo de despliegue en un 40%.  
+- Gestioné clústeres de Kubernetes para la orquestación de contenedores, mejorando la escalabilidad de aplicaciones críticas.  
+- Monitoreé y optimicé el rendimiento de sistemas utilizando herramientas como Prometheus y Grafana.  
+
+**Ingeniero DevOps**  
+*InnovateTech, S.A. de C.V.*  
+*Junio 2018 – Diciembre 2020*  
+- Implementé y mantuve entornos de contenedores con Docker, estandarizando los procesos de desarrollo y despliegue.  
+- Colaboré en la migración de aplicaciones on-premise a AWS, utilizando servicios como EC2, S3 y RDS.  
+- Desarrollé scripts de automatización en Bash y Python para tareas repetitivas, aumentando la eficiencia del equipo.  
+- Participé en la implementación de prácticas de DevOps, fomentando una cultura de colaboración entre equipos.  
+
+---
+
+**Habilidades Técnicas:**  
+- **Contenedores y Orquestación:** Docker, Kubernetes  
+- **Nube:** AWS (EC2, S3, RDS, Lambda, CloudFormation)  
+- **Automatización e IaC:** Terraform, Ansible  
+- **CI/CD:** Jenkins, GitLab CI, CircleCI  
+- **Monitoreo:** Prometheus, Grafana, ELK Stack  
+- **Lenguajes de Programación:** Python, Bash  
+- **Control de Versiones:** Git  
+
+---
+
+**Formación Académica:**  
+**Ingeniero en Sistemas Computacionales**  
+*Universidad Nacional Autónoma de México (UNAM)*  
+*2013 – 2017*  
+
+**Certificaciones:**  
+- AWS Certified DevOps Engineer – Professional (2021)  
+- Certified Kubernetes Administrator (CKA) – 2020  
+
+---  
+Disponible para reubicación y trabajo remoto.
