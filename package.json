@@ -9,13 +9,17 @@
     "lint": "eslint",
     "generate-cvs": "tsx scripts/generateCVs.ts",
     "generate-embeddings": "tsx scripts/generateEmbeddings.ts",
+    "generate-embeddings-openai": "tsx scripts/generateEmbeddingsOpenAI.ts",
+    "generate-embeddings-hf": "tsx scripts/generateEmbeddingsHuggingFace.ts",
     "test-search": "tsx scripts/testSearch.ts",
     "setup": "npm run generate-cvs && npm run generate-embeddings"
   },
   "dependencies": {
+    "@huggingface/inference": "^4.11.0",
     "cohere-ai": "^7.19.0",
     "dotenv": "^17.2.3",
     "next": "15.5.4",
+    "openai": "^6.1.0",
     "react": "19.1.0",
     "react-dom": "19.1.0"
   },
