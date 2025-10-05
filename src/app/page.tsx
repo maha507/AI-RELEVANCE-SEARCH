@@ -18,7 +18,7 @@ interface Stats {
   provider?: string;
 }
 
-type Provider = 'cohere' | 'openai' | 'huggingface';
+type Provider = 'cohere' | 'gemini' | 'huggingface' | 'qdrant';
 
 export default function Home() {
   const [activeProvider, setActiveProvider] = useState<Provider>('cohere');
@@ -27,30 +27,38 @@ export default function Home() {
   const [loading, setLoading] = useState(false);
   const [stats, setStats] = useState<{
     cohere: Stats | null;
-    openai: Stats | null;
+    gemini: Stats | null;
     huggingface: Stats | null;
+    qdrant: Stats | null;
   }>({
     cohere: null,
-    openai: null,
+    gemini: null,
     huggingface: null,
+    qdrant: null,
   });
   const [selectedCV, setSelectedCV] = useState<SearchResult | null>(null);
 
   const fetchStats = async () => {
     try {
-      const cohereRes = await fetch('/api/stats');
-      const cohereData = await cohereRes.json();
+      const [cohereRes, geminiRes, hfRes, qdrantRes] = await Promise.all([
+        fetch('/api/stats'),
+        fetch('/api/stats-gemini'),
+        fetch('/api/stats-hf'),
+        fetch('/api/stats-qdrant'),
+      ]);
 
-      const openaiRes = await fetch('/api/stats-openai');
-      const openaiData = await openaiRes.json();
-
-      const hfRes = await fetch('/api/stats-hf');
-      const hfData = await hfRes.json();
+      const [cohereData, geminiData, hfData, qdrantData] = await Promise.all([
+        cohereRes.json(),
+        geminiRes.json(),
+        hfRes.json(),
+        qdrantRes.json(),
+      ]);
 
       setStats({
         cohere: cohereData,
-        openai: openaiData,
+        gemini: geminiData,
         huggingface: hfData,
+        qdrant: qdrantData,
       });
     } catch (error) {
       console.error('Error fetching stats:', error);
@@ -65,11 +73,14 @@ export default function Home() {
     setResults([]);
 
     try {
-      let endpoint = '/api/search';
-      if (activeProvider === 'openai') endpoint = '/api/search-openai';
-      if (activeProvider === 'huggingface') endpoint = '/api/search-hf';
+      const endpoints: Record<Provider, string> = {
+        cohere: '/api/search',
+        gemini: '/api/search-gemini',
+        huggingface: '/api/search-hf',
+        qdrant: '/api/search-qdrant',
+      };
 
-      const res = await fetch(`${endpoint}?q=${encodeURIComponent(query)}&limit=10`);
+      const res = await fetch(`${endpoints[activeProvider]}?q=${encodeURIComponent(query)}&limit=10`);
       const data = await res.json();
 
       if (data.error) {
@@ -91,34 +102,40 @@ export default function Home() {
 
   const providerConfig = {
     cohere: {
-      color: 'coral',
       gradient: 'from-red-500 to-orange-600',
       bgLight: 'bg-red-50',
       textDark: 'text-red-700',
-      border: 'border-red-300',
       icon: '🧠',
       name: 'Cohere',
-      model: 'embed-english-v3.0'
+      model: 'embed-english-v3.0',
+      badge: 'API'
     },
-    openai: {
-      color: 'green',
+    gemini: {
       gradient: 'from-green-500 to-emerald-600',
       bgLight: 'bg-green-50',
       textDark: 'text-green-700',
-      border: 'border-green-300',
       icon: '🤖',
-      name: 'OpenAI',
-      model: 'text-embedding-3-small'
+      name: 'Gemini',
+      model: 'text-embedding-3-small',
+      badge: 'Paid'
     },
     huggingface: {
-      color: 'yellow',
       gradient: 'from-yellow-500 to-amber-600',
       bgLight: 'bg-yellow-50',
       textDark: 'text-yellow-800',
-      border: 'border-yellow-400',
       icon: '🤗',
       name: 'HuggingFace',
-      model: 'all-MiniLM-L6-v2'
+      model: 'all-MiniLM-L6-v2',
+      badge: 'Free'
+    },
+    qdrant: {
+      gradient: 'from-purple-500 to-pink-600',
+      bgLight: 'bg-purple-50',
+      textDark: 'text-purple-700',
+      icon: '💾',
+      name: 'Qdrant + Ollama',
+      model: 'nomic-embed-text (Local)',
+      badge: 'Local'
     }
   };
 
@@ -127,7 +144,6 @@ export default function Home() {
   return (
       <div className="min-h-screen bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 p-8">
         <div className="max-w-7xl mx-auto">
-          {/* Header */}
           <header className="text-center mb-8">
             <div className="flex items-center justify-center gap-3 mb-4">
               <span className="text-6xl">🔍</span>
@@ -136,49 +152,50 @@ export default function Home() {
               </h1>
             </div>
             <p className="text-xl text-gray-700 font-medium mb-6">
-              Compare Cohere vs OpenAI vs HuggingFace semantic search
+              Compare 4 embedding providers: Cohere, Gemini, HuggingFace, Qdrant+Ollama
             </p>
 
             {/* Provider Tabs */}
             <div className="flex justify-center gap-3 mb-6 flex-wrap">
               <button
-                  onClick={() => {
-                    setActiveProvider('cohere');
-                    setResults([]);
-                  }}
-                  className={`px-6 py-3 rounded-xl font-bold text-base transition-all duration-200 ${
+                  onClick={() => { setActiveProvider('cohere'); setResults([]); }}
+                  className={`px-6 py-3 rounded-xl font-bold text-sm transition-all duration-200 ${
                       activeProvider === 'cohere'
                           ? 'bg-gradient-to-r from-red-500 to-orange-600 text-white shadow-lg scale-105'
                           : 'bg-white text-gray-700 border-2 border-gray-300 hover:border-red-400'
                   }`}
               >
-                🧠 Cohere
+                🧠 Cohere <span className="text-xs">(API)</span>
               </button>
               <button
-                  onClick={() => {
-                    setActiveProvider('openai');
-                    setResults([]);
-                  }}
-                  className={`px-6 py-3 rounded-xl font-bold text-base transition-all duration-200 ${
-                      activeProvider === 'openai'
+                  onClick={() => { setActiveProvider('gemini'); setResults([]); }}
+                  className={`px-6 py-3 rounded-xl font-bold text-sm transition-all duration-200 ${
+                      activeProvider === 'gemini'
                           ? 'bg-gradient-to-r from-green-500 to-emerald-600 text-white shadow-lg scale-105'
                           : 'bg-white text-gray-700 border-2 border-gray-300 hover:border-green-400'
                   }`}
               >
-                🤖 OpenAI (Paid)
+                🤖 Gemini <span className="text-xs">(Paid)</span>
               </button>
               <button
-                  onClick={() => {
-                    setActiveProvider('huggingface');
-                    setResults([]);
-                  }}
-                  className={`px-6 py-3 rounded-xl font-bold text-base transition-all duration-200 ${
+                  onClick={() => { setActiveProvider('huggingface'); setResults([]); }}
+                  className={`px-6 py-3 rounded-xl font-bold text-sm transition-all duration-200 ${
                       activeProvider === 'huggingface'
                           ? 'bg-gradient-to-r from-yellow-500 to-amber-600 text-white shadow-lg scale-105'
                           : 'bg-white text-gray-700 border-2 border-gray-300 hover:border-yellow-400'
                   }`}
               >
-                🤗 HuggingFace (Free)
+                🤗 HuggingFace <span className="text-xs">(Free)</span>
+              </button>
+              <button
+                  onClick={() => { setActiveProvider('qdrant'); setResults([]); }}
+                  className={`px-6 py-3 rounded-xl font-bold text-sm transition-all duration-200 ${
+                      activeProvider === 'qdrant'
+                          ? 'bg-gradient-to-r from-purple-500 to-pink-600 text-white shadow-lg scale-105'
+                          : 'bg-white text-gray-700 border-2 border-gray-300 hover:border-purple-400'
+                  }`}
+              >
+                💾 Qdrant+Ollama <span className="text-xs">(Local)</span>
               </button>
             </div>
 
@@ -192,7 +209,7 @@ export default function Home() {
             {currentStats && (
                 <div className="mt-4 inline-block bg-white rounded-xl shadow-lg p-6 border-2 border-indigo-100">
                   <p className="text-lg text-gray-800 font-semibold">
-                <span className={`${config.textDark}`}>
+                <span className={config.textDark}>
                   {config.name}:
                 </span>
                     {' '}
@@ -300,11 +317,6 @@ export default function Home() {
                 <p className="text-gray-600">
                   Try a different search term or generate {config.name} embeddings first
                 </p>
-                {activeProvider === 'huggingface' && (
-                    <p className="mt-4 text-sm text-gray-500">
-                      Run: <code className="bg-gray-100 px-2 py-1 rounded">npm run generate-embeddings-hf</code>
-                    </p>
-                )}
               </div>
           )}
 

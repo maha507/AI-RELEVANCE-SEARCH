@@ -1,9 +1,9 @@
 import { NextResponse } from 'next/server';
-import { getStatsOpenAI } from '@/lib/searchOpenAI';
+import { getStatsQdrant } from '@/lib/searchQdrant';
 
 export async function GET() {
     try {
-        const stats = getStatsOpenAI();
+        const stats = await getStatsQdrant();
         return NextResponse.json(stats);
     } catch (error) {
         console.error('Stats error:', error);

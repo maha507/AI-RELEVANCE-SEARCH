@@ -1,8 +1,8 @@
 import fs from 'fs';
 import path from 'path';
-import { cosineSimilarity, generateQueryEmbeddingOpenAI } from './embeddingsOpenAI';
+import { cosineSimilarity, generateQueryEmbeddingGemini } from './embeddingsGemini';
 
-export interface CVDataOpenAI {
+export interface CVDataGemini {
     id: string;
     filename: string;
     content: string;
@@ -19,25 +19,23 @@ export interface SearchResult {
     preview: string;
 }
 
-export async function searchCVsOpenAI(
+export async function searchCVsGemini(
     query: string,
     topK: number = 5
 ): Promise<SearchResult[]> {
-    const embeddingsDir = path.join(process.cwd(), 'data', 'embeddings-openai');
+    const embeddingsDir = path.join(process.cwd(), 'data', 'embeddings-gemini');
 
     if (!fs.existsSync(embeddingsDir)) {
         return [];
     }
 
-    const queryEmbedding = await generateQueryEmbeddingOpenAI(query);
-
+    const queryEmbedding = await generateQueryEmbeddingGemini(query);
     const files = fs.readdirSync(embeddingsDir).filter(f => f.endsWith('.json'));
-
     const results: SearchResult[] = [];
 
     for (const file of files) {
         const filePath = path.join(embeddingsDir, file);
-        const data: CVDataOpenAI = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+        const data: CVDataGemini = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
 
         const similarity = cosineSimilarity(queryEmbedding, data.embedding);
 
@@ -51,20 +49,14 @@ export async function searchCVsOpenAI(
         });
     }
 
-    return results
-        .sort((a, b) => b.similarity - a.similarity)
-        .slice(0, topK);
+    return results.sort((a, b) => b.similarity - a.similarity).slice(0, topK);
 }
 
-export function getStatsOpenAI() {
-    const embeddingsDir = path.join(process.cwd(), 'data', 'embeddings-openai');
-
+export function getStatsGemini() {
+    const embeddingsDir = path.join(process.cwd(), 'data', 'embeddings-gemini');
     const totalEmbeddings = fs.existsSync(embeddingsDir)
         ? fs.readdirSync(embeddingsDir).filter(f => f.endsWith('.json')).length
         : 0;
 
-    return {
-        totalEmbeddings,
-        provider: 'OpenAI',
-    };
+    return { totalEmbeddings, provider: 'Google Gemini' };
 }

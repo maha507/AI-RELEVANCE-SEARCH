@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { searchCVsOpenAI } from '@/lib/searchOpenAI';
+import { searchCVsQdrant } from '@/lib/searchQdrant';
 
 export async function GET(request: NextRequest) {
     const searchParams = request.nextUrl.searchParams;
@@ -14,12 +14,17 @@ export async function GET(request: NextRequest) {
     }
 
     try {
-        const results = await searchCVsOpenAI(query, limit);
-        return NextResponse.json({ results, query, count: results.length, provider: 'OpenAI' });
+        const results = await searchCVsQdrant(query, limit);
+        return NextResponse.json({
+            results,
+            query,
+            count: results.length,
+            provider: 'Qdrant + Ollama'
+        });
     } catch (error) {
-        console.error('OpenAI Search error:', error);
+        console.error('Qdrant Search error:', error);
         return NextResponse.json(
-            { error: 'Search failed' },
+            { error: 'Search failed. Make sure Ollama and Qdrant are running.' },
             { status: 500 }
         );
     }
