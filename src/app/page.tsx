@@ -9,6 +9,8 @@ interface SearchResult {
   similarity: number;
   language: string;
   preview: string;
+  rerankScore?: number;
+  embeddingScore?: number;
 }
 
 interface Stats {
@@ -16,9 +18,11 @@ interface Stats {
   totalEmbeddings: number;
   indexed?: boolean;
   provider?: string;
+  stage1?: string;
+  stage2?: string;
 }
 
-type Provider = 'cohere' | 'gemini' | 'huggingface' | 'qdrant';
+type Provider = 'cohere' | 'gemini' | 'huggingface' | 'qdrant' | 'hybrid';
 
 export default function Home() {
   const [activeProvider, setActiveProvider] = useState<Provider>('cohere');
@@ -30,28 +34,32 @@ export default function Home() {
     gemini: Stats | null;
     huggingface: Stats | null;
     qdrant: Stats | null;
+    hybrid: Stats | null;
   }>({
     cohere: null,
     gemini: null,
     huggingface: null,
     qdrant: null,
+    hybrid: null,
   });
   const [selectedCV, setSelectedCV] = useState<SearchResult | null>(null);
 
   const fetchStats = async () => {
     try {
-      const [cohereRes, geminiRes, hfRes, qdrantRes] = await Promise.all([
+      const [cohereRes, geminiRes, hfRes, qdrantRes, hybridRes] = await Promise.all([
         fetch('/api/stats'),
         fetch('/api/stats-gemini'),
         fetch('/api/stats-hf'),
         fetch('/api/stats-qdrant'),
+        fetch('/api/stats-hybrid'),
       ]);
 
-      const [cohereData, geminiData, hfData, qdrantData] = await Promise.all([
+      const [cohereData, geminiData, hfData, qdrantData, hybridData] = await Promise.all([
         cohereRes.json(),
         geminiRes.json(),
         hfRes.json(),
         qdrantRes.json(),
+        hybridRes.json(),
       ]);
 
       setStats({
@@ -59,6 +67,7 @@ export default function Home() {
         gemini: geminiData,
         huggingface: hfData,
         qdrant: qdrantData,
+        hybrid: hybridData,
       });
     } catch (error) {
       console.error('Error fetching stats:', error);
@@ -78,6 +87,7 @@ export default function Home() {
         gemini: '/api/search-gemini',
         huggingface: '/api/search-hf',
         qdrant: '/api/search-qdrant',
+        hybrid: '/api/search-hybrid',
       };
 
       const res = await fetch(`${endpoints[activeProvider]}?q=${encodeURIComponent(query)}&limit=10`);
@@ -114,10 +124,10 @@ export default function Home() {
       gradient: 'from-green-500 to-emerald-600',
       bgLight: 'bg-green-50',
       textDark: 'text-green-700',
-      icon: '🤖',
-      name: 'Gemini',
-      model: 'text-embedding-3-small',
-      badge: 'Paid'
+      icon: '✨',
+      name: 'Google Gemini',
+      model: 'text-embedding-004',
+      badge: 'Free'
     },
     huggingface: {
       gradient: 'from-yellow-500 to-amber-600',
@@ -136,6 +146,15 @@ export default function Home() {
       name: 'Qdrant + Ollama',
       model: 'nomic-embed-text (Local)',
       badge: 'Local'
+    },
+    hybrid: {
+      gradient: 'from-blue-500 to-cyan-600',
+      bgLight: 'bg-blue-50',
+      textDark: 'text-blue-700',
+      icon: '⚡',
+      name: 'Hybrid 2-Stage',
+      model: 'HuggingFace + Cohere Rerank',
+      badge: '2-Stage'
     }
   };
 
@@ -144,6 +163,7 @@ export default function Home() {
   return (
       <div className="min-h-screen bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 p-8">
         <div className="max-w-7xl mx-auto">
+          {/* Header */}
           <header className="text-center mb-8">
             <div className="flex items-center justify-center gap-3 mb-4">
               <span className="text-6xl">🔍</span>
@@ -152,50 +172,60 @@ export default function Home() {
               </h1>
             </div>
             <p className="text-xl text-gray-700 font-medium mb-6">
-              Compare 4 embedding providers: Cohere, Gemini, HuggingFace, Qdrant+Ollama
+              Compare 5 embedding approaches: API-based, Local, and Hybrid 2-Stage Retrieval
             </p>
 
             {/* Provider Tabs */}
-            <div className="flex justify-center gap-3 mb-6 flex-wrap">
+            <div className="flex justify-center gap-2 mb-6 flex-wrap">
               <button
                   onClick={() => { setActiveProvider('cohere'); setResults([]); }}
-                  className={`px-6 py-3 rounded-xl font-bold text-sm transition-all duration-200 ${
+                  className={`px-5 py-3 rounded-xl font-bold text-sm transition-all duration-200 ${
                       activeProvider === 'cohere'
                           ? 'bg-gradient-to-r from-red-500 to-orange-600 text-white shadow-lg scale-105'
                           : 'bg-white text-gray-700 border-2 border-gray-300 hover:border-red-400'
                   }`}
               >
-                🧠 Cohere <span className="text-xs">(API)</span>
+                🧠 Cohere
               </button>
               <button
                   onClick={() => { setActiveProvider('gemini'); setResults([]); }}
-                  className={`px-6 py-3 rounded-xl font-bold text-sm transition-all duration-200 ${
+                  className={`px-5 py-3 rounded-xl font-bold text-sm transition-all duration-200 ${
                       activeProvider === 'gemini'
                           ? 'bg-gradient-to-r from-green-500 to-emerald-600 text-white shadow-lg scale-105'
                           : 'bg-white text-gray-700 border-2 border-gray-300 hover:border-green-400'
                   }`}
               >
-                🤖 Gemini <span className="text-xs">(Paid)</span>
+                ✨ Gemini
               </button>
               <button
                   onClick={() => { setActiveProvider('huggingface'); setResults([]); }}
-                  className={`px-6 py-3 rounded-xl font-bold text-sm transition-all duration-200 ${
+                  className={`px-5 py-3 rounded-xl font-bold text-sm transition-all duration-200 ${
                       activeProvider === 'huggingface'
                           ? 'bg-gradient-to-r from-yellow-500 to-amber-600 text-white shadow-lg scale-105'
                           : 'bg-white text-gray-700 border-2 border-gray-300 hover:border-yellow-400'
                   }`}
               >
-                🤗 HuggingFace <span className="text-xs">(Free)</span>
+                🤗 HuggingFace
               </button>
               <button
                   onClick={() => { setActiveProvider('qdrant'); setResults([]); }}
-                  className={`px-6 py-3 rounded-xl font-bold text-sm transition-all duration-200 ${
+                  className={`px-5 py-3 rounded-xl font-bold text-sm transition-all duration-200 ${
                       activeProvider === 'qdrant'
                           ? 'bg-gradient-to-r from-purple-500 to-pink-600 text-white shadow-lg scale-105'
                           : 'bg-white text-gray-700 border-2 border-gray-300 hover:border-purple-400'
                   }`}
               >
-                💾 Qdrant+Ollama <span className="text-xs">(Local)</span>
+                💾 Qdrant+Ollama
+              </button>
+              <button
+                  onClick={() => { setActiveProvider('hybrid'); setResults([]); }}
+                  className={`px-5 py-3 rounded-xl font-bold text-sm transition-all duration-200 ${
+                      activeProvider === 'hybrid'
+                          ? 'bg-gradient-to-r from-blue-500 to-cyan-600 text-white shadow-lg scale-105'
+                          : 'bg-white text-gray-700 border-2 border-gray-300 hover:border-blue-400'
+                  }`}
+              >
+                ⚡ Hybrid (2-Stage)
               </button>
             </div>
 
@@ -220,6 +250,11 @@ export default function Home() {
                   </span>
                     )}
                   </p>
+                  {currentStats.stage1 && currentStats.stage2 && (
+                      <p className="text-sm text-gray-600 mt-2">
+                        Stage 1: {currentStats.stage1} → Stage 2: {currentStats.stage2}
+                      </p>
+                  )}
                 </div>
             )}
           </header>
@@ -284,13 +319,18 @@ export default function Home() {
                           <h3 className="text-xl font-bold text-gray-900 mb-2">
                             #{index + 1} - {result.filename}
                           </h3>
-                          <div className="flex gap-4 text-sm">
+                          <div className="flex gap-4 text-sm flex-wrap">
                       <span className="px-3 py-1 bg-blue-100 text-blue-800 font-semibold rounded-full">
                         {result.language}
                       </span>
                             <span className={`px-3 py-1 font-semibold rounded-full ${config.bgLight} ${config.textDark}`}>
                         {(result.similarity * 100).toFixed(1)}% match
                       </span>
+                            {result.rerankScore && (
+                                <span className="px-3 py-1 bg-purple-100 text-purple-800 font-semibold rounded-full text-xs">
+                          Reranked: {(result.rerankScore * 100).toFixed(1)}%
+                        </span>
+                            )}
                           </div>
                         </div>
                         <div className="text-right ml-4">
@@ -335,13 +375,18 @@ export default function Home() {
                       <h2 className="text-3xl font-bold text-gray-900 mb-2">
                         {selectedCV.filename}
                       </h2>
-                      <div className="flex gap-3">
+                      <div className="flex gap-3 flex-wrap">
                     <span className="px-4 py-2 bg-blue-100 text-blue-800 font-semibold rounded-lg">
                       {selectedCV.language}
                     </span>
                         <span className={`px-4 py-2 font-semibold rounded-lg ${config.bgLight} ${config.textDark}`}>
                       {(selectedCV.similarity * 100).toFixed(1)}% match ({config.name})
                     </span>
+                        {selectedCV.rerankScore && (
+                            <span className="px-4 py-2 bg-purple-100 text-purple-800 font-semibold rounded-lg">
+                        Reranked: {(selectedCV.rerankScore * 100).toFixed(1)}%
+                      </span>
+                        )}
                       </div>
                     </div>
                     <button
